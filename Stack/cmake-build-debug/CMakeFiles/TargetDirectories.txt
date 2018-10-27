@@ -1,0 +1,3 @@
+/Users/jonmichaelossola/Desktop/Code Assignments/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonmichaelossola/Desktop/Code Assignments/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonmichaelossola/Desktop/Code Assignments/Stack/cmake-build-debug/CMakeFiles/Stack.dir

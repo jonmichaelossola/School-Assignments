@@ -1,0 +1,3 @@
+/Users/jonmichaelossola/Desktop/Xcode/Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonmichaelossola/Desktop/Xcode/Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonmichaelossola/Desktop/Xcode/Vector/cmake-build-debug/CMakeFiles/Vector.dir

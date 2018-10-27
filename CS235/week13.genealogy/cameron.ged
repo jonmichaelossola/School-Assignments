@@ -1,0 +1,7455 @@
+0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 4.0.4.18
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+1 DEST PAF
+1 DATE 9 APR 2001
+2 TIME 15:36:20
+1 FILE cameron.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSEL
+1 LANG English
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME Greg Cameron
+1 ADDR 1609 W. 930 S.
+2 CONT Rexburg, Idaho
+2 CONT 83440
+1 CTRY USA
+1 PHON 208-359-2441
+1 _EMAIL glcamer@yahoo.com
+0 @I1@ INDI
+1 NAME Gregory Lawrence /Cameron/
+2 GIVN Gregory Lawrence
+2 SURN Cameron
+1 SEX M
+1 BIRT
+2 DATE 8 NOV 1963
+2 PLAC Tacoma,Pierce,Washington
+1 REFN 1
+1 BAPL
+2 DATE 22 MAR 1980
+2 PLAC Tacoma,Pierce,Washington
+1 ENDL
+2 DATE 30 OCT 1982
+2 TEMP SEATT
+1 FAMC @F1@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Personal Interviews and Records
+2 CONT    Greg Cameron, Larry Cameron, Bonnie (Downen) Cameron
+2 CONT    Lists birth as 8 Nov 1963 in Tacoma, Pierce, Washington
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Personal Interviews and Records
+2 CONT    Greg Cameron, Larry Cameron, Bonnie (Downen) Cameron
+2 CONT    Lists marriage as 25 May 1985 in Idaho Falls, Bonneville, Idaho
+2 CONT 
+2 CONT - Personal Interviews and Records
+2 CONT   Marriage for time only in Las Vegas Temple 6 Aug 1999
+2 CONT 
+2 CONT *Lived in Tacoma, Wa for 17 years - 9918 E Tyler
+2 CONT *Worked for his father as a logger all his life
+2 CONT *Joined Church while in high school-aged 16-Mar 22, 1980
+2 CONT *Graduate of Franklin Pierce High School-June 1982
+2 CONT *Served Mission in Scotland from Nov 1982-May 1984
+2 CONT *Attended Ricks College from Sept 1984-Apr 1986.  Major Mathematics
+2 CONT *Met 1st wife at Ricks
+2 CONT *Attended Utah State University from Sept 1986 to June 1988.  Major Mathematics
+2 CONT *Moved to Maryland July 1988 to work at the National Security Agency as a Mathematician.  Liv
+2 CONC ed in Severn, Maryland
+2 CONT *Moved to Columbia, Maryland July 1990
+2 CONT *Moved to Rexburg, Idaho July 1993
+2 CONT *Taught Math/Computer Science at Ricks College from 1993 - present
+2 CONT *Met second wife over internet Feb 1999
+1 CHAN
+2 DATE 1 DEC 1999
+3 TIME 00:00:00
+0 @I2@ INDI
+1 NAME Lawrence Clyde /Cameron/
+2 GIVN Lawrence Clyde
+2 SURN Cameron
+1 SEX M
+1 BIRT
+2 DATE 22 DEC 1941
+2 PLAC Port Angles,Clallam,Washington
+1 REFN 2
+1 FAMS @F1@
+1 FAMC @F2@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Personal Interviews
+2 CONT    Larry Cameron
+2 CONT    Lists birth as 22 Dec 1941 in Port Angeles, Clallam, Washington
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Personal Interviews
+2 CONT    Larry Cameron
+2 CONT    Lists marriages 1) 22 Jun 1963, Port Angeles to Bonnie L. Downen
+2 CONT                    2) 24 May 1981, Port Angeles to Linda Gaxiola
+2 CONT 
+2 CONT *Lived in Port Angles, Wa for 22 years
+2 CONT *Worked on fathers farm while in his youth
+2 CONT *Graduate of Port Angles High School in 1959
+2 CONT *Served in the navy from 1959-1962 in submarines
+2 CONT *Moved to Tacoma in l963
+2 CONT *Worked at U.S. Oil and Refinery for 6 years
+2 CONT *Sarted Logging business with Army Mueller - 1968
+2 CONT *Worked as Logger since 1968
+2 CONT *Divorced in Nov. l980
+2 CONT *Moved out to Graham in l981
+2 CONT *Semi-retired from logging Sept 1990
+2 CONT *Adopted April and Autumn (Linda's children)
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I3@ INDI
+1 NAME Bonnie Lorraine /Downen/
+2 GIVN Bonnie Lorraine
+2 SURN Downen
+1 SEX F
+1 BIRT
+2 DATE 28 MAR 1945
+2 PLAC Snowqualmie Fall,King,Washington
+1 REFN 3
+1 BAPL
+2 DATE 29 MAR 1982
+2 TEMP LV
+1 ENDL
+2 DATE 30 MAR 1983
+2 TEMP SE
+1 FAMS @F1@
+1 FAMC @F3@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Family
+2 CONT    Lists birth as 28 Mar 1945
+2 CONT    (See Marsh Family)
+2 CONT 
+2 CONT  - Personal Interviews
+2 CONT    Bonnie Downen
+2 CONT    Gives birth as 28 Mar 1945 in Snowqualmie Falls, Washington
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Family
+2 CONT    Lists 1st marriage as 22 Jun 1963
+2 CONT    (See Marsh Family)
+2 CONT 
+2 CONT  - Personal Interviews
+2 CONT    Bonnie Downen
+2 CONT    Lists 2nd marriage to LeRoy Robbins on 28 May 1982 in Tacoma, Washington
+2 CONT    (See Cameron Family)
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I4@ INDI
+1 NAME Paul Roland /Cameron/
+2 GIVN Paul Roland
+2 SURN Cameron
+1 SEX M
+1 BIRT
+2 DATE 2 JUL 1908
+2 PLAC Blue Mountain,Clallam,Washington
+1 DEAT
+2 DATE 11 JUL 1998
+2 PLAC Port Angeles,Clallam,Washington
+1 BURI
+2 DATE 16 JUL 1998
+2 PLAC Port Angeles,Clallam,Washington
+1 REFN 4
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F2@
+1 FAMC @F4@
+1 SLGC
+2 FAMC @F4@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Personal Interviews
+2 CONT    Larry Cameron, Paul R. Cameron
+2 CONT    Gives birth as 2 Jul 1908 (original middle name was Revere not Roland)
+2 CONT 
+2 CONT ! - 1910 Census Clallam County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF #1,375,677
+2 CONT    Lists age as 2 (1908)
+2 CONT 
+2 CONT ! - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF #1,321,311 item 1 pages 317-319
+2 CONT    Lists birth as 2 Jul 1908
+2 CONT 
+2 CONT ! - Family Bible, Births
+2 CONT    Photocopy of Original
+2 CONT    Lists birth as 2 Jul 1908
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Certificate
+2 CONT    Clallam County Courthouse
+2 CONT    Bk 5, page 30, No. 2883, copy of original
+2 CONT    Marriage listed as 2 Jul 1934 in Port Angeles, Washington
+2 CONT 
+2 CONT ! - Personal Interviews
+2 CONT    Larry Cameron, Paul Cameron
+2 CONT    Gives marriage as 2 Jul 1934 in Port Angeles, Washington
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I5@ INDI
+1 NAME Margret Fern /Simdars/
+2 GIVN Margret Fern
+2 SURN Simdars
+1 SEX F
+1 BIRT
+2 DATE 7 DEC 1911
+2 PLAC Sequim,Clallam,Washington
+1 DEAT
+2 DATE 13 NOV 1998
+2 PLAC Port Angeles,Clallam,Washington
+1 BURI
+2 DATE 16 NOV 1998
+2 PLAC Port Angeles,Clallam,Washington
+1 REFN 5
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F2@
+1 FAMC @F5@
+1 SLGC
+2 FAMC @F5@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists birth as 1911
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT ! - Personal Interview
+2 CONT    Gives birth as 7 Dec 1911 in Sequim, Washington
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT *According to Marriage Licence and return, she was previous divorced
+2 CONT  before marrying Paul Cameron.
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I6@ INDI
+1 NAME Rodney Edward /Downen/
+2 GIVN Rodney Edward
+2 SURN Downen
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1917
+2 PLAC Asotin,Asotin,Washington
+1 REFN 6
+1 FAMS @F3@
+1 FAMC @F6@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Delayed Birth Registration
+2 CONT    Washington State Bureau of Vital Stats.
+2 CONT    Certificate #10741
+2 CONT    Lists birth as 10 Nov 1917 in Asotin, Washington
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Family
+2 CONT    Gives marriage as 25 Jul 1941 in Trout Lake, Washington
+2 CONT    See Marsh Family
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I7@ INDI
+1 NAME Mildred Claire /Marsh/
+2 GIVN Mildred Claire
+2 SURN Marsh
+1 SEX F
+1 BIRT
+2 DATE 10 DEC 1919
+2 PLAC Endicott,Whitman,Washington
+1 REFN 7
+1 FAMS @F7@
+1 FAMC @F8@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Family
+2 CONT    Lists birth as 10 Dec 1919
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I8@ INDI
+1 NAME Amos Benson /Cameron/
+2 GIVN Amos Benson
+2 SURN Cameron
+1 SEX M
+1 BIRT
+2 DATE 4 AUG 1872
+2 PLAC Indiana County,Pennsylvania
+1 DEAT
+2 DATE 2 JAN 1951
+2 PLAC Forks,Clallam,Washington
+1 BURI
+2 DATE 8 JAN 1951
+2 PLAC Dungeness Cemt,Sequim,Clallam,Washington
+1 REFN 8
+1 BAPL
+2 DATE 23 MAY 1985
+2 TEMP IFALL
+1 ENDL
+2 DATE 25 MAY 1985
+2 TEMP IFALL
+1 FAMS @F4@
+1 FAMC @F10@
+1 SLGC
+2 FAMC @F10@
+2 DATE 19 JUL 1985
+2 TEMP IFALL
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershng
+2 CONT    LDS Family History Library
+2 CONT    MF #1,321,311 item 1, pages 317-319
+2 CONT    Birth listed as 4 Aug 1872
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Dungeness Cemetery, Sequim, Washington
+2 CONT    Copied inscription
+2 CONT    Birth listed as 1872
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF #
+2 CONT    Birth listed as 2 Aug 1872 in Pennsylvania
+2 CONT 
+2 CONT ! - 1900 Census Clallam County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF #1,241,742
+2 CONT    Birth listed as Aug 1872
+2 CONT 
+2 CONT ! - 1910 Census Clallam County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF #1,375,556
+2 CONT    Age listed as 38 (1872)
+2 CONT 
+2 CONT ! - Family Bible, Births
+2 CONT    Photocopy of Original
+2 CONT    Birth listed as 4 Aug 1872
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Various Clallam County Newspapers
+2 CONT    Copied from Margaret Cameron
+2 CONT    Birth listed a 4 Aug 1872 in Indiana County, Pennsylvania
+2 CONT 
+2 CONT ! - 1880 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #1,255,135
+2 CONT    Age listed as 7 (1873) in Pennsylvania
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershng
+2 CONT    LDS Family History Library
+2 CONT    MF #1,321,311 item 1, pages 317-319
+2 CONT    Marriage listed as 11 May 1890
+2 CONT 
+2 CONT ! - 1900 Census Clallam County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF #1,241,742
+2 CONT    Marriage listed as 10 years (1890)
+2 CONT 
+2 CONT ! - 1910 Census Clallam County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF #1,375,556
+2 CONT    Marriage listed as 20 years (1890)
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Various Clallam County Newspapers
+2 CONT    Copied from Margaret Cameron
+2 CONT    Marriage listed as 1890 in Indiana County, Pennsylvavia
+2 CONT 
+2 CONT ! - Divorce Papers
+2 CONT    Clallam County Courthouse
+2 CONT    Photocopy of originals
+2 CONT    Marriage date listed as 1891 and divorce as 23 Sep 1939
+2 CONT 
+2 CONT ! - Marriage Licence and Return, 1st Marriage
+2 CONT    Indiana County Courthouse
+2 CONT    Vol 4, pg 445
+2 CONT    List marriage as 11 May 1891 to Sarah Stevins in Indiana County, Penn.
+2 CONT 
+2 CONT ! - Marriage Licence and Return, 2nd Marriage
+2 CONT    Clallam County Courthouse
+2 CONT    Vol 37, Page 99, No 4799
+2 CONT    Marriage listed as 8 Mar 1842 in Forks, Washington
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Tombstone
+2 CONT    Dungeness Cemetery, Sequim, Washington
+2 CONT    Copied inscription
+2 CONT    Death listed as 1951
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF #
+2 CONT    Death listed as 2 Jan 1951 in Forks, Washington
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Various Clallam County Newspapers
+2 CONT    Copied from Margaret Cameron
+2 CONT    Death given as 2 Jan 1951 in Fork, Washington
+2 CONT 
+2 CONT ! - Obituary, Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #123,520
+2 CONT    Death given as 1951
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Tombstone
+2 CONT    Dungeness Cemetery, Sequim, Washington
+2 CONT    Copied inscription
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF #
+2 CONT    Burial listed as 8 Jan 1951 in Dungeness Cemetery, Sequim, Washington
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Various Clallam County Newspapers
+2 CONT    Copied from Margaret Cameron
+2 CONT    Burial listed as 8 Jan 1951 in Dungeness Cemetery, Washington
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - Performed by Greg Cameron
+2 CONT 
+2 CONT *Moved to Washington around 1900
+2 CONT *Death because of coronary thrombosis (stroke) and senility *Was a great hunter in Olympic Mo
+2 CONC untians
+2 CONT *Named some of the areas in Olympic mountiains
+2 CONT *Homesteaded in foothills of Olympic mountains
+2 CONT *Also dairy farmed in Dungeness-1910 Census lists him as a Diary farmer *Remarried and settle
+2 CONC d in Forks, Washington
+1 CHAN
+2 DATE 29 AUG 1999
+3 TIME 01:00:00
+0 @I9@ INDI
+1 NAME Sarah Cathrine /Stephens/
+2 GIVN Sarah Cathrine
+2 SURN Stephens
+1 SEX F
+1 BIRT
+2 DATE 1 DEC 1874
+2 PLAC Indiana County,Pennsylvania
+1 DEAT
+2 DATE 21 JUL 1951
+2 PLAC Sequim,Clallam,Washington
+1 BURI
+2 DATE 24 JUL 1951
+2 PLAC Dungeness Cemt,Sequim,Clallam,Washington
+1 REFN 9
+1 BAPL
+2 DATE 12 SEP 1985
+2 TEMP OGDEN
+1 ENDL
+2 DATE 13 DEC 1985
+2 TEMP OGDEN
+1 FAMS @F4@
+1 FAMC @F11@
+1 SLGC
+2 FAMC @F11@
+2 DATE 14 JAN 1986
+2 TEMP OGDEN
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershng
+2 CONT    LDS Family History Library
+2 CONT    MF #1,321,311 item 1, pages 317-319
+2 CONT    Lists birth as 1 Dec 1874
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Dungeness Cemetery, Sequim, Washington
+2 CONT    Visted cemetery
+2 CONT    Lists birth as 1874
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - 1910 Census Clallam County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,375,667
+2 CONT    Lists age as 36 (1874) in Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Family Bible
+2 CONT    Photocopy of original
+2 CONT    Birth listed as 1 Dec 1874
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Various Clallam County newspapers
+2 CONT    Copied from Margaret Cameron
+2 CONT    Lists birth as 1 Dec 1874 in Indiana County, Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - 1880 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,255,135
+2 CONT    Lists age as 5 (1875) in Pennsylvania
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Tombstone
+2 CONT    Dungeness Cemetery, Sequim, Washington
+2 CONT    Visted cemetery
+2 CONT    Lists death as 1951
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Various Clallam County newspapers
+2 CONT    Copied from Margaret Cameron
+2 CONT    Lists death as 21 Jul 1951 in Sequim, Washington
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Tombstone
+2 CONT    Dungeness Cemetery, Sequim, Washington
+2 CONT    Visted cemetery
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Various Clallam County newspapers
+2 CONT    Copied from Margaret Cameron
+2 CONT    List burial as 24 Jul 1951 in Dungeness Cemt., Sequim, Washington
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I10@ INDI
+1 NAME Albert /Simdars/
+2 GIVN Albert
+2 SURN Simdars
+1 SEX M
+1 BIRT
+2 DATE 10 JAN 1883
+2 PLAC Sequim,Clallam,Washington
+1 DEAT
+2 DATE 30 JAN 1926
+2 PLAC Sequim,Clallam,Washington
+1 BURI
+2 DATE 1 FEB 1926
+2 PLAC Sequim View Cemt,Sequim,Washington
+1 REFN 10
+1 BAPL
+2 DATE 23 MAY 1985
+2 TEMP IF
+1 ENDL
+2 DATE 23 MAY 1985
+2 TEMP IF
+1 FAMS @F5@
+1 FAMC @F12@
+1 SLGC
+2 FAMC @F12@
+2 DATE 19 JUL 1985
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists birth as 10 Jan 1882 in Sequim, Washington
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim Veiw Cemetery
+2 CONT    Lists birth as 1883
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim Newspaper
+2 CONT    Original
+2 CONT    List birth as 10 Jan 1883 in Sequim, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    Photocopy of original
+2 CONT    List birth as 10 Jan 1883 in Sequim, Washington
+2 CONT 
+2 CONT ! - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists birth as 10 jan 1883 in Sequim, Washington
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Obituary
+2 CONT    Sequim Newspaper
+2 CONT    Original copy
+2 CONT    Lists marriage as 23 Feb 1910 in Sequim, Washington
+2 CONT 
+2 CONT ! - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists marriage as 23 Feb 1910 in Sequim, Washington
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT ! - Obituary of wife
+2 CONT    Sequim Newspapers
+2 CONT    Original copy
+2 CONT    Lists marriage as 23 Feb 1910 in Port Williams, Washington (?)
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists death as 30 Jan 1926 in Sequim, Washington
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Lists death as 1926
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim Newspaper
+2 CONT    Original
+2 CONT    Lists death as 30 Jan 1926 in Sequim, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    Photocopy of original
+2 CONT    Lists death as 30 Jan 1926
+2 CONT 
+2 CONT ! - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists death as 30 Jan 1926 in Sequim, Washington
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT ! - Probate Records
+2 CONT    Clallam County Courthouse
+2 CONT    No. 1347, 1348
+2 CONT    Lists death as 30 Jan 1926
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists burial as 1 Feb 1926 in Sequim, Washington
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT 
+2 CONT ! - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists burial in Sequim View Cemetery
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT *Purchases family farm and lived there all his life *Helped organize the Highland Irrigatio
+2 CONC n District
+2 CONT *Was a leading dairyman of Clallam County
+2 CONT *Served as a member of the board of dirctors of the Highland District *Was a member of the Mo
+2 CONC dern Woodmen
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I11@ INDI
+1 NAME Edna Pearl /Rhodefer/
+2 GIVN Edna Pearl
+2 SURN Rhodefer
+1 SEX F
+1 BIRT
+2 DATE 26 FEB 1892
+2 PLAC Hennesey,Kingfisher,Oklahoma
+1 DEAT
+2 DATE 20 OCT 1975
+2 PLAC Sequim,Clallam,Washington
+1 BURI
+2 DATE 22 OCT 1975
+2 PLAC Sequim View Cemt,Sequim,Washington
+1 REFN 11
+1 BAPL
+2 DATE 12 SEP 1985
+2 TEMP OG
+1 ENDL
+2 DATE 12 DEC 1985
+2 TEMP OG
+1 FAMS @F5@
+1 FAMC @F13@
+1 SLGC
+2 FAMC @F13@
+2 DATE 14 JAN 1986
+2 TEMP OG
+1 NOTE !BIRTH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists birth as 26 Feb 1892 in Hennesy, Oklahoma
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Personal visit
+2 CONT    Lists birth as 1892
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim and Port Angeles Newpapers
+2 CONT    Original copies
+2 CONT    Lists birth as 26 Feb 1892 in Hennesy, Oklahoma
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Personal visit
+2 CONT    Lists death as 1975
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim and Port Angeles Newpapers
+2 CONT    Original copies
+2 CONT    Lists death as 20 Oct 1975 in Sequim, Washington
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Personal visit
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim and Port Angeles Newpapers
+2 CONT    Original copies
+2 CONT    Lists burial as 22 Oct 1975 in Sequim View Cemetery
+2 CONT 
+2 CONT *After Berts death lived on farm from 1926 - 1942
+2 CONT *1942 sold farm to son Albert
+2 CONT *1948 attended Democratic Convention in Philadelphia *Secrtary to Sen. Francis l951 - 1955
+2 CONT *Worked in Auditors office, Clallam County from 2 Jan l952 to 1 Jan l962 *Member of St. Luke
+2 CONC s Episcopal church
+2 CONT *1948,52,56 workd in permananent registration in Olympia *Member of Legion Aux. of Jack Grenn
+2 CONC a Unit #62
+2 CONT *During WWII active in Red cross
+2 CONT *After retirement sold auto licences
+2 CONT *Member of Sequim Prarie Grange
+2 CONT *Member of Royal Neighbors
+2 CONT *See newpaper clippings on Pearl Rhodefer Simdars
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I12@ INDI
+1 NAME Edward Rezin /Downen/
+2 GIVN Edward Rezin
+2 SURN Downen
+1 SEX M
+1 BIRT
+2 DATE 12 MAR 1883
+2 PLAC Owansco,Sullivan,Missouri
+1 DEAT
+2 DATE 25 JUL 1931
+2 PLAC Asotin,Asotin,Washington
+1 BURI
+2 DATE 27 JUL 1931
+2 PLAC Vineland Cemt.,Clarkston,Washington
+1 REFN 12
+1 BAPL
+2 DATE 12 SEP 1985
+2 TEMP OG
+1 ENDL
+2 DATE 11 DEC 1985
+2 TEMP OG
+1 FAMS @F6@
+1 FAMC @F14@
+1 SLGC
+2 FAMC @F14@
+2 DATE 11 DEC 1985
+2 TEMP OG
+1 NOTE !BIRTH/PLACE
+2 CONT  - Marriage Record
+2 CONT    Asotin County Courthouse
+2 CONT    Rec 551, pg 26 of Reg of Marriage Stats
+2 CONT    Lists age as 28 (1882) in Missouri
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats
+2 CONT    Record #209
+2 CONT    Lists birth as 12 Mar 1883 in Missouri
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Asotin County Sentinal - 31 Jul 1931
+2 CONT    Copied by Clair Wamsley
+2 CONT    Lists birth as 12 Mar 1883 in Owansco, Sullivan, Missouri
+2 CONT 
+2 CONT ! - Personal Recollections of Chester P. Downen
+2 CONT    Photcopied from Dorthy Neylon - daughter
+2 CONT    Lists birth as 12 Mar 1883
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Sources unknown
+2 CONT    Lists birtha as 12 Mar 1883
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Record
+2 CONT    Asotin County Courthouse
+2 CONT    Rec 551, pg 26 of Reg of Marriage Stats
+2 CONT    Lists marriage as 4 Oct 1911 in Asotin, Washington
+2 CONT 
+2 CONT ! - Obituary - Edward R. Downen
+2 CONT    Asotin County Sentinal - 31 Jul 1931
+2 CONT    Copied by Clair Wamsley
+2 CONT    Lists marriage as 4 Oct 1911 in Asotin, Washington
+2 CONT 
+2 CONT ! - Obituary  - Edith Butler
+2 CONT    Asotin County Sentinal
+2 CONT    Copied by Clair Wamsley
+2 CONT    Lists marriage as 4 Oct 1911 in Asotin, Washington
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Source unknown
+2 CONT    Lists marriage as 4 Oct 1911
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats
+2 CONT    Record #209
+2 CONT    Death listed as 25 Jul 1931 in Asotin, Washington
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Asotin County Sentinal - 31 Jul 1931
+2 CONT    Copied by Clair Wamsley
+2 CONT    Lists death as 25 Jul 1931 in Asotin, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Source unknown
+2 CONT    Lists death as 25 Jul 1931
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats
+2 CONT    Record #209
+2 CONT    Burial listed as 27 Jul 1931 in Vineland Cemetery
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Asotin County Sentinal - 31 Jul 1931
+2 CONT    Copied by Clair Wamsley
+2 CONT    Burial listed as 27 Jul 1931 in Vineland Cemetery
+2 CONT 
+2 CONT *Marriage performed by Rev. Paul Little
+2 CONT *Witness's to marriage were Arthur Farrish and O.H. Woodruff *Occupation at time of marriag
+2 CONC e was County Treasurer *Bookeeper at time of death
+2 CONT *Died of Cancer (had for two years)
+2 CONT *Came west with parents at the age of 5 (1887)
+2 CONT *Was County Assessor, on Asotin town council, and on School Board *Was a member of the Orde
+2 CONC r of Odd Fellows
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I13@ INDI
+1 NAME Edith /Farrish/
+2 GIVN Edith
+2 SURN Farrish
+1 SEX F
+1 BIRT
+2 DATE 8 AUG 1885
+2 PLAC Asotin,Asotin,Washington
+1 DEAT
+2 DATE 15 JAN 1961
+2 PLAC Clarkston,Asotin,Washington
+1 BURI
+2 DATE 17 JAN 1961
+2 PLAC Vineland Cemt.,Clarkston,Washington
+1 REFN 13
+1 BAPL
+2 DATE 12 SEP 1985
+2 TEMP OG
+1 ENDL
+2 DATE 12 DEC 1985
+2 TEMP OG
+1 FAMS @F6@
+1 FAMC @F16@
+1 SLGC
+2 FAMC @F16@
+2 DATE 14 JAN 1986
+2 TEMP OG
+1 NOTE !BIRTH/PLACE
+2 CONT  - Marriage Record
+2 CONT    Asotin County Courthouse
+2 CONT    Rec 551, pg 26 of Reg of Marriage Stats
+2 CONT    Lists age as 26 (1885) in Asotin, Washington
+2 CONT    (See Downen family)
+2 CONT 
+2 CONT ! - Funeral Card
+2 CONT    Original copy
+2 CONT    Lists birth as 8 Aug 1885 in Asotin, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Clair Wamsley
+2 CONT    Photocopy of original
+2 CONT    Lists birth as 8 Aug 1885 in Asotin, Wash Terr.
+2 CONT 
+2 CONT ! - 1900 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF#?
+2 CONT    Lists birth as Aug 1885 in Washington
+2 CONT 
+2 CONT ! - 1910 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists age as 20 (1890) in Washington
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Transcribed from Asotin County Sentinal
+2 CONT    Photocopy of transcription
+2 CONT    Lists birth as 8 Aug 1885 in Asotin
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Sources unknown
+2 CONT    Lists birth as 8 Aug 1885 in Asotin
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Funeral Card
+2 CONT    Original copy
+2 CONT    Lists death as 15 Jan 1961 in Clarkston, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Clair Wamsley
+2 CONT    Photocopy of original
+2 CONT    Lists death as 15 Jan 1961
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Transcribed from Asotin County Sentinal
+2 CONT    Photocopy of transcription
+2 CONT    Lists death as 15 Jan 1961 in Clarkston, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Sources unknown
+2 CONT    Lists death as 15 Jan 1961 in Clarkston
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Funeral Card
+2 CONT    Original copy
+2 CONT    Lists burial as 17 Jan 1961 in Vineland Cemtery, Clarkston
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Transcribed from Asotin County Sentinal
+2 CONT    Photocopy of transcription
+2 CONT    Lists burial as 17 Jan 1961 in Vineland Cemetery, Clarkston
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I14@ INDI
+1 NAME Ivan /Marsh/
+2 GIVN Ivan
+2 SURN Marsh
+1 SEX M
+1 BIRT
+2 DATE 24 FEB 1898
+2 PLAC Endicott,Whitman,Washington
+1 DEAT
+2 DATE 7 OCT 1967
+2 PLAC Trout Lake,Klickitat,Washington
+1 BURI
+2 PLAC White Salmon,Klickitat,Washington
+1 REFN 14
+1 BAPL
+2 DATE 19 APR 1978
+2 TEMP OG
+1 ENDL
+2 DATE 27 JUN 1978
+2 TEMP OG
+1 FAMS @F8@
+1 FAMC @F17@
+1 SLGC
+2 FAMC @F17@
+2 DATE 11 AUG 1978
+2 TEMP OG
+1 NOTE !BIRTH/PLACE
+2 CONT  - IGI Index
+2 CONT    LDS Family History Librar
+2 CONT    Batch # 7,732,030
+2 CONT 
+2 CONT !BIRTH/PLACE
+2 CONT  - 1900 Census Whitman County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF # 1,241,753
+2 CONT    Birth given as Feb 1899 in Washington
+2 CONT 
+2 CONT ! - Birth Certificate
+2 CONT    Whitman County Courthouse
+2 CONT    Photcopy of Original, Birth #1629
+2 CONT    Birth given as 24 Feb 1898
+2 CONT 
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Family
+2 CONT    Death given as 7 Oct 1967
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Newspaper - 50th Wedding Anniversary
+2 CONT    Enterprise - White Salmon, Washington
+2 CONT    Marriage given as 1917 in Spokane Washinton
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Family
+2 CONT    Death given as 7 Oct 1967
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Personal knowledge
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - IGI Index
+2 CONT    LDS Family History Librar
+2 CONT    Batch # 7,732,030
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I15@ INDI
+1 NAME Arline Vera /Hart/
+2 GIVN Arline Vera
+2 SURN Hart
+1 SEX F
+1 BIRT
+2 DATE 21 JUL 1898
+2 PLAC Walla Walla,Walla Walla,Washington
+1 DEAT
+2 DATE 19 NOV 1991
+2 PLAC Hood River,Hood River,Oregon
+1 BURI
+2 DATE 23 NOV 1991
+2 PLAC White Salmon,Klickitat,Washington
+1 REFN 15
+1 BAPL
+2 DATE 6 JAN 1993
+2 TEMP WASHI
+1 ENDL
+2 DATE 8 JAN 1993
+2 TEMP WASHI
+1 FAMS @F8@
+1 FAMC @F18@
+1 SLGC
+2 FAMC @F18@
+2 DATE 22 SEP 1994
+2 TEMP IFALL
+1 NOTE !BIRTH/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    See Marsh Family
+2 CONT 
+2 CONT ! - 1900 Census Walla Walla County, Washington
+2 CONT    LDS Family History Librar
+2 CONT    MF#
+2 CONT    Vol 19, ED 90, Sheet 7, Line 28
+2 CONT    Birth given as Jul 1898 in Washington
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Newspaper - 50th Wedding Anniversary
+2 CONT    Enterprise - White Salmon, Washington
+2 CONT    See Marsh Family
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    See Marsh Family
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Personal knowledge
+2 CONT    Death occured 19 Nov 1991 in Hood River, Oregon
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Personal knowledge
+2 CONT    Burial occured 23 Nov 1991 in White Salmon, Washington
+2 CONT 
+2 CONT *I was at 50t Wedding Anniversary (G.L.C.)
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I16@ INDI
+1 NAME Lowry /Cameron/
+2 GIVN Lowry
+2 SURN Cameron
+1 SEX M
+1 BIRT
+2 DATE 28 AUG 1848
+2 PLAC Indiana County,Pennsylvania
+1 DEAT
+2 DATE 31 DEC 1918
+2 PLAC Indiana County,Pennsylvania,Pennsylvania
+1 BURI
+2 DATE 2 JAN 1919
+2 PLAC Oakland Cemetery,Indiana County,Pennsylvania
+1 REFN 16
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 FAMS @F10@
+1 FAMC @F19@
+1 SLGC
+2 FAMC @F19@
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT     LDS Family History Library
+2 CONT     MF # 1321311 item 1, pages 317-319
+2 CONT     Birth listed as 28 Aug 1848
+2 CONT 
+2 CONT ! - "Look Behind Your Mirror" by Romona Cameron Worley
+2 CONT     Personal Copy
+2 CONT     Section 10-1
+2 CONT     Birth listed as 28 Aug 1848
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    State of Pennsylvania
+2 CONT    No. 49540
+2 CONT    Birth listed as 28 Aug 1848 in Pennsylvania
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    LDS Family History Library
+2 CONT    MF #123520
+2 CONT    Birth listed as about 1848 (age 70 at time of death)
+2 CONT 
+2 CONT ! - 1880 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #1255135
+2 CONT    Age given as 31 (1849)
+2 CONT 
+2 CONT ! - 1870 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #522849
+2 CONT    Age listed as 22 (1848) in Pennsylvania
+2 CONT 
+2 CONT ! - 1860 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #805116
+2 CONT    Age listed as 12 (1848) in Pennsylvania
+2 CONT 
+2 CONT ! - 1850 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #444753
+2 CONT    Age listed as 2 (1848) in Pennsylvania
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.88 D3W
+2 CONT    Birth listed as 1848
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    Lists birth as 1848
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT     LDS Family History Library
+2 CONT     MF # 1321311 item 1, pages 317-319
+2 CONT     Marriage listed as 1870
+2 CONT 
+2 CONT ! - "Look Behind Your Mirror" by Romona Cameron Worley
+2 CONT     Personal Copy
+2 CONT     Section 10-1
+2 CONT     Lists wife Emma Moorhead
+2 CONT 
+2 CONT ! - Marriage Listing, Indiana Messanger
+2 CONT    Indiana County Historical Society
+2 CONT    Photocopy of original
+2 CONT    Lists marriage date as 11 Dec 1869 at Indiana County, Penn.
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT     LDS Family History Library
+2 CONT     MF # 1321311 item 1, pages 317-319
+2 CONT     Death listed as 1918
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    State of Pennsylvania
+2 CONT    No. 49540
+2 CONT    Death listed as 31 Dec 1918 in Indiana County, Pennsylvania
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    LDS Family History Library
+2 CONT    MF #123520
+2 CONT    Death listed as 1918 at Mr. & Mrs. F.G. Stephens home
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.88 D3W
+2 CONT    Death listed as 31 Dec 1918
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    Lists death as 1918
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    State of Pennsylvania
+2 CONT    No. 49540
+2 CONT    Burial listed as 2 Jan 1919 in Oakland Cemetery, Indiana, Pennsylvania
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT 
+2 CONT *Marriage performed by J.N. Pershing at residence of bride
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I17@ INDI
+1 NAME Emily Ellen /Moorhead/
+2 GIVN Emily Ellen
+2 SURN Moorhead
+1 SEX F
+1 BIRT
+2 DATE 23 JAN 1852
+2 PLAC Indiana County,Pennsylvania
+1 DEAT
+2 DATE 3 AUG 1916
+2 PLAC Indiana County,Pennsylvania
+1 BURI
+2 DATE 6 AUG 1916
+2 PLAC Oakland Cemetery,Indiana County,Pennsylvania
+1 REFN 17
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 FAMS @F10@
+1 FAMC @F20@
+1 SLGC
+2 FAMC @F20@
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311, item 1
+2 CONT    Birth listed as 1852
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - "Look Behind Your Mirror" by Ramona Cameron Worley
+2 CONT    Personal Copy
+2 CONT    Section 10-1
+2 CONT    Lists name only
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - 1880 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,255,135
+2 CONT    List age as 28 (1852) in Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - 1870 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 552,849
+2 CONT    Lists age as 18 (1852) in Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    Lists birth as 1852
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311, item 1
+2 CONT    List death as 1918
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    Lists death as 1916
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    State of Penn., Bureau of Vital Stats
+2 CONT    File #82328
+2 CONT    Lists death as 3 Aug 1916 in Indiana, Pennsylvania
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    State of Penn., Bureau of Vital Stats
+2 CONT    File #82328
+2 CONT    Lists burial as 6 Aug 1916 in Oakland Cemetery, Indiana, Penn.
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I18@ INDI
+1 NAME David /Stephens/
+2 GIVN David
+2 SURN Stephens
+1 SEX M
+1 BIRT
+2 DATE 28 APR 1854
+2 PLAC Indiana County,Pennsylvania
+1 DEAT
+2 DATE 20 JUN 1936
+2 PLAC Pittsburg,Allegheny,Pennsylvania
+2 SOUR @S1@
+3 PAGE File No. 54817, Reg 4854
+3 DATA
+4 DATE 21 JUN 1936
+1 BURI
+2 DATE 23 JUN 1936
+2 PLAC Homer City,Indiana,Pennsylvania
+2 SOUR @S1@
+3 PAGE File 54817, Reg 4854
+3 DATA
+4 DATE 21 JUN 1936
+1 REFN 18
+1 BAPL
+2 DATE 10 MAY 1988
+2 TEMP LOGAN
+1 ENDL
+2 DATE 14 JUN 1988
+2 TEMP LOGAN
+1 FAMS @F11@
+1 FAMC @F21@
+1 SLGC
+2 FAMC @F21@
+2 DATE 16 JUN 1988
+2 TEMP LOGAN
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1900 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,241,415
+2 CONT    Lists birth as Apr 1855 in Pennsylvania
+2 CONT 
+2 CONT ! - 1880 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,255,135
+2 CONT    Lists age as 25 (1855) in Pennsylvania
+2 CONT 
+2 CONT ! - 1860 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 805,116
+2 CONT    Lists age as 6 (1854) in Pennsylvania
+2 CONT 
+2 CONT !MARRRIAGE/PLACE
+2 CONT  - 1900 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,241,415
+2 CONT    Lists marriage to Susan for 26 years (1874)
+2 CONT 
+2 CONT *Lists no children at home, but all 4 are alive
+2 CONT *Lists occupation as laborer
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I19@ INDI
+1 NAME Susan J. /Everett/
+2 GIVN Susan J.
+2 SURN Everett
+1 SEX F
+1 BIRT
+2 DATE OCT 1857
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE AFT 1910
+2 PLAC Brushvalley,Indiana,Pennsylvania
+1 REFN 19
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F11@
+1 FAMC @F22@
+1 SLGC
+2 FAMC @F22@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1900 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,241,415
+2 CONT    Lists birth as Oct 1851 in Pennsylvania
+2 CONT 
+2 CONT ! - 1880 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,255,135
+2 CONT    Lists age as 23 (1857) in Pennsylvania
+2 CONT 
+2 CONT ! - 1860 Census Indiana County, Pennsylvania
+2 CONT    National Archives
+2 CONT    Roll 1116
+2 CONT    Date: age 4, Place: Pennsylvania
+2 CONT 
+2 CONT ! - 1870 Census Indiana County, Pennsylvania
+2 CONT    National Archives
+2 CONT    Roll 1350
+2 CONT    Date: age 14, Place: Pennsylvania
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I20@ INDI
+1 NAME Herman Frederick /Simdars/
+2 GIVN Herman Frederick
+2 SURN Simdars
+1 SEX M
+1 BIRT
+2 DATE 28 OCT 1843
+2 PLAC Potsdam,Germany
+1 DEAT
+2 DATE 22 OCT 1925
+2 PLAC Sequim,Clallam,Washington
+1 BURI
+2 DATE 24 OCT 1925
+2 PLAC Sequim View Cemt,Clallam,Washington
+1 REFN 20
+1 BAPL
+2 DATE 10 MAY 1988
+2 TEMP LOGAN
+1 ENDL
+2 DATE 10 JUN 1988
+2 TEMP LOGAN
+1 FAMS @F12@
+1 FAMC @F23@
+1 SLGC
+2 FAMC @F23@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists birth as 28 Oct 1843 in Jintlin or Zintlin, Germany
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Lists birth as 1844
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Gives age as 83 (1842) born in Germany
+2 CONT 
+2 CONT ! - Article on Simdars
+2 CONT    Sequim Newspaper
+2 CONT    6 Apr 1961
+2 CONT    Lists birth as 28 Oct 1845 in Potsdam, Germany
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    Photocopy of original
+2 CONT    Lists birth as 28 Oct 1843 in Potsdam, Germany
+2 CONT 
+2 CONT ! - "Dungeness: Lure of a River"
+2 CONT     In possesion of Margaret Cameron
+2 CONT     Page 56
+2 CONT     Lists birth as 28 Oct 1845 in Potsdam, Germany
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Obituary
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists marriage as 6 May 1869 in Toledo, Ohio
+2 CONT 
+2 CONT ! - Article on Simdars
+2 CONT    Sequim Newspaper
+2 CONT    6 Apr 1961
+2 CONT    Lists marriage as 6 May 1869
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    Photocopy of original
+2 CONT    List marriage as 6 May 1869 in Toledo, Ohio
+2 CONT 
+2 CONT ! - "Dungeness: Lure of a River"
+2 CONT     In possesion of Margaret Cameron
+2 CONT     Page 56
+2 CONT     Lists marriage as 6 May 1869 in Toledo, Ohio
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Probate Court, Toledo, Ohio
+2 CONT    Volume 2, page 232
+2 CONT    Lists marriage a 6 May 1869 in Toledo, Ohio
+2 CONT    Lists last names of Zimdorf and Gidzo
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists death as 22 Oct 1925 in Sequim, Washington
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Lists death as 1925
+2 CONT 
+2 CONT ! - Obituray
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists death as 22 Oct 1925 in Sequim, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    Photocopy of original
+2 CONT    Lists death as 24 Oct 1925 in Sequim, Washington
+2 CONT 
+2 CONT ! - Probate Records
+2 CONT    Clallam County Courthouse
+2 CONT    No. 1320, 1271
+2 CONT    Lists death as 22 Oct 1925 in Sequim, Clallam, Washington
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists burial as 24 Feb 1925 in Sequim, Washington
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT 
+2 CONT ! - Obituray
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists burial as 24 Oct 1925 in Sequim, Washington
+2 CONT 
+2 CONT *Died of apoplexy
+2 CONT *Immigrated to U.S. in l868, lived in Toledo until bride met him *Was on Kaisers personal sta
+2 CONC ff in Germany
+2 CONT *Fought in Franco-Prussia War
+2 CONT *Mentions in Golden Wedding clipping about 8 children?
+1 CHAN
+2 DATE 14 DEC 1999
+3 TIME 00:00:00
+0 @I21@ INDI
+1 NAME Wilhelmina C. H. /Gilzo/
+2 GIVN Wilhelmina C. H.
+2 SURN Gilzo
+1 SEX F
+1 BIRT
+2 DATE 8 JAN 1849
+2 PLAC Potsdam,Germany
+1 DEAT
+2 DATE 6 JAN 1925
+2 PLAC Sequim,Clallam,Washington
+1 BURI
+2 DATE 9 JAN 1925
+2 PLAC Sequim View Cemt,Clallam,Washington
+1 REFN 21
+1 BAPL
+2 DATE 10 MAY 1988
+2 TEMP LG
+1 ENDL
+2 DATE 14 JUN 1988
+2 TEMP LG
+1 FAMS @F12@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists birth as 8 Jan 1849 in Germany
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Lists birth as 1850
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists birth as 8 Jan 1849 in Germany
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    Photocopy of original
+2 CONT    Lists birth as 8 Jan 1849 in Potsdam, Germany
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists death as 6 Jan 1925 in Sequim, Washington
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Lists death as 1925
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists death as 6 Jan 1925 in Sequim, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by family
+2 CONT    Photocopy of original
+2 CONT    Lists death as 6 jan 1925 in Sequim, Washington
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists burial as 9 Jan 1925 in Sequim, Washington
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists burial as 9 Jan 1925 in Sequim, Washington
+2 CONT 
+2 CONT *Died of Cancer of the stomach
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I22@ INDI
+1 NAME Samuel /Rhodefer/
+2 GIVN Samuel
+2 SURN Rhodefer
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1857
+2 PLAC Butler Twnp,Dekalb,Indiana
+1 DEAT
+2 DATE 3 OCT 1924
+2 PLAC Seattle,King,Washington
+1 BURI
+2 DATE 3 OCT 1924
+2 PLAC Sequim View Cemt,Sequim,Clallam,Washington
+1 REFN 22
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IFALL
+1 ENDL
+2 DATE 3 DEC 1985
+2 TEMP IFALL
+1 FAMS @F13@
+1 FAMC @F24@
+1 SLGC
+2 FAMC @F24@
+2 DATE 14 DEC 1985
+2 TEMP IFALL
+1 NOTE !BIRTH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists birth as 2 Jun 1857 in Bulter, Dekalb, Indiana
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists birth as 2 Jun 1857 in Indiana
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Personal visit
+2 CONT    List birth as 1857
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Witchita County, Kansas Courthouse
+2 CONT    Photocopy and original
+2 CONT    Lists age as 30 (1859)
+2 CONT 
+2 CONT ! - 1870 Census Dekalb County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF# ?, page 201
+2 CONT    Lists age as 13 (1857), born in Indiana
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists marriage of second wife Mary Tiller as 24 Mar 1889 in Leoti, Kansas
+2 CONT    Lists first marriage as possibly Cordia Wilson
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Witchita County, Kansas Courthouse
+2 CONT    Photocopy and original
+2 CONT    Lists marriage as 23 Mar 1889 in Witchita County, Kansas
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists death as 3 Oct 1924 in Seattle, Washington
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists death as 3 Oct 1924 in Seattle, Washington
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Personal visit
+2 CONT    Lists death as 1924
+2 CONT 
+2 CONT ! - Obituary of Mary (Tiller) Rhodefer
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    List death as 3 Oct 1924
+2 CONT    (See Tiller Family)
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    List burial in Sequim View Cemetery
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists burial as 3 Oct 1924 in Sequim (May be a mistake on certificate)
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Personal visit
+2 CONT 
+2 CONT *Died of Cancer
+1 CHAN
+2 DATE 29 AUG 1999
+3 TIME 01:00:00
+0 @I23@ INDI
+1 NAME Mary Margret /Tiller/
+2 GIVN Mary Margret
+2 SURN Tiller
+1 SEX F
+1 BIRT
+2 DATE 22 DEC 1872
+2 PLAC Mooreville,Tama,Iowa
+2 SOUR @S2@
+1 DEAT
+2 DATE 11 FEB 1948
+2 PLAC Sequim,Clallam,Washington
+2 SOUR @S3@
+1 BURI
+2 DATE 14 FEB 1948
+2 PLAC Sequim View Cemt,Sequim,Clallam,Washington
+2 SOUR @S4@
+1 REFN 23
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 10 DEC 1985
+2 TEMP IF
+1 FAMS @F13@
+1 FAMC @F25@
+1 SLGC
+2 FAMC @F25@
+2 DATE 14 DEC 1985
+2 TEMP IF
+1 NOTE ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Personal visit
+2 CONT    Date: 1872
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Witchita County, Kansas Courthouse
+2 CONT    Photcopy and original
+2 CONT    Date: 1871
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT ! - Obiturary
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Date: 22 Dec 1872, Place: Mooreville, Tama, Iowa
+2 CONT 
+2 CONT ! - 1880 Census Tama County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #?
+2 CONT    Date: 1871, Place: Iowa
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Sequim View Cemetery
+2 CONT    Personal visit
+2 CONT    Date: 1948, Place: Sequim, Washington
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT ! - Obiturary
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Date: 11 Feb 1948, Place: Sequim, Washington
+2 CONT 
+2 CONT ! - Obiturary
+2 CONT    Sequim Newspaper
+2 CONT    Photocopy of original
+2 CONT    Date: 14 Feb 1948, Place: Sequim View Cemetery, Sequim
+2 CONT 
+2 CONT *Member of the Episcopal Church
+2 CONT *Redcross worker from 1917 to 1945
+2 CONT *Member of American Legion Auxiliary, V.W.F. Aux
+2 CONT *Member of Royal Neighbors,Rebekahs,Eastern Star
+2 CONT *She died of heart trouble
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I24@ INDI
+1 NAME Samuel Crabtree /Downen/
+2 GIVN Samuel Crabtree
+2 SURN Downen
+1 SEX M
+1 BIRT
+2 DATE 23 JAN 1849
+2 PLAC Posey County,Indiana
+1 DEAT
+2 DATE 3 DEC 1917
+2 PLAC Asotin,Asotin,Washington
+1 BURI
+2 DATE 6 DEC 1917
+2 PLAC Asotin Cemetery,Asotin,Washington
+1 REFN 24
+1 BAPL
+2 DATE 1 MAR 1986
+2 TEMP IF
+1 ENDL
+2 DATE 18 APR 1986
+2 TEMP IF
+1 FAMS @F14@
+1 FAMC @F26@
+1 SLGC
+2 FAMC @F26@
+2 DATE 18 APR 1986
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Only listed as son of Job Downen and Margaret Outlaw
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Asotin Cemetery
+2 CONT    Photograph of tombstone
+2 CONT    Lists birth as 1848
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Asotin County Sentinal - 7 Dec 1917
+2 CONT    Photocopy of original
+2 CONT    Lists birth as 23 Jan 1849 in Posey County, Indiana
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats.
+2 CONT    Photocopy of original
+2 CONT    Lists birth as 23 Jan 1849 in Indiana
+2 CONT 
+2 CONT ! - 1910 Census Asotin County
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists age as 60 (1850) born in Indiana
+2 CONT 
+2 CONT ! - 1900 Census Asotin County
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists birth as Jan 1849 in Indiana
+2 CONT 
+2 CONT ! - 1880 Census Sullivan County, Missouri
+2 CONT    LDS Family History Library
+2 CONT    MF#1,254,738
+2 CONT    Lists age as 31 (1849) born in Indiana
+2 CONT 
+2 CONT ! - 1870 Census Sullivan County, Missouri
+2 CONT    LDS Family History Center
+2 CONT    MF#552,322
+2 CONT    Lists age as 21 (1849) born in Indiana
+2 CONT 
+2 CONT ! - 1860 Census Sullivan County, Missouri
+2 CONT    LDS Family History Center
+2 CONT    MF# 14,870, page 799
+2 CONT    Lists age as 11 (1849) born in Indiana
+2 CONT 
+2 CONT ! - 1850 Census Posey County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists age as 2 (1848) born in Indiana
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Obituary
+2 CONT    Asotin County Sentinal - 7 Dec 1917
+2 CONT    Photocopy of original
+2 CONT    Lists marriage as 24 Dec 1874
+2 CONT 
+2 CONT ! - 1910 Census Asotin County
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists married for 37 years (1873) with 5 children
+2 CONT 
+2 CONT ! - 1900 Census Asotin County
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists married for 25 years (1875) with 5 children
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Tombstone
+2 CONT    Asotin Cemetery
+2 CONT    Photograph of tombstone
+2 CONT    Lists death as 1917
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Asotin County Sentinal - 7 Dec 1917
+2 CONT    Photocopy of original
+2 CONT    Lists death as 3 Dec 1917
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats.
+2 CONT    Photocopy of original
+2 CONT    Lists death as 3 Dec 1917
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT ! - Obituary
+2 CONT    Asotin County Sentinal - 7 Dec 1917
+2 CONT    Photocopy of original
+2 CONT    Burial given as 6 Dec 1917
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats.
+2 CONT    Photocopy of original
+2 CONT    Lists burial as 6 Dec 1917
+2 CONT 
+2 CONT *Moved to Sullivan County Mo. in 1852
+2 CONT *Left Missouri in 1887 to Asotin
+2 CONT *Served as County Commisioner for Asotin District 10 years *Died of a heart attack
+2 CONT *Funeral by Rev. O.W. Mintzer of Methodist Church
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I25@ INDI
+1 NAME Martha Jane /South/
+2 GIVN Martha Jane
+2 SURN South
+1 SEX F
+1 BIRT
+2 DATE MAY 1856
+2 PLAC Iroquois County,Illinois
+1 DEAT
+2 DATE 1924
+2 PLAC Asotin County,Washington
+1 BURI
+2 PLAC Asotin Cemetery,Asotin,Washington
+1 REFN 25
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F14@
+1 FAMC @F27@
+1 SLGC
+2 FAMC @F27@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Tombstone
+2 CONT    Asotin Cemetery
+2 CONT    Photograph of tombstone
+2 CONT    Lists birth as 1856
+2 CONT    See Downen family
+2 CONT 
+2 CONT ! - 1910 Census Asotin County
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists age as 52 (1858) born in Illinois
+2 CONT 
+2 CONT ! - 1900 Census Asotin County
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists birth as May 1856
+2 CONT 
+2 CONT ! - 1880 Census Sullivan County, Missouri
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,254,738
+2 CONT    Lists age as 24 (1856) born in Illinois
+2 CONT 
+2 CONT ! - Obituary of Rebecca Smith
+2 CONT    Asotin County Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists name only
+2 CONT 
+2 CONT ! - 1860 Census Iroquois County, Illinois
+2 CONT    National Archives
+2 CONT    Roll #186
+2 CONT    Date: Age 4, Place: ?
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Tombstone
+2 CONT    Asotin Cemetery
+2 CONT    Photograph of tombstone
+2 CONT    Lists death as 1924
+2 CONT    See Downen family
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I26@ INDI
+1 NAME William Thomas /Farrish/
+2 GIVN William Thomas
+2 SURN Farrish
+1 SEX M
+1 BIRT
+2 DATE 9 AUG 1836
+2 PLAC Richibucto,Kent,New Brunswick,Canada
+1 DEAT
+2 DATE 13 JUN 1920
+2 PLAC Salem,Oregon
+1 BURI
+2 DATE 17 JUN 1920
+2 PLAC Asotin Cemetery,Asotin,Washington
+1 REFN 26
+1 BAPL
+2 DATE 1 MAR 1986
+2 TEMP IF
+1 ENDL
+2 DATE 18 APR 1986
+2 TEMP IF
+1 FAMS @F16@
+1 FAMC @F28@
+1 SLGC
+2 FAMC @F28@
+2 DATE 18 APR 1986
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - History of SE Washington
+2 CONT    Transcribed by Clair Wamsley
+2 CONT    Photocopy of transcription
+2 CONT    Lists birth as 8 Aug 1836 in New Brunswick, Canada
+2 CONT 
+2 CONT ! - 1885 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# 966,141
+2 CONT    Lists age as 48 (1837) in New Brunswick, Canada
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Trascribed from the Asotin Sentinal by Clair Wamsley
+2 CONT    Sentinal dated 18 Jun 1920
+2 CONT    Lists birth as 9 Aug 1836 in New Bruswick, Canada
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Clair Wamsley
+2 CONT    Photocopy of original
+2 CONT    Lists birth as 9 Aug 1836 in New Brunswick, Canada
+2 CONT 
+2 CONT ! - 1880 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# ? pg. 168
+2 CONT    Lists age as 45 (1835) in New Brunswick
+2 CONT 
+2 CONT ! - 1900 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists birth as Aug 1835 in Canada
+2 CONT 
+2 CONT ! - 1910 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF#?
+2 CONT    Lists age as 74 (1836) in Canada
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Sources unknown
+2 CONT    Lists birth as 8 Sep 1836 in Richibucto, New Brunswick, Canada
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Lillian Farrish Ruark
+2 CONT    Lists birth as 9 Aug 1837
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - History of SE Washington
+2 CONT    Transcribed by Clair Wamsley
+2 CONT    Photocopy of transcription
+2 CONT    Lists marriage as 31 Mar 1869 in Plover, Wisconsin
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Trascribed from the Asotin Sentinal by Clair Wamsley
+2 CONT    Sentinal dated 18 Jun 1920
+2 CONT    Lists marriage as 31 Mar 1869 in Plover, Wisconsin
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Clair Wamsley
+2 CONT    Photocopy of original
+2 CONT    Lists marriage as 31 Mar 1869 in Plover, Wisconsin
+2 CONT 
+2 CONT ! - 1900 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists marriage of 31 years (1869)
+2 CONT 
+2 CONT ! - 1910 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists marriage of 40 years (1870)
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    LDS Family History Library
+2 CONT    MF#?
+2 CONT    Lists marriage as 31 Mar 1869 in Plover, Portage, Wisconsin
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Sources unknown
+2 CONT    Lists marriage as 31 Mar 1869 in Plover, Wisconsin
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - History Of Washington
+2 CONT    LDS Family History Library
+2 CONT    pg. 221
+2 CONT    Lists death as 1918
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Trascribed from the Asotin Sentinal by Clair Wamsley
+2 CONT    Sentinal dated 18 Jun 1920
+2 CONT    Lists death as 13 Jun 1920 in Salem, Oregon
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Clair Wamsley
+2 CONT    Photocopy of original
+2 CONT    Lists death as Jun 1920 in Asotin, Washington
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Sources unknown
+2 CONT    Lists death as 12 Jun 1920
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Lillian Farrish Ruark
+2 CONT    Lists death as 12 Jun 1920
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Obituary
+2 CONT    Trascribed from the Asotin Sentinal by Clair Wamsley
+2 CONT    Sentinal dated 18 Jun 1920
+2 CONT    Lists burial as 17 Jun 1920 in Asotin Cemtery
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Clair Wamsley
+2 CONT    Photocopy of original
+2 CONT    Lists burial as Jun 1920 in Asotin Cemetery
+2 CONT 
+2 CONT *Was raised and educated in Cananda
+2 CONT *Moved to Grand Rapids, Mich in 1853 at age of 17
+2 CONT *Was engaged in the lumber business untill 1878
+2 CONT *Moved to Asotin area in Spring of 1878
+2 CONT *Set up sawmill with father-in-law when he arrived *Francis Tuttle states T.G. Bean called hi
+2 CONC m to come there *Had eight diffrent mills in the area
+2 CONT *Was a legistator in Wash. first state legislature *Was reelected three times on the Republic
+2 CONC an ticket *Was member of A.F. and A.M. and the I.O.O.F.
+2 CONT *Imigrated to U.S. in 1854 and was naturalized
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I27@ INDI
+1 NAME Content Vaughn /Bean/
+2 GIVN Content Vaughn
+2 SURN Bean
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1847
+2 PLAC Union,Portage,Wisconsin
+1 DEAT
+2 DATE 14 NOV 1916
+2 PLAC Asotin,Asotin,Washington
+1 BURI
+2 DATE 17 NOV 1916
+2 PLAC Asotin Cemetery,Asotin,Washington
+1 REFN 27
+1 BAPL
+2 DATE 1 MAR 1986
+2 TEMP IF
+1 ENDL
+2 DATE 18 APR 1986
+2 TEMP IF
+1 FAMS @F16@
+1 FAMC @F29@
+1 SLGC
+2 FAMC @F29@
+2 DATE 18 APR 1986
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - History of Washington
+2 CONT    LDS Family History Library
+2 CONT    Pg. 221
+2 CONT    List Birth in Wisconsin
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - History of SE Washington
+2 CONT    Transcribed by Clair Wamsley
+2 CONT    Photocopy of transcription
+2 CONT    Lists birth as 14 Apr 1848 in Union, Wisconsin
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - 1885 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# 966,141
+2 CONT    Lists age as 36 (1849)
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Clair Wamsley
+2 CONT    Photcopy of original
+2 CONT    Lists birth as 14 April 1847 in Union, Wisconsin
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - 1880 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# ? pg. 168
+2 CONT    Lists age as 33 (1847) in Wisconsin
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - 1900 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists birth as Apr 1847 in Wisconsin
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - 1910 Census Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF# ?
+2 CONT    Lists age as 60 (1850) in Vermont
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Sources unknown
+2 CONT    Lists birth as 14 Apr 1848 in Union County, Wisconsin
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Lillian Farrish Ruark
+2 CONT    Lists birth as 14 Apr 1847
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Clair Wamsley
+2 CONT    Photcopy of original
+2 CONT    Lists death as 14 Nov 1916 in Asotin, Washington
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Received from Keith Ausman
+2 CONT    Sources unknown
+2 CONT    Lists death as 14 Nov 1916
+2 CONT    (See Farrish Family)
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Lillian Farrish Ruark
+2 CONT    Lists death as 14 Nov 1916
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I28@ INDI
+1 NAME Frederick /Cameron/
+2 GIVN Frederick
+2 SURN Cameron
+1 SEX M
+1 BIRT
+2 DATE 10 MAY 1823
+2 PLAC Indiana County,Pennsylvania
+1 DEAT
+2 DATE 20 AUG 1897
+2 PLAC Cherryhill Twp.,Indiana,Pennsylvania
+1 BURI
+2 DATE 22 AUG 1897
+2 PLAC Harmony Cemt.,Indiana,Pennsylvania
+1 REFN 32
+1 BAPL
+2 DATE 2 NOV 1935
+1 ENDL
+2 DATE 22 JAN 1936
+2 TEMP AZ
+1 FAMS @F19@
+1 FAMC @F30@
+1 SLGC
+2 FAMC @F30@
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Pershing Family in America", by Edgar J. Pershing
+2 CONT     LDS Family History Library
+2 CONT     Microfilm #1321311 item 1, page 317-319
+2 CONT     Gives birth as 10 May 1823
+2 CONT 
+2 CONT ! - Temple Index Bureau
+2 CONT    LDS Family History Library - Special Collections
+2 CONT    MF #1,262,765
+2 CONT    Gives birth as 10 May 1823
+2 CONT 
+2 CONT ! - "Look Behind Your Mirror" by Romona Cameron Worley
+2 CONT     Personal Copy
+2 CONT     Section 10-1
+2 CONT     Birth listed as 10 May 1823 in Indiana County, Pennsylvania
+2 CONT 
+2 CONT ! - 1880 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #1255135
+2 CONT    Age listed as 58 (1822) in Pennsylvania
+2 CONT 
+2 CONT ! - 1870 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #552849
+2 CONT    Age listed as 50 (1820) in Pennsylvania
+2 CONT 
+2 CONT ! - 1860 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #805116
+2 CONT    Age listed as 38 (1822) in Pennsylvania
+2 CONT 
+2 CONT ! - 1850 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #444753
+2 CONT    Age listed as 28 (1822) in Pennsylvania
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.88 D3W, page 442
+2 CONT    Gives birth as 1822
+2 CONT 
+2 CONT ! - History of Indiana County (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    MF #908661
+2 CONT    Gives birth as 1822
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemt., Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    Lists birth as 10 May 1823
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Pershing Family in America", by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    Microfilm #1321311 item 1, page 317-319
+2 CONT    Lists marriage as 14 Sep 1842
+2 CONT 
+2 CONT ! - "Look Behind Your Mirror" by Romona Cameron Worley
+2 CONT     Personal Copy
+2 CONT     Section 10-1
+2 CONT     Marriage listed as 1 Sep 1842 to Elizabeth Grow
+2 CONT 
+2 CONT ! - Temple Index Bureau
+2 CONT    LDS Family History Library - Special Collections
+2 CONT    MF #1,262,765
+2 CONT    Lists marraige to Elizabeth Grow
+2 CONT 
+2 CONT ! - History of Indiana County (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    MF #908661
+2 CONT    Lists marriage to Elizabeth Grow
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Pershing Family in America", by Edgar J. Pershing
+2 CONT     LDS Family History Library
+2 CONT     Microfilm #1321311 item 1, page 317-319
+2 CONT     Lists birth as 20 Aug 1897
+2 CONT 
+2 CONT ! - "Look Behind Your Mirror" by Romona Cameron Worley
+2 CONT     Personal Copy
+2 CONT     Section 10-1
+2 CONT     Death listed as 21 Aug 1897 in Indiana County, Pennsylvania
+2 CONT 
+2 CONT ! - Temple Index Bureau
+2 CONT    LDS Family History Library - Special Collections
+2 CONT    MF #1,262,765
+2 CONT    Lists marriage as 20 Aug 1897
+2 CONT 
+2 CONT ! - Death Register
+2 CONT    LDS Family History Library
+2 CONT    MF #1288594 item 3
+2 CONT    Gives death date as 21 Aug 1897 in Cherryhill Twnp., Indiana, Pennsylvania
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.88 D3W, page 442
+2 CONT    Gives death as 21 Aug 1897
+2 CONT 
+2 CONT ! - Will
+2 CONT    LDS Family History Library
+2 CONT    MF #1319635, item 2
+2 CONT    Will gives death date as 21 Aug 1897
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemt., Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    Lists death as 21 Aug 1897
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Register
+2 CONT    LDS Family History Library
+2 CONT    MF #1288594 item 3
+2 CONT    List burial as 22 Aug 1897 in Harmony Cemetery, Indiana, Pennsylvania
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemt., Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - Temple Index Bureau
+2 CONT    LDS Family History Library - Special Collections
+2 CONT    MF #1,262,765
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I29@ INDI
+1 NAME Elizabeth /Grow/
+2 GIVN Elizabeth
+2 SURN Grow
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1823
+2 PLAC Franklin County,Pennsylvania
+1 DEAT
+2 DATE 4 SEP 1899
+2 PLAC Greenville,Indiana,Pennsylvania
+1 BURI
+2 DATE 7 SEP 1899
+2 PLAC Harmony Cemt.,Indiana County,Pennsylvania
+1 REFN 33
+1 BAPL
+2 DATE 2 NOV 1935
+1 ENDL
+2 DATE 24 JAN 1936
+2 TEMP AZ
+1 FAMS @F19@
+1 FAMC @F31@
+1 SLGC
+2 FAMC @F31@
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311 item 1
+2 CONT    Lists birth as 29 Sep 1823
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Temple Index Bureau
+2 CONT    LDS Family History Library - Special Collections
+2 CONT    MF #1,262,765
+2 CONT    Lists name only
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - "Look Behind Your Mirror" by Ramona Cameron Worley
+2 CONT     Personal Copy
+2 CONT     Section 10-1
+2 CONT     Lists birth as 29 Sep 1823 in Indiana County, Pennsylvania
+2 CONT     (See Cameron Family)
+2 CONT 
+2 CONT ! - 1880 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,255,135
+2 CONT    Lists age as 56 (1824) in Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - 1870 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 552,849
+2 CONT    Lists age as 48 (1822) in Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - 1860 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 805,116
+2 CONT    Lists age as 37 (1823) in Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - 1850 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 444,753
+2 CONT    Lists age as 27 (1823) in Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - History of Indiana County (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    MF# 908,661
+2 CONT    Lists name only
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    Lists  birth as 29 Sep 1823
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Will of Jacob Grow
+2 CONT    Indiana County Courthouse
+2 CONT    Will # 1393
+2 CONT    Lists name only
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311 item 1
+2 CONT    Lists death as 4 Sep 1899
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - "Look Behind Your Mirror" by Ramona Cameron Worley
+2 CONT    Personal Copy
+2 CONT    Section 10-1
+2 CONT    Lists death as 5 Sep 1899 in Indiana County, Pennsylvania
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    Lists death as 4 Sep 1899
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Death Register- Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,288,594 item 3
+2 CONT    Lists death as 4 Sep 1899 in Greenville, Indiana, Pennsylvania
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Tombstone
+2 CONT    Oakland Cemetery, Indiana, Pennsylvania
+2 CONT    Visted graveyard
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - Death Register- Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,288,594 item 3
+2 CONT    Lists burial as 7 Sep 1899 in Harmony Graveyard
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I30@ INDI
+1 NAME Hugh /Cameron/
+2 GIVN Hugh
+2 SURN Cameron
+1 SEX M
+1 BIRT
+2 DATE 1780
+2 PLAC Westmoreland Co.,Pennsylvania
+1 DEAT
+2 DATE 1869
+2 PLAC Indiana County,Pennsylvania
+1 REFN 64
+1 BAPL
+2 DATE 2 NOV 1935
+2 TEMP AZ
+1 ENDL
+2 DATE 22 JAN 1936
+2 TEMP AZ
+1 FAMS @F30@
+1 FAMC @F33@
+1 SLGC
+2 FAMC @F33@
+2 STAT SUBMITTED
+3 DATE 3 NOV 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Temple Index Bureu
+2 CONT    LDS Family History Library
+2 CONT    Special Collections, MF #1,262,765
+2 CONT    Lists birth as 1793 in Indiana County, Penn.
+2 CONT 
+2 CONT ! - "Look Behind your Mirror" by Romona Cameron Worley
+2 CONT     Personal Copy
+2 CONT     Section 10-1
+2 CONT     Lists birth as 1777 in Scotland
+2 CONT 
+2 CONT ! - Military Records, War of 1812
+2 CONT    National Archives
+2 CONT    No volume or page numbers given
+2 CONT    Gives date of birth as ca. 1785 (age 75 in 1855)
+2 CONT 
+2 CONT ! - 1840 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #20546
+2 CONT    Lists birth as 1780-1790
+2 CONT 
+2 CONT ! - 1830 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF #20626
+2 CONT    Lists birth as 1780-1790
+2 CONT 
+2 CONT ! - History of Indiana County
+2 CONT    LDS Family History Library
+2 CONT    974.88 D2W pg 442
+2 CONT    Lists name only
+2 CONT 
+2 CONT ! - History of Indiana County (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    MF #908,661
+2 CONT    Lists name only
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.88 D3W
+2 CONT 
+2 CONT ! - "Look Behind your Mirror" by Romona Cameron Worley
+2 CONT    Personal Copy
+2 CONT    Section 10-1
+2 CONT    Lists marriage to 1) Nancy Makins 2) Elizabeth Pershing
+2 CONT 
+2 CONT ! - History of Indiana County (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    MF #908661
+2 CONT    Lists marriage to 1) Nancy Makins 2) Elizabeth Pershing
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Temple Index Bureu
+2 CONT    LDS Family History Library
+2 CONT    Special Collections, MF #1,262,765
+2 CONT    Death listed as 1869
+2 CONT 
+2 CONT ! - "Look Behind your Mirror" by Romona Cameron Worley
+2 CONT     Personal Copy
+2 CONT     Section 10-1
+2 CONT     Lists death as 1869
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - Temple Index Bureu
+2 CONT    LDS Family History Library
+2 CONT    Special Collections, MF #1,262,765
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I31@ INDI
+1 NAME Elizabeth /Pershing/
+2 GIVN Elizabeth
+2 SURN Pershing
+1 SEX F
+1 BIRT
+2 DATE 1785
+2 PLAC Westmoreland Co.,Pennsylvania
+1 DEAT
+2 DATE 24 APR 1856
+2 PLAC Indiana County,Pennsylvania
+1 REFN 65
+1 BAPL
+2 DATE 2 NOV 1935
+1 ENDL
+2 DATE 23 JAN 1936
+2 TEMP AZ
+1 FAMS @F30@
+1 FAMC @F34@
+1 SLGC
+2 FAMC @F34@
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - Temple Index Bureau
+2 CONT    LDS Family History Library - Special Collections
+2 CONT    MF# 1,262,765
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - "Look Behind your Mirror" by Romona Cameron Worley
+2 CONT    Personal Copy
+2 CONT    Section 10-1
+2 CONT    Lists birth as 1785
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - History of Indiana County
+2 CONT    LDS Family History Library
+2 CONT    974.88 D2W, pg 442
+2 CONT    Lists name only
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - History of Indiana County
+2 CONT    LDS Family History Library
+2 CONT    MF #908,661
+2 CONT    Lists name only
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists birth as 1785 in Westoreland County, Pennsylvania
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Look Bhind your Mirror" by Romona Cameron Worley
+2 CONT    Personal Copy
+2 CONT    Section 10-1
+2 CONT    Lists Death as 24 Apr 1856
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists death as 24 Apr 1856 in Indiana County, Pennsylvania
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I32@ INDI
+1 NAME Hugh /Cameron/
+2 GIVN Hugh
+2 SURN Cameron
+2 NSFX Sr.
+1 TITL Sr.
+1 SEX M
+1 BIRT
+2 DATE 1746
+2 PLAC Scotland
+1 REFN 128
+1 FAMS @F33@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Look Behind Your Mirror" by Romona Cameron Worley
+2 CONT    Personal Copy
+2 CONT    Section 10-1
+2 CONT    List name only
+2 CONT 
+2 CONT ! - History of Indiana County (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    MF #908,661
+2 CONT    Lists birth as Scotland
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Look Behind Your Mirror" by Romona Cameron Worley
+2 CONT    Personal Copy
+2 CONT    Section 10-1
+2 CONT    Lists marriage to Phebe
+2 CONT 
+2 CONT ! - History of Indiana County (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    MF #908,661
+2 CONT    Lists wife Phebe
+2 CONT 
+2 CONT *Immigrated to US in 1779
+2 CONT *Lived in Westmoreland County 1779-1783
+2 CONT *Lived in Indiana County 1783 - death
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I33@ INDI
+1 NAME Phebe //
+2 GIVN Phebe
+1 SEX F
+1 REFN 129
+1 FAMS @F33@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Look Behind Your Mirror" by Romona Cameron Worley
+2 CONT    Personal Copy
+2 CONT    Section 10-1
+2 CONT    List name only
+2 CONT    (See Cameron Family)
+2 CONT 
+2 CONT ! - History of Indiana County (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    MF #908,661
+2 CONT    Lists name only
+2 CONT    (See Cameron Family)
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I34@ INDI
+1 NAME Jacob /Grow/
+2 GIVN Jacob
+2 SURN Grow
+1 SEX M
+1 BIRT
+2 DATE 1792
+2 PLAC Franklin County,Pennsylvania
+1 DEAT
+2 DATE 18 DEC 1855
+2 PLAC Strongstown,Indiana,Pennsylvania
+1 REFN 66
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 FAMS @F31@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1850 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF#   , page 331
+2 CONT    Lists age as 58 (1792) born in Pennsylvania
+2 CONT 
+2 CONT ! - Military Records
+2 CONT    National Archives
+2 CONT    War of 1812
+2 CONT    Lists age as 21 at enlistment date (5 Jul 1814) born in Franklin County, PA
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    974.889 H2H
+2 CONT    Lists birth as 1792 in Franklin County, Pennsylvania
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT ! - Military Records
+2 CONT    National Archives
+2 CONT    War of 1812
+2 CONT    Lists marriage to 1) Catharine Leidy
+2 CONT                      2) Mary Miller 23 Dec 1819 in Huntington County, PA
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    974.889 H2H
+2 CONT    Lists marriage to Mary Miller in 1820
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Will of Jacob Grow
+2 CONT    Indiana County Courthouse
+2 CONT    Will # 1393
+2 CONT    Will written 27 Oct 1855, probated 24 Dec 1855
+2 CONT 
+2 CONT ! - Military Records
+2 CONT    National Archives
+2 CONT    War of 1812
+2 CONT    Lists death as 18 Dec 1855 in Strongston, Indiana, Pennsylvania
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    974.889 H2H
+2 CONT    Lists death as 18 Dec 1865 (I beleive this is a typo and should be 1855)
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I35@ INDI
+1 NAME Mary /Miller/
+2 GIVN Mary
+2 SURN Miller
+1 SEX F
+1 BIRT
+2 DATE 20 AUG 1802
+2 PLAC Franklin County,Pennsylvania
+1 DEAT
+2 DATE 12 DEC 1892
+2 PLAC Greensburg,Indiana,Pennsylvania
+1 REFN 67
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 FAMS @F31@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1850 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF#   , page 331
+2 CONT    Lists age as 49 (1801) born in Pennsylvania
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania (Caldwells)
+2 CONT    LDS Family History Library
+2 CONT    974.889 H2H
+2 CONT    List that she is from Franklin County, Pennsylvania
+2 CONT 
+2 CONT ! - 1860 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 805,117, page 283
+2 CONT    Lists age as 55 (1805) in Pennsylvania
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Military Records of Jacob Grow
+2 CONT    National Archives
+2 CONT    War of 1812
+2 CONT    Lists death as 21 Dec 1892 in Greensburg, Pennsylvania
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I36@ INDI
+1 NAME David /Moorhead/
+2 GIVN David
+2 SURN Moorhead
+1 SEX M
+1 BIRT
+2 DATE 17 NOV 1816
+2 PLAC Franklin County,Pennsylvania
+1 DEAT
+2 DATE 21 SEP 1900
+2 PLAC Cherryhill,Indiana,Pennsylvania
+1 BURI
+2 DATE 23 SEP 1900
+2 PLAC Taylorsville,Indiana,Pennsylvania
+1 REFN 34
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 FAMS @F20@
+1 FAMC @F36@
+1 SLGC
+2 FAMC @F36@
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.899H2S, Volume 2, pag 1245
+2 CONT    List birth as 1816 in Hagerstown, Washington, Maryland
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - IGI, 1984 Edition
+2 CONT   LDS Family History Library
+2 CONT   Batch # 7707022 - 77
+2 CONT   Lists marriage as 15 Aug 1839 in Franklin County, Pennsylvania
+2 CONT 
+2 CONT ! - "Tree Top Baby" by Susan Nunes
+2 CONT    Personal Copy
+2 CONT    Page 163 - 172
+2 CONT    Lists marriage as 13 Aug 1839 in Waynesboro, Franklin, Pennsylvania
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.899H2S, Volume 2, pag 1245
+2 CONT    Lists marriage as 15 Aug 1839 to Lydia Hahn in Franklin County, Penn.
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.899H2S, Volume 2, pag 1245
+2 CONT    Lists death as 21 Sep 1900 in Taylorsville, Indiana, Penn.
+2 CONT 
+2 CONT *Was a farmer in Maryland
+2 CONT *Rev. Glassinger of the German Reformed Church preformed wedding *Moved to Indiana County i
+2 CONC n 1842
+2 CONT *Engaged in the tanning business in Mechanicsburg, Pa. (Brushvalley) *In 1870 moved to Taylor
+2 CONC sville and bought farm
+2 CONT *Member of M.E. Church for 40 years
+2 CONT *Was a Republican
+2 CONT *Was in the Civil War for Union in the 11th Pa Reserves *Took part in 28 battles and many ski
+2 CONC rmishes
+2 CONT *Was wounded in left hip
+2 CONT *Son William lived with them and did the farming
+2 CONT *David raised tobacoo after he married. Lydia smoked a clay pipe
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I38@ INDI
+1 NAME William Daniel /Marsh/
+2 GIVN William Daniel
+2 SURN Marsh
+1 SEX M
+1 BIRT
+2 DATE 18 AUG 1860
+2 PLAC Nashville,Brown,Indiana
+1 DEAT
+2 DATE 14 FEB 1930
+2 PLAC Endicott,Whitman,Washington
+1 BURI
+2 DATE 19 FEB 1930
+2 PLAC Endicott,Whitman,Washington
+1 AFN 4D28-7G
+1 REFN 28
+1 BAPL
+2 DATE 23 JUL 1975
+2 TEMP AZ
+1 ENDL
+2 DATE 6 SEP 1975
+2 TEMP AZ
+1 FAMS @F17@
+1 FAMC @F38@
+1 SLGC
+2 FAMC @F38@
+2 DATE 9 OCT 1975
+2 TEMP AZ
+1 NOTE !BIRTH/PLACE
+2 CONT  - IGI Index
+2 CONT    LDS Family History Library
+2 CONT    Batch # 7,503,507
+2 CONT    Gives birth as 18 Aug 1860
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    Photcopy of Original - No MF # recorded
+2 CONT    Birth given as 18 Aug 1860
+2 CONT 
+2 CONT ! - 1900 Census Whitman County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF # 1,241,753
+2 CONT    Birth given as Aug 1860
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Whitman County Gen. Soc.
+2 CONT    Transcribed from Endicott Graveyard
+2 CONT    Gives birth as 1860
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Certificate
+2 CONT    Whitman County Courthouse
+2 CONT    Photocopy of Original, Book C pg 26
+2 CONT    Gives marriage as 4 Apr 1889
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    Photcopy of Original - No MF # recorded
+2 CONT    Death given as 14 Feb 1930
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Whitman County Gen. Soc.
+2 CONT    Transcribed from Endicott Graveyard
+2 CONT    Gives death date as 1930
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Tombstone
+2 CONT    Whitman County Gen. Soc.
+2 CONT    Transcribed from Endicott Graveyard
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    Photcopy of Original - No MF # recorded
+2 CONT    Death given as 14 Feb 1930
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - IGI Index
+2 CONT    LDS Family History Library
+2 CONT    Batch # 7,503,507
+2 CONT 
+2 CONT ! - IGI Index - 1988 edit.
+2 CONT    Annapolis Family History Center
+2 CONT    Batch #8,610,511 - 58
+2 CONT 
+2 CONT *Marriage preformed by R.H. Maines
+2 CONT *Was a farmer according to 1900 Census and death certificate *Died of a cerebral Hemorage
+1 CHAN
+2 DATE 5 OCT 1999
+3 TIME 01:00:00
+0 @I39@ INDI
+1 NAME Hester Ann /Munson/
+2 GIVN Hester Ann
+2 SURN Munson
+1 SEX F
+1 BIRT
+2 DATE 6 JUN 1859
+2 PLAC Sullivan,Moultrie,Illinois
+1 DEAT
+2 DATE 14 JUN 1945
+2 PLAC Endicott,Whitman,Washington
+1 BURI
+2 DATE 17 JUN 1945
+2 PLAC Endicott,Whitman,Washington
+1 REFN 29
+1 BAPL
+2 DATE 2 MAY 1978
+2 TEMP OG
+1 ENDL
+2 DATE 14 JUN 1978
+2 TEMP OG
+1 FAMS @F17@
+1 FAMC @F39@
+1 SLGC
+2 FAMC @F39@
+2 DATE 2 AUG 1978
+2 TEMP OG
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1900 Census Whitman County, Washinton
+2 CONT    LDS Family History Library
+2 CONT    MF # 1,241,753
+2 CONT    Birth given as Jun 1859
+2 CONT    See Marsh Family
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Whitman County Gen. Soc.
+2 CONT    Transcribed from Endicott Graveyard
+2 CONT    Birth given as 1859
+2 CONT    See Marsh Family
+2 CONT 
+2 CONT ! - IGI Index
+2 CONT    Annapolis Family History Center
+2 CONT    Batch #7,732,030 - 77
+2 CONT    Birth given as 6 Jun 1859 in Moultrie County, Illinois
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF #
+2 CONT    Birth given as 6 Jun 1859
+2 CONT 
+2 CONT ! - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    She lists Hester's birth as July not June
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Tombstone
+2 CONT    Whitman County Gen. Soc.
+2 CONT    Transcribed from Endicott Graveyard
+2 CONT    Death given as 1945
+2 CONT    See Marsh Family
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF #
+2 CONT    Birth given as 6 Jun 1859
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Burial given as 17 Jun 1945
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - IGI Index
+2 CONT   Annapolis Family History Center
+2 CONT   Batch #7,329,114 - 58
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I40@ INDI
+1 NAME Thomas Duncan Sedgwick /Hart/
+2 GIVN Thomas Duncan Sedgwick
+2 SURN Hart
+1 SEX M
+1 BIRT
+2 DATE 6 JUL 1866
+2 PLAC Louisville,Jefferson,Kentucky
+1 DEAT
+2 DATE 12 MAY 1913
+2 PLAC Seattle,King,Washington
+1 BURI
+2 DATE 16 MAY 1913
+2 PLAC Walla Walla,Walla Walla,Washington
+1 REFN 30
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F18@
+1 FAMC @F40@
+1 SLGC
+2 FAMC @F40@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Board of Health
+2 CONT    Rec 999, File 1301
+2 CONT    Birth given as 1866
+2 CONT 
+2 CONT ! - 1880 Census Klickitat County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Page#
+2 CONT    Age given as 14 (1866), birth in Kentucky
+2 CONT 
+2 CONT ! - 1900 Census Walla Walla County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Vol 19, ED 90, Sheet 7, Line 28
+2 CONT    Birth given as Jul 1865 (age 34), place unknown
+2 CONT 
+2 CONT ! - History of Walla Walla County, Washington
+2 CONT    LDS Family History Library
+2 CONT    Call Num:
+2 CONT    Page 377
+2 CONT    Birth given as 6 July 1865 in Louisville, Kentucky
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Record
+2 CONT    Walla Walla County Courthouse
+2 CONT    No Volume or page number recorded
+2 CONT 
+2 CONT  !- History of Walla Walla County, Washington
+2 CONT    LDS Family History Library
+2 CONT    Call Num:
+2 CONT    Page 377
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Board of Health
+2 CONT    Rec 999, File 1301
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Board of Health
+2 CONT    Rec 999, File 1301
+2 CONT 
+2 CONT *Died of organic heart trouble and chronic endocarditis *1900 Census gives occupation as Cler
+2 CONC k, Auditor
+2 CONT *1900 Census shows family living at 713 4th in Walla Walla *WW County History:
+2 CONT  - was deputy county auditor as of 1900
+2 CONT  - moved to Albany, Oregon when 6 years old
+2 CONT  - attended Albany Colleg in Albany
+2 CONT  - learned printers trade in Albany
+2 CONT  - moved to Goldendale, Washington in 1879
+2 CONT  - in printing business there;also newspaper
+2 CONT  - moved to Walla Walla in 1884, printer/newspaper
+2 CONT  - was member of Knights of Pythias
+2 CONT  - in Spanish American War as 2nd and 1st Lietentant
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I41@ INDI
+1 NAME Bertha May /Malone/
+2 GIVN Bertha May
+2 SURN Malone
+1 SEX F
+1 BIRT
+2 DATE 26 JUL 1878
+2 PLAC Walla Walla,Walla Walla,Washington
+1 DEAT
+2 DATE 29 JUL 1972
+2 PLAC Dalles,Oregon
+1 REFN 31
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F18@
+1 FAMC @F41@
+1 SLGC
+2 FAMC @F41@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1900 Census Walla Walla, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Vol 19, ED 90, Sheet 7, Line 28
+2 CONT    Birth given as Jul 1878 in Washington (See Hart Family)
+2 CONT 
+2 CONT ! - Delayed Birth Certificate
+2 CONT    Washington State Bureau of Stats
+2 CONT    Special File #15
+2 CONT    Birth given as 26 Jul 1878 in Walla Walla
+2 CONT 
+2 CONT ! - 1880 Census Walla Walla County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF# recorded, page 234
+2 CONT    Age given as 1 (1879) in Washington
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Personal Information from daughter Arline (Hart) Marsh
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I42@ INDI
+1 NAME David /Stephens/
+2 GIVN David
+2 SURN Stephens
+1 SEX M
+1 BIRT
+2 DATE 1821
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 8 OCT 1899
+2 PLAC Brushvalley,Indiana,Pennsylvania
+1 BURI
+2 PLAC Cresswell Cemt.,Brushvalley,Indiana,Pennsylvania
+1 REFN 36
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F21@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1860 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 805,116
+2 CONT    Lists age as 39 (1821) born in Pennsylvania
+2 CONT 
+2 CONT ! - 1850 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 444,753
+2 CONT    Lists age as 28 (1822) born in Pennsylvania
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - 1900 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,241,415
+2 CONT    Wife listed as having been married 56 years, husband not listed
+2 CONT 
+2 CONT *Lists occupation as farmer $125 estate, owned $100
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I43@ INDI
+1 NAME Cathrine /Winkelman/
+2 GIVN Cathrine
+2 SURN Winkelman
+1 SEX F
+1 BIRT
+2 DATE MAY 1825
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 11 MAR 1916
+2 PLAC Brushvalley,Indiana,Pennsylvania
+1 BURI
+2 PLAC Cresswell Cemt.,Brushvalley,Indiana,Pennsylvania
+1 REFN 37
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F21@
+1 FAMC @F42@
+1 SLGC
+2 FAMC @F42@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1900 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,241,415
+2 CONT    Lists birth as may 1825 in Pennsylvania
+2 CONT 
+2 CONT ! - 1860 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 805,116
+2 CONT    Lists age as 35 (1825) born in Pennsylvania
+2 CONT 
+2 CONT ! - 1850 Census Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    MF# 444,753
+2 CONT    Lists age as 26 (1824) born in Pennsylvania
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I44@ INDI
+1 NAME James /Moorhead/
+2 GIVN James
+2 SURN Moorhead
+1 SEX M
+1 BIRT
+2 DATE 1766
+2 PLAC Antrim,Cumberland,Pennsylvania
+1 DEAT
+2 DATE BEF 29 OCT 1838
+2 PLAC Franklin County,Pennsylvania
+1 REFN 68
+1 FAMS @F36@
+1 FAMC @F43@
+1 NOTE !Will G.S. #42411 pt 5 Vol D pg 426
+2 CONT !1830 Census Franklin County G.S. #20,625 pg 342
+2 CONT !1820 Census Franklin County G.S. #81,406 pg 99
+2 CONT !1810 Census Franklin County G.S. #193,680 pg 141
+2 CONT !"Tree Top Baby" by Susan Moorhead Nunes
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I45@ INDI
+1 NAME Sarah Ann /Cox/
+2 GIVN Sarah Ann
+2 SURN Cox
+1 SEX F
+1 BIRT
+2 DATE 7 OCT 1835
+2 PLAC Nashville,Brown,Ind
+1 DEAT
+2 DATE 14 JUN 1917
+2 PLAC Endicott,Whitman,Washington
+1 BURI
+2 DATE 16 JUN 1917
+2 PLAC Endicott Cemt.,Whitman,Washington
+1 REFN 57
+1 BAPL
+2 DATE 25 OCT 1974
+2 TEMP SL
+1 ENDL
+2 DATE 17 JAN 1975
+2 TEMP SL
+1 FAMS @F38@
+1 FAMC @F44@
+1 SLGC
+2 FAMC @F44@
+2 DATE 18 FEB 1975
+2 TEMP SL
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1900 Census Whitman County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF # 1,241,753
+2 CONT    Birth listed as Oct 1835
+2 CONT    See Marsh Family
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Whitman County Gen. Soc.
+2 CONT    Transcribed from Endicott Graveyard
+2 CONT    Birth listed as 1835
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Record
+2 CONT    LDS Family History Library
+2 CONT    MF # ?
+2 CONT    Death listed as 14 Jun 1917
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Whitman County Gen. Soc.
+2 CONT    Transcribed from Endicott Graveyard
+2 CONT    Death listed as 1917
+2 CONT 
+2 CONT !TEMPLE WORD
+2 CONT  - IGI Index 1984 Edit.
+2 CONT    Annapolis Family History Center
+2 CONT    Batch # 7,413,504 - 5
+2 CONT 
+2 CONT *Died of Angina Pectoris
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I46@ INDI
+1 NAME Levi /Malone/
+2 GIVN Levi
+2 SURN Malone
+1 SEX M
+1 BIRT
+2 DATE 16 MAR 1848
+2 PLAC Hendricks County,Indiana
+1 DEAT
+2 DATE 31 JUL 1933
+2 PLAC Walla Walla,Walla Walla,Washington
+1 BURI
+2 DATE 3 AUG 1933
+2 PLAC Mt. View Cemt.,Walla Walla,Washington
+1 REFN 62
+1 FAMS @F41@
+1 FAMC @F45@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Birth Certificate of daughter Bertha May Malone
+2 CONT    Washington State Bureau of Stats.
+2 CONT    Special File #15
+2 CONT    Lists birth as 1848 in Hendricks County, Indiana
+2 CONT 
+2 CONT ! - History of Walla Walla County, Washington
+2 CONT    Early Settlers Appendix A
+2 CONT    No Call number recorded  (LDS Family History Library)
+2 CONT    Gives birth as 18 Mar 1848 in Hendricks County, Indiana
+2 CONT 
+2 CONT ! - 1880 Census Walla Walla County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF# recorded, page 234
+2 CONT    Age given as 32 (1848) in ?
+2 CONT 
+2 CONT ! - 1900 Soundex Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF# recorded, Vol 19 Ed 88, Sheet 2, Line 3
+2 CONT    Gives birth as Mar 1848 in Indiana
+2 CONT 
+2 CONT ! - 1850 Census Hendricks County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    No MF# recorded, page 118
+2 CONT    Age: 3 (1848) born in Indiana
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Record
+2 CONT    Walla Walla County Courthouse
+2 CONT    No volume or page recorded
+2 CONT    Marriage given as 21 Sept 1873 in Walla Walla
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Bureau of Stats
+2 CONT    Reg 141
+2 CONT    Death given as 31 July 1933 in Walla Walla
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Bureau of Stats
+2 CONT    Reg 141
+2 CONT    Burial given as 3 Aug 1933 at Mt. View in Walla Walla
+2 CONT 
+2 CONT *Daughters Birth Certificate states he was a farmer *Marriage performed by A.W. Sweeny, witne
+2 CONC sses O. Dewitt and Sarah Corkrum *History of Walla Walla
+2 CONT  - lived 6 miles northeast of Walla Walla
+2 CONT  - Was a farmer, owned 120 acres
+2 CONT  - came to Walla Walla in 1864
+2 CONT *1900 Soundex gives occupation as jailer
+2 CONT *Death Certificate gives occupation as police officer in Walla Walla *Was living at 618 Eas
+2 CONC t Rose Street in Walla Walla at time of death
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I47@ INDI
+1 NAME Emma Roseta /Standfield/
+2 GIVN Emma Roseta
+2 SURN Standfield
+1 SEX F
+1 BIRT
+2 DATE 29 JUN 1858
+2 PLAC Oskaloosa,Mahaska,Iowa
+1 DEAT
+2 DATE 22 APR 1954
+2 PLAC Walla Walla,Walla Walla,Washington
+1 BURI
+2 DATE 26 APR 1954
+2 PLAC Ioof Cemt.,Walla Walla,Walla Walla,Washington
+1 REFN 63
+1 FAMS @F41@
+1 FAMC @F46@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Birth Certificate of daughter Bertha May Malone
+2 CONT    Washington State Bureau of Stats
+2 CONT    Special File #15
+2 CONT    Birth given as 1858 in Oakaloosa, Iowa (see Malone Family)
+2 CONT 
+2 CONT ! - 1880 Census Walla Walla County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF# recorded, page 234
+2 CONT    Age given as 22 (1858) in Iowa (See Malone Family)
+2 CONT 
+2 CONT ! - 1900 Soundex Asotin County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF# recorded, Vol 19 Ed 88, Sheet 2, Line 3
+2 CONT    Gives birth as Jun 1858 in Iowa
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats.
+2 CONT    File #7679
+2 CONT    Birth given as 29 Jun 1858
+2 CONT 
+2 CONT ! - History of Walla Walla
+2 CONT    LDS Family History Library
+2 CONT    979.7 H26, pg 35 in Appendix
+2 CONT    Birth given as 24 Jun 1858
+2 CONT 
+2 CONT ! - 1870 Census Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    MF# 295,687
+2 CONT    Age given as 12 (1858); born in Iowa
+2 CONT 
+2 CONT ! - 1860 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 803,334
+2 CONT    Age given as 2 (1858); born in Iowa
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - History of Walla Walla
+2 CONT    LDS Family History Library
+2 CONT    979.7 H26, pg 35 in Appendix
+2 CONT    Marriage given as Sept 1873
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats.
+2 CONT    File #7679
+2 CONT    Death given as 22 Apr 1954
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Bureau of Vital Stats.
+2 CONT    File #7679
+2 CONT    Death given as 22 Apr 1954
+2 CONT 
+2 CONT *Died of senility (had for 5 years)
+2 CONT *Lived at 512 E. Rose Street
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I48@ INDI
+1 NAME Isaac /Malone/
+2 GIVN Isaac
+2 SURN Malone
+1 SEX M
+1 BIRT
+2 DATE OCT 1819
+2 PLAC Ohio
+1 DEAT
+2 DATE 28 APR 1903
+2 PLAC Columbia County,Washington
+1 REFN 124
+1 FAMS @F45@
+1 FAMC @F47@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1880 Census Columbia County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF#, page 105
+2 CONT    Age given as 59 (1821) in Ohio
+2 CONT 
+2 CONT ! - 1900 Soundex Columbia County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF or page numbers
+2 CONT    Birth: Oct 1819 born in Ohio
+2 CONT 
+2 CONT ! - 1870 Census Walla Walla County Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF# or page numbers recorded
+2 CONT    Age: 50 (1820) born in Ohio
+2 CONT 
+2 CONT ! - 1850 Census Hendricks County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    No MF# recorded, page 118
+2 CONT    Age: 30 (1820) born in Ohio
+2 CONT 
+2 CONT *1880 Census gives occupation as a farmer
+2 CONT *1900 living with oldest son in Star Precinct in Columbia County, Wash.
+2 CONT *1850 Census gives occupation as a farmer
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I49@ INDI
+1 NAME Lavina /Hill/
+2 GIVN Lavina
+2 SURN Hill
+1 SEX F
+1 BIRT
+2 DATE NOV 1820
+2 PLAC Ohio
+1 DEAT
+2 DATE 16 APR 1906
+2 PLAC Columbia County,Washington
+1 REFN 125
+1 FAMS @F45@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1880 Census Columbia County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF# , page 105
+2 CONT    Age given as 58 (1822) born in Ohio (See Malone Family)
+2 CONT 
+2 CONT ! - 1900 Soundex Columbia County, Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF or page numbers
+2 CONT    Birth: Nov 1820 in Ohio (See Malone Family)
+2 CONT 
+2 CONT ! - 1870 Census Walla Walla County Washington
+2 CONT    LDS Family History Library
+2 CONT    No MF# or page numbers recorded
+2 CONT    Age: 48 (1822) in Ohio (See Malone Family)
+2 CONT 
+2 CONT ! - 1850 Census Hendricks County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    No MF# recorded, page 118
+2 CONT    Age: 39 (1821) born in Ohio
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I50@ INDI
+1 NAME Moses Montgomery /Hart/
+2 GIVN Moses Montgomery
+2 SURN Hart
+1 SEX M
+1 BIRT
+2 DATE 18 NOV 1836
+2 PLAC Louisville,Jefferson,Kentucky
+1 DEAT
+2 DATE 1 DEC 1908
+2 PLAC Walla Walla,Walla Walla,Washington
+1 BURI
+2 DATE 3 DEC 1908
+2 PLAC City Cemt.,Walla Walla,Walla Walla,Washington
+1 REFN 60
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F40@
+1 FAMC @F48@
+1 SLGC
+2 FAMC @F48@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Board of Health
+2 CONT    Rec 311, Reg 280
+2 CONT 
+2 CONT ! - 1850 Census Jefferson County, Kentucky
+2 CONT    LDS Family History Center
+2 CONT    MF #
+2 CONT    Page 090
+2 CONT    Age given as 14 (1836), born in Kentucky
+2 CONT 
+2 CONT ! - 1880 Census Klikatat County, Washington
+2 CONT    LDS Family History Center
+2 CONT    MF#
+2 CONT    Page
+2 CONT    Age given as 40 (1840), birth in Kentucky
+2 CONT 
+2 CONT ! - 1900 Census Walla Walla County, Washington
+2 CONT    LDS Family History Center
+2 CONT    MF#
+2 CONT    Vol 19, ED 89, Sheet 2, Line 86
+2 CONT    Birth given as Nov 1836 in Kentucky
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Certificate
+2 CONT    Jefferson County Courthouse, Kentucky
+2 CONT    Record #220
+2 CONT    Wifes name given as Ilona Sedgewick
+2 CONT 
+2 CONT ! - 1900 Census Walla Walla County, Washington
+2 CONT    LDS Family History Center
+2 CONT    MF#
+2 CONT    Vol 19, ED 89, Sheet 2, Line 86
+2 CONT    Lists having been married 35 years
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Board of Health
+2 CONT    Rec 311, Reg 280
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Board of Health
+2 CONT    Rec 311, Reg 280
+2 CONT 
+2 CONT *Lived at 209 S. 5th St. at Death
+2 CONT *Died of heart problems
+2 CONT *1880 Census gives occupation as Clerk in Store
+2 CONT *1880 Census shows family living at South first and Grant *1900 Census shows family living a
+2 CONC t 9 Touchet in Walla Walla *1900 Census shows occupation as Book Keeper
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I51@ INDI
+1 NAME Ione /Sedgwick/
+2 GIVN Ione
+2 SURN Sedgwick
+1 SEX F
+1 BIRT
+2 DATE 10 FEB 1839
+2 PLAC Kentucky
+1 DEAT
+2 DATE 29 JUL 1914
+2 PLAC Aberdeen,Chehalis,Washington
+1 BURI
+2 DATE 1 AUG 1914
+2 PLAC Walla Walla,Walla Walla,Washington
+1 REFN 61
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F40@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1880 Census Klickitat County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Page
+2 CONT    Age given as 30 (1850), birth in Kentucky (See Hart Family)
+2 CONT 
+2 CONT ! - 1900 Census Walla Walla County, Washington
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Vol 19, ED 89, Sheet 2, Line 86
+2 CONT    Birth given as Feb 1839 in Kentucky (See Hart Family)
+2 CONT 
+2 CONT !DEATHL/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washinton State Bureau of Vital Stats
+2 CONT    Rec 221, Reg no. 103
+2 CONT    Death date given as 29 July 1914
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washinton State Bureau of Vital Stats
+2 CONT    Rec 221, Reg no. 103
+2 CONT    Death date given as 29 July 1914
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I52@ INDI
+1 NAME Nathan /Hart/
+2 GIVN Nathan
+2 SURN Hart
+1 SEX M
+1 BIRT
+2 DATE 1801
+2 PLAC Cracow,Poland
+1 DEAT
+2 DATE 30 JUN 1889
+2 PLAC Chicago,Illinois
+1 BURI
+2 DATE 1 JUL 1889
+2 PLAC Oakdale Cemt.,Davenport,Scott,Iowa
+1 REFN 120
+1 FAMS @F48@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1850 Census Warren County, Kentucky
+2 CONT    LDS Family History Library
+2 CONT    MF #
+2 CONT    Page 090
+2 CONT    Claims Polland as birth place
+2 CONT 
+2 CONT ! - Obituary of Nathan Hart
+2 CONT    Morning Democrat Gazzette
+2 CONT    Davenport, Iowa
+2 CONT    2 July 1889
+2 CONT    Claims Polland as birth place
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Elsie Davis
+2 CONT    Information from Hart family bible
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Obituary of Nathan Hart
+2 CONT    Morning Democrat Gazzette
+2 CONT    Davenport, Iowa
+2 CONT    2 July 1889
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Elsie Davis
+2 CONT    Information from Hart family bible
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Obituary of Nathan Hart
+2 CONT    Morning Democrat Gazzette
+2 CONT    Davenport, Iowa
+2 CONT    2 July 1889
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Elsie Davis
+2 CONT    Information from Hart family bible
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Obituary of Nathan Hart
+2 CONT    Morning Democrat Gazzette
+2 CONT    Davenport, Iowa
+2 CONT    2 July 1889
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Elsie Davis
+2 CONT    Information from Hart family bible
+2 CONT 
+2 CONT *Occupation listed in Census (1850) as merchant
+2 CONT *Obituary: - moved to Scott County, Iowa in 1857
+2 CONT            - he served in Mexican War (1848)
+2 CONT            - was a small boy when he left Poland
+2 CONT            - left a widowed mother in Poland
+2 CONT            - Lived in Louisville, Kentucky
+2 CONT            - Lived at son's Edward's home at time of death
+2 CONT            - at death 8 children, 16 grandchildre, 5 gt-grandchildren *FGS: - lived in New Or
+2 CONC leans 1828 - 1833
+2 CONT                  Louisville to 1848
+2 CONT                  Warren County, Ky past 1850
+2 CONT                  LeClaire, Iowa 1857+
+2 CONT       - Possible was of the Jewish religion
+2 CONT       - Mentions he was a merchant
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I53@ INDI
+1 NAME Amelia /van Ostern/
+2 GIVN Amelia
+2 SURN van Ostern
+1 SEX F
+1 BIRT
+2 DATE 1809/1812
+2 PLAC Holland
+1 DEAT
+2 DATE 13 SEP 1866
+2 PLAC Le Claire,Scott,Iowa
+1 BURI
+2 PLAC Oakdale Cemt.,Davenport,Scott,Iowa
+1 REFN 121
+1 FAMS @F48@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1850 Census Jefferson County, Kentucky
+2 CONT    LDS Family History Center
+2 CONT    MF #
+2 CONT    Page 090
+2 CONT    Birth place given as Holland (See Hart Family)
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Compiled by Elsie Davis
+2 CONT    Information from Hart family bible
+2 CONT    Birth given as 1809-1812 (See Hart Family)
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Elsie Davis
+2 CONT    Information from Hart family bible (See Hart Family)
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Family Group Sheet
+2 CONT    Compiled by Elsie Davis
+2 CONT    Information from Hart family bible (See Hart Family)
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I54@ INDI
+1 NAME Cathrine /Smith/
+2 GIVN Cathrine
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE 1805
+2 PLAC Branton Parrish,,England
+1 DEAT
+2 DATE 3 DEC 1897
+2 PLAC Grand Rapids,Wood,Wis
+1 REFN 53
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F28@
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I55@ INDI
+1 NAME William Thomas /Farrish/
+2 GIVN William Thomas
+2 SURN Farrish
+1 SEX M
+1 BIRT
+2 DATE 1795
+2 PLAC Hoddam Parrish,Dumfriashire,Scotland
+1 DEAT
+2 DATE 16 JUN 1868
+2 PLAC Frenchtown,,Wis
+1 BURI
+2 PLAC Frenchtown,Wis
+1 REFN 52
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F28@
+1 NOTE !Source of info from records compiled by Clair Wambsley
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I56@ INDI
+1 NAME William F. /Standfield/
+2 GIVN William F.
+2 SURN Standfield
+1 SEX M
+1 BIRT
+2 DATE 13 JAN 1835
+2 PLAC Illinois
+1 DEAT
+2 DATE 1 JUN 1910
+2 PLAC Walla Walla,Walla Walla,Washington
+1 BURI
+2 DATE 3 JUN 1910
+2 PLAC I.o.o.F. Cemt.,Walla Walla,Walla Walla,Washington
+1 REFN 126
+1 BAPL
+2 DATE 2 MAY 1975
+2 TEMP LA
+1 ENDL
+2 DATE 8 JUL 1975
+2 TEMP LA
+1 FAMS @F46@
+1 FAMC @F49@
+1 SLGC
+2 FAMC @F49@
+2 DATE 6 JAN 1976
+2 TEMP LA
+1 NOTE !BIRTH/PLACE
+2 CONT  - IGI Index
+2 CONT    State of Iowa - 1984 Edition
+2 CONT    LDS Family History Library
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    Submitted for Temple Work by Dr. James Bosley
+2 CONT    LDS Family History Library
+2 CONT    No MF # recorded
+2 CONT    Gives his birth place as Tenn.
+2 CONT 
+2 CONT ! - Death Certificate
+2 CONT    Washington State Bureau of Vitl Stats
+2 CONT    Rec. 130, Reg. 86
+2 CONT    Birth place given as Illinois
+2 CONT 
+2 CONT ! - History of Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    979.7H26, pg 35 in Appendix
+2 CONT    Birth place given as Illinois near Wabash river
+2 CONT 
+2 CONT ! - 1900 Census Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,241,752
+2 CONT    Birth given as Jan 1835 in Illinois; parents born in Tenn.
+2 CONT 
+2 CONT ! - 1880 Census Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    MF # 1,255,398
+2 CONT    Age given as 45 (1835);born in Illinois;parents born in Tenn.
+2 CONT 
+2 CONT ! - 1870 Census Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    MF# 295,687
+2 CONT    Age given as 34 (1836); born in Illinois
+2 CONT 
+2 CONT ! - 1860 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 803,334
+2 CONT    Age given as 25 (1835); born in Illinois
+2 CONT 
+2 CONT ! - 1850 Census Mahask County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 442,962
+2 CONT    Age given as 14 (1836); born in Tenn.
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Entry Form
+2 CONT    LDS Family History Librar
+2 CONT    Submitted by Mrs. James Bosley
+2 CONT    MF #7,504,302
+2 CONT 
+2 CONT ! - History of Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    979.7H26, pg 35 in Appendix
+2 CONT    Marriage given as 29 may 1857
+2 CONT 
+2 CONT ! - 1900 Census Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,241,752
+2 CONT    Married 43 years; 8 children, 7 living
+2 CONT 
+2 CONT ! - Marriage Certificate
+2 CONT    LDS Family History Library
+2 CONT    MF# 985,382
+2 CONT    Marriage given as 30 May 1857; Wife listed as Sarah DeWitt
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Bureau of Vitl Stats
+2 CONT    Rec. 130, Reg. 86
+2 CONT    Death given as 1 Jun 1910
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Death Certificate
+2 CONT    Washington State Bureau of Vitl Stats
+2 CONT    Rec. 130, Reg. 86
+2 CONT    Death given as 1 Jun 1910
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - IGI Index
+2 CONT    State of Iowa - 1984 Edition
+2 CONT    LDS Family History Library
+2 CONT 
+2 CONT *Lived at 10 Park Place in Walla Walla
+2 CONT *Death Certificate states he was a farmer
+2 CONT *1900 Census states he was a farmer;morgaged home;Farm schedule 160 *1880 Census states he wa
+2 CONC s a farmer
+2 CONT *1870 Census states he was a farmer (Real Estate=$1000,Personal=$900) *1860 Census states h
+2 CONC e was a farmer (Real Estate=$120,Personal=$100) *Marriage performed by J. Standfield, J.P
+2 CONC . - possibly father
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I57@ INDI
+1 NAME Sally /Dewitt/
+2 GIVN Sally
+2 SURN Dewitt
+1 SEX F
+1 BIRT
+2 DATE 9 MAY 1836
+2 PLAC Holmes County,Ohio
+1 DEAT
+2 DATE AFT 1927
+2 PLAC Res. of,Walla Walla,Wash.
+1 REFN 127
+1 FAMS @F46@
+1 FAMC @F50@
+1 SLGC
+2 FAMC @F50@
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - History of Walla Walla
+2 CONT    LDS Family History Library
+2 CONT    979.7 H26, pg 35 in Appendix
+2 CONT    No birthdate, only place as Ohio
+2 CONT    (See Standfield Family)
+2 CONT 
+2 CONT ! - 1900 Census Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,241,752
+2 CONT    Birth given as May 1836 in Ohio;parents born in Pennsylvania
+2 CONT    (See Standfield Family)
+2 CONT 
+2 CONT ! - 1880 Census Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,233,398
+2 CONT    Age given as 44 (1836); born in Ohio;name given as Sallie
+2 CONT    (See Standfield Family)
+2 CONT 
+2 CONT ! - 1870 Census Walla Walla County
+2 CONT    LDS Family History Library
+2 CONT    MF# 295,687
+2 CONT    Age given as 34 (1836); born in Ohio;name given as Sallie
+2 CONT    (See Standfield Family)
+2 CONT 
+2 CONT ! - 1860 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 803,334
+2 CONT    Age given as 34 (1836); born in Ohio; name given as Sarah
+2 CONT    (See Standfield Family)
+2 CONT 
+2 CONT ! - 1850 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# ?, page 196
+2 CONT    Age listed as 15
+2 CONT 
+2 CONT Ref HPC., pg 1314 Her Ref: Hist. Sketches Walla Walla, Whitman ect...
+2 CONT   Washington Terr. 1882 F.T. Gilbert.
+2 CONT HPF pg 115 Wall Walla, Wash Census
+1 CHAN
+2 DATE 2 SEP 2000
+3 TIME 01:00:00
+0 @I58@ INDI
+1 NAME Thomas Goodrich /Bean/
+2 GIVN Thomas Goodrich
+2 SURN Bean
+1 SEX M
+1 BIRT
+2 DATE 9 MAR 1818
+2 PLAC Milton,Chittenden,Vermont
+1 DEAT
+2 DATE 22 OCT 1888
+2 PLAC Asotin,Asotin,Washington
+1 BURI
+2 PLAC Anatone,Asotin,Washington
+1 REFN 54
+1 FAMS @F29@
+1 FAMC @F51@
+1 NOTE !MARRIAGE/PLACEE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists marriage as Mar 1837
+2 CONT    (See Vaughan Family)
+2 CONT 
+2 CONT *Came west from Wisin 1872
+2 CONT *Help plat town of Columbia Center, Wash 1877
+2 CONT *Operated a Lumber mill in Columbia Center 1876-1877 w/ Andrew Blackman *Moved to Anatone i
+2 CONC n 1878
+2 CONT *Encouraged William Farrish to move to Anatone
+2 CONT *Set up saw mill together in 1878 near Anatone
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I59@ INDI
+1 NAME Sarah Bourn /Vaughan/
+2 GIVN Sarah Bourn
+2 SURN Vaughan
+1 SEX F
+1 BIRT
+2 DATE 7 JUN 1817
+2 PLAC Plattsburg,Clinton,New York
+1 DEAT
+2 DATE 6 FEB 1906
+2 PLAC Asotin,Asotin,Washington
+1 BURI
+2 PLAC Anatone,Asotin,Washington
+1 REFN 55
+1 BAPL
+2 DATE 1 MAR 1986
+2 TEMP IF
+1 ENDL
+2 DATE 18 APR 1986
+2 TEMP IF
+1 FAMS @F29@
+1 FAMC @F52@
+1 SLGC
+2 FAMC @F52@
+2 DATE 18 APR 1986
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists birth as 7 Jun 1817 in Plattsburg, New York
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I60@ INDI
+1 NAME Eliphalet /Bean/
+2 GIVN Eliphalet
+2 SURN Bean
+1 SEX M
+1 BIRT
+2 DATE 20 MAY 1759
+2 PLAC Brentwood,Rockingham,Nh
+1 DEAT
+2 PLAC Plattsburg,Clinton,Ny
+1 REFN 108
+1 BAPL
+2 DATE 11 MAR 1972
+2 TEMP LA
+1 ENDL
+2 DATE 22 JUN 1972
+2 TEMP LA
+1 FAMS @F51@
+1 FAMC @F53@
+1 SLGC
+2 FAMC @F53@
+2 DATE 9 MAR 1973
+2 TEMP LA
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I61@ INDI
+1 NAME Betsy /Goodrich/
+2 GIVN Betsy
+2 SURN Goodrich
+1 SEX F
+1 BIRT
+2 DATE 1760
+1 REFN 109
+1 FAMS @F51@
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I62@ INDI
+1 NAME Daniel Bowen /Vaughan/
+2 GIVN Daniel Bowen
+2 SURN Vaughan
+1 SEX M
+1 BIRT
+2 DATE 8 NOV 1781
+2 PLAC Manchester,Bennington,Vermont
+1 DEAT
+2 DATE 10 MAY 1826
+2 PLAC Saranac,Clinton,New York
+1 REFN 110
+1 BAPL
+2 DATE 13 SEP 1967
+1 ENDL
+2 DATE 21 SEP 1967
+1 FAMS @F52@
+1 FAMC @F54@
+1 SLGC
+2 FAMC @F54@
+2 DATE 19 MAR 1968
+2 TEMP SL
+1 NOTE !BIRTH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists birth as 8 Nov 1781 in Manchester, Vermont
+2 CONT 
+2 CONT ! - Family Group Sheet Archive of Church
+2 CONT    LDS Family History Library
+2 CONT    Lists birth as 8 Nov 1781 in Dorset, Vermont
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists marriage as Sep 1804 in Manchester, Vermont
+2 CONT 
+2 CONT ! - Bounty Land Application
+2 CONT    National Archives
+2 CONT    Photocopies of originals
+2 CONT    Lists marriage as 19 Feb 1804 in Plattsburg, New York
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists death as 10 May 1826 in Plattsburg, New York
+2 CONT 
+2 CONT ! - Family Group Sheet
+2 CONT    LDS Family History Library
+2 CONT    Lists death as 10 May 1826
+2 CONT 
+2 CONT ! - Bounty Land Application
+2 CONT    National Archives
+2 CONT    Photocopies of originals
+2 CONT    Lists death as 10 May 1826 in Saranac, New York
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT ! - Family Group Sheet
+2 CONT    LDS Family History Library
+2 CONT 
+2 CONT *Was a Justice of the Peace in Plattsburg, NY
+2 CONT *Was captain of the artillery during War of 1812
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I63@ INDI
+1 NAME Content /Bourne/
+2 GIVN Content
+2 SURN Bourne
+1 SEX F
+1 BIRT
+2 DATE 19 FEB 1785
+2 PLAC Manchester,Vermont
+1 DEAT
+2 DATE 7 MAR 1871
+2 PLAC Mower County,Minnesota
+1 REFN 111
+1 FAMS @F52@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists birth as 19 Feb 1785
+2 CONT    (See Vaughan Family)
+2 CONT 
+2 CONT ! - Bounty Land Application
+2 CONT    National Archives
+2 CONT    Photocopies of originals
+2 CONT    Lists age as 76 in Jun 1863 (b. 1787)
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists death as 7 Mar 1871
+2 CONT    (See Vaughan Family)
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I64@ INDI
+1 NAME Rebecca /McCormick/
+2 GIVN Rebecca
+2 SURN McCormick
+1 SEX F
+1 BIRT
+2 DATE 2 APR 1824
+2 PLAC Kentucky
+1 DEAT
+2 DATE 31 MAR 1903
+2 PLAC Asotin,Asotin,Washington
+2 SOUR @S6@
+1 REFN 51
+1 FAMS @F27@
+1 FAMC @F56@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1900 Census Asotin County
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists birth as Apr 1824 in Kentucky
+2 CONT    (See Downen Family)
+2 CONT 
+2 CONT ! - Recollections of Chester P. Downen
+2 CONT    In possesion of Dorothy Neylon (daughter)
+2 CONT    Photocoy of originals
+2 CONT    Lists birth as 2 Apr 1824 in Kentucky
+2 CONT 
+2 CONT ! - Guardianship of McCorick Children
+2 CONT    Floyd County Courthouse
+2 CONT    Document dated 22 Aug 1836
+2 CONT    Listed as child of Alexander McCormick
+2 CONT 
+2 CONT ! - Guardianship of McCormick children
+2 CONT    Todd County Courthouse, Kentucky
+2 CONT    Document dated 14 Sep 1836
+2 CONT    Listed as child of Alexander McCormick
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Asotin County Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists birth as 2 Apr 1824 in Kentucky
+2 CONT 
+2 CONT ! - 1850 Census Floyd County, Indiana
+2 CONT    National Archives
+2 CONT    Roll #145
+2 CONT    Date: age 22, Place: Kentucky
+2 CONT 
+2 CONT ! - 1860 Census Iroquois County, Ill.
+2 CONT    National Archives
+2 CONT    Roll #186
+2 CONT    Date: age 40, Place: Indiana
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Iroquois County Courthouse
+2 CONT    License #193, Vol A, pg 10
+2 CONT    Date: 20 Oct 1867, Place: Iroquois County, Illinois
+2 CONT 
+2 CONT ! - Obituary
+2 CONT    Asotin County Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists death as 31 Mar 1903 in Asotin, Asotin, Washington
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I65@ INDI
+1 NAME Job /Downen/
+2 GIVN Job
+2 SURN Downen
+2 NSFX Jr.
+1 TITL Jr.
+1 SEX M
+1 BIRT
+2 DATE 10 JAN 1809
+2 PLAC Christian County,Kentucky
+1 DEAT
+2 DATE 6 SEP 1862
+2 PLAC Sullivan County,Missouri
+1 BURI
+2 PLAC Springer Cemt.,Sullivan,Missouri
+1 REFN 48
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F26@
+1 FAMC @F58@
+1 SLGC
+2 FAMC @F58@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Birth listed as 1808
+2 CONT 
+2 CONT ! - 1860 Census Sullivan County, Missouri
+2 CONT    LDS Family History Library
+2 CONT    MF# 14,870, page 799
+2 CONT    Lists age as 50 (1810) born in Kentucky
+2 CONT 
+2 CONT ! - 1850 Census Posey County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists age as 41 (1809) born in Kentucky
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Marriages 1) Susan Martin 9 Oct 1833 2) Margaret Outlaw 1846
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Cemetery Inscriptions of Sullivan County
+2 CONT    LDS Family History Library
+2 CONT    977.825 Vol 3 pag 98
+2 CONT    Lists death as 6 Sep 1862
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Cemetery Inscriptions of Sullivan County
+2 CONT    LDS Family History Library
+2 CONT    977.825 Vol 3 pag 98
+2 CONT    Gives cemetery as Springer Cemetery
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I66@ INDI
+1 NAME Margret /Outlaw/
+2 GIVN Margret
+2 SURN Outlaw
+1 SEX F
+1 BIRT
+2 DATE 1822
+2 PLAC South Carolina
+1 REFN 49
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F26@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    No birth date listed
+2 CONT    See Downen family
+2 CONT 
+2 CONT ! - 1880 Census Sullivan County, Missouri
+2 CONT    LDS Family History Library
+2 CONT    MF# 1,2254,768
+2 CONT    Age listed as 58 (1822) born in North Carolina
+2 CONT    See Downen Family
+2 CONT 
+2 CONT ! - 1870 Census Sullivan County, Missouri
+2 CONT    LDS Family History Center
+2 CONT    MF#552,322
+2 CONT    Lists age as 48 (1822) born in South Carolina
+2 CONT    See Downen Family
+2 CONT 
+2 CONT ! - 1860 Census Sullivan County, Missouri
+2 CONT    LDS Family History Library
+2 CONT    MF# 14,870, page 799
+2 CONT    Lists age as 39 (1821) born in South Carolina
+2 CONT    See Downen Family
+2 CONT 
+2 CONT ! - 1850 Census Posey County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists age as 28 (1822) born in South Carolina
+2 CONT    See Downen Family
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I67@ INDI
+1 NAME Job /Downen/
+2 GIVN Job
+2 SURN Downen
+2 NSFX Sr.
+1 TITL Sr.
+1 SEX M
+1 BIRT
+2 DATE 1765
+2 PLAC South Carolina
+1 DEAT
+2 DATE 23 SEP 1842
+2 PLAC Posey County,Indiana
+1 REFN 96
+1 FAMS @F58@
+1 FAMC @F59@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists birth as 1765-1767
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists marriage as ca. 1787
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists death as 23 Sep 1842
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I68@ INDI
+1 NAME Mary /Robinson/
+2 GIVN Mary
+2 SURN Robinson
+1 SEX F
+1 BIRT
+2 DATE 1769/1770
+2 PLAC South Carolina
+1 DEAT
+2 DATE 4 APR 1856
+2 PLAC Posey County,Indiana
+1 REFN 97
+1 FAMS @F58@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists birth as 1767 - 1770
+2 CONT    See Downen family
+2 CONT 
+2 CONT ! - 1850 Census Posey County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists age as 81 (1769) born in South Carolina
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists death as 4 Apr 1856
+2 CONT    See Downen family
+2 CONT 
+2 CONT *Living with daughter Elizabeth in 1850
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I69@ INDI
+1 NAME Abraham /Rhodefer/
+2 GIVN Abraham
+2 SURN Rhodefer
+1 SEX M
+1 BIRT
+2 DATE 16 AUG 1821
+2 PLAC Montgomery,Ohio
+1 DEAT
+2 DATE 10 MAY 1883
+2 PLAC Auburn,Dekalb,Indiana
+1 REFN 44
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 3 DEC 1985
+2 TEMP IF
+1 FAMS @F24@
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 DATE 14 DEC 1985
+2 TEMP IF
+1 NOTE !BIRTH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists birth as 16 Aug 1821 in Montgomery County, Ohio
+2 CONT 
+2 CONT ! - 1850 Census Dekalb County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF# ?, page 239
+2 CONT    List age as 27 (1823) born in Ohio
+2 CONT 
+2 CONT ! - 1870 Census Dekalb County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF# ?, page 201
+2 CONT    Lists age as 48 (1822) born in Ohio
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Marjorie Floyd
+2 CONT    Quotes Miami Valley Pioneers, page 147
+2 CONT    List name only
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Record
+2 CONT    Montgomery County Courthouse
+2 CONT    Vol A2, page 281
+2 CONT    List marriage as 23 Mar 1843
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Death listed as 10 May 1883 in Auburn, Indiana
+2 CONT 
+2 CONT *Moved from Ohio to Indiana in 1846
+2 CONT *Married by Rev. Andrew Henkel
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I70@ INDI
+1 NAME Elizabeth /Feagler/
+2 GIVN Elizabeth
+2 SURN Feagler
+1 SEX F
+1 BIRT
+2 DATE 20 NOV 1821
+2 PLAC Ohio
+1 DEAT
+2 DATE 11 MAR 1873
+2 PLAC Auburn,Dekalb,Ohio
+1 REFN 45
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F24@
+1 FAMC @F61@
+1 SLGC
+2 FAMC @F61@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Lists birth as 20 Nov 1821
+2 CONT 
+2 CONT ! - 1850 Census Dekalb County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF# ?, page 239
+2 CONT    Lists age as 26 (1824) in Ohio
+2 CONT 
+2 CONT ! - 1870 Census Dekalb County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF# ?, page 201
+2 CONT    Lists age as 47 (1823) born in Ohio
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of originals
+2 CONT    Death listed as 11 Mar 1873 in Auburn, Indiana
+2 CONT 
+2 CONT *Marriage records lists name as Faegler
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I71@ INDI
+1 NAME John /Feagler/
+2 GIVN John
+2 SURN Feagler
+1 SEX M
+1 BIRT
+2 DATE 1786
+2 PLAC Maryland
+1 REFN 90
+1 FAMS @F61@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of original
+2 CONT    Lists name only
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT ! - 1850 Census Dekalb County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Lists age as 64 (1786) born in Maryland
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of original
+2 CONT    Lists marriage to Suzanna Culler
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT *According to L.L. Bruseau, family came from Montgomery County, Ohio to
+2 CONT  Dekalb County, Indiana in 1846 with the Rhodefer's and settle near them *Living with son i
+2 CONC n 1850 Census, no wife listed.
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I72@ INDI
+1 NAME Susanne /Culler/
+2 GIVN Susanne
+2 SURN Culler
+1 SEX F
+1 DEAT
+2 DATE BEF 1850
+1 REFN 91
+1 FAMS @F61@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Notes compiled by Larry Bruseau
+2 CONT    Photocopy of original
+2 CONT    Lists name only
+2 CONT    (See Rhodefer Family)
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - 1850 Census Dekalb County, Indiana
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    Not listed with husband in 1850, assume death bef 1850
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I73@ INDI
+1 NAME Samuel /Rhodefer/
+2 GIVN Samuel
+2 SURN Rhodefer
+1 SEX M
+1 BIRT
+2 DATE 1781
+2 PLAC Virginia
+1 DEAT
+2 DATE 12 AUG 1856
+2 PLAC Montgomery Co.,Ohio
+1 REFN 88
+1 FAMS @F60@
+1 FAMC @F63@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1850 Census Montgomery County, Ohio
+2 CONT   LDS Family History Library
+2 CONT   MF# ?, page 348
+2 CONT   Lists age as 69 (1781), born in Virginia
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Marjorie Floyd
+2 CONT    Quotes Miami Valley Pioneers, page 147
+2 CONT    Lists name as Samuel Rodeheffer
+2 CONT 
+2 CONT  - "Shenandoah and Beyond"
+2 CONT    By Stephanie and Michael Rodeffer
+2 CONT    Personal Copy
+2 CONT    Lists name only
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Virginia Rodifer
+2 CONT    Lists name only
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Marriage Record
+2 CONT    Shenandoah County, Virginia Courthouse
+2 CONT    No volume or page number recorded
+2 CONT    Lists marriage 25 Apr 1806 to Barbara Ruby
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Virginia Rodifer
+2 CONT    Lists marriage as 25 Apr 1806 to Barbara Ruby
+2 CONT 
+2 CONT *Came from Virginia to Ohio in 1813
+2 CONT *Montgomery County History (pub. 1882) states they had 9 children, 6 survive
+2 CONT  Children mentioned: Catharine, John, Joseph, Samuel, Abraham, and Mary *Virginia Rodifer lis
+2 CONC ts the following children
+2 CONT    Samuel - lived in Dayton, Ohio
+2 CONT    Joseph - lived in Dayton, Ohio
+2 CONT    Fanny - married ______ Kizzer
+2 CONT    Catherine - married John Snepp
+2 CONT    Barbara - married ____ Apple
+2 CONT    David - lvied in Miami County, Ohio
+2 CONT    Andrew J. - married Marry Ellen Yosh 1858, lived in Kokoma, Indiana
+2 CONT    John - lived in Auglaiz County, Ohio
+2 CONT    Jacob - lived in Shellyville, Indiana
+2 CONT    Abraham - mentioned in fathers will.
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I74@ INDI
+1 NAME Barbara /Ruby/
+2 GIVN Barbara
+2 SURN Ruby
+1 SEX F
+1 BIRT
+2 DATE 1784
+1 DEAT
+2 DATE 28 NOV 1831
+2 PLAC Montgomery Co.,Ohio
+1 BURI
+2 PLAC Slifer Ch. Yard,Montgomery Co.,Ohio
+1 REFN 89
+1 FAMS @F60@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Correspondence
+2 CONT    Marjorie Floyd
+2 CONT    Quotes Miami Valley Pioneers, page 147
+2 CONT    Lists name as Barbara Ruby
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Slifer Church Yard, Jackson, Montgomery, Ohio
+2 CONT    Miami Valley Pioneers, page 147
+2 CONT    Lists age as 47 in 1831 (1784)
+2 CONT    Gives name as Barbara Rodeffer
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Shenandoah County, Virginia Courthouse
+2 CONT    No volume or page recorded
+2 CONT    Lists name only
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Tombstone
+2 CONT    Slifer Church Yard, Jackson, Montogermy, Ohio
+2 CONT    Miami Valley Pioneers, page 147
+2 CONT    Lists death as 28 Nov 1831 in Montgomery County, Ohio
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Tombstone
+2 CONT    Slifer Church Yard, Jackson, Montgomery, Ohio
+2 CONT    Miami Valley Pioneers, page 147
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I75@ INDI
+1 NAME Anderson /Tiller/
+2 GIVN Anderson
+2 SURN Tiller
+1 SEX M
+1 BIRT
+2 DATE 16 DEC 1810
+2 PLAC Ohio
+2 SOUR @S7@
+1 DEAT
+2 DATE 2 MAY 1885
+2 PLAC Black Hawk Co.,Iowa
+2 SOUR @S8@
+1 BURI
+2 PLAC Hill Cemetery,Tama,Iowa
+2 SOUR @S9@
+1 REFN 92
+1 FAMS @F64@
+1 FAMC @F65@
+1 NOTE ! - 1880 Census Butler County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #329
+2 CONT    Date: 1811, Place: Virginia
+2 CONT 
+2 CONT ! - 1870 Census Tama County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #420
+2 CONT    Date: 1811, Place: Virginia
+2 CONT 
+2 CONT ! - 1860 Census Mercer County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #1362
+2 CONT    Date: 1811, Place: Ohio
+2 CONT 
+2 CONT ! - 1850 Census Mercer County, Virginia
+2 CONT    National Archives
+2 CONT    Roll #960
+2 CONT    Date: 1811, Place: Ohio
+2 CONT 
+2 CONT ! - 1840 Census Mercer County, Virginia
+2 CONT    National Archives
+2 CONT    Roll # 568
+2 CONT    Date: 1810-1820
+2 CONT 
+2 CONT ! - Notes of Kenneth Nielson
+2 CONT    Date: 16 Dec 1811, Place: Ohio
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Giles County Courthouse
+2 CONT    Date: 26 Apr 1831, Place: Giles County, Virginia
+2 CONT 
+2 CONT ! - Notes of Kenneth Nielson
+2 CONT    Date: 28 Apr 1931, Place: Giles County, Virginia, Spouse: Priscilla Perdue
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I76@ INDI
+1 NAME Priscilla /Perdue/
+2 GIVN Priscilla
+2 SURN Perdue
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 1813
+2 PLAC Giles County,Virginia
+2 SOUR @S10@
+1 DEAT
+2 DATE 28 MAR 1887
+2 PLAC Mercer County,West Virginia
+2 SOUR @S11@
+1 BURI
+2 PLAC Princeton-Oakvil,Mercer County,West Virginia
+2 SOUR @S12@
+1 REFN 93
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 10 DEC 1985
+2 TEMP IF
+1 FAMS @F64@
+1 FAMC @F66@
+1 SLGC
+2 FAMC @F66@
+2 DATE 14 DEC 1985
+2 TEMP IF
+1 NOTE ! - 1880 Census Butler County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #329
+2 CONT    Date: 1813, Place: Virginia
+2 CONT    (See Tiller Family)
+2 CONT 
+2 CONT ! - 1870 Census Tama County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #420
+2 CONT    Date: 1814, Place: Virginia
+2 CONT    (See Tiller Family)
+2 CONT 
+2 CONT ! - 1860 Census Mercer County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #1362
+2 CONT    Date: 1814, Place: Virginia
+2 CONT    (See Tiller Family)
+2 CONT 
+2 CONT ! - 1850 Census Mercer County, Virginia
+2 CONT    National Archives
+2 CONT    Roll #960
+2 CONT    Date: 1812, Place: Virginia
+2 CONT    (See Tiller Family)
+2 CONT 
+2 CONT ! - Will of Thomas Perdue
+2 CONT    Found by Larry Bruseau
+2 CONT    Photocopy of original
+2 CONT    Father: Thomas Perdue
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I77@ INDI
+1 NAME John Perdue /Tiller/
+2 GIVN John Perdue
+2 SURN Tiller
+1 SEX M
+1 BIRT
+2 DATE 5 APR 1839
+2 PLAC Mercer County,Virginia
+2 SOUR @S13@
+1 DEAT
+2 DATE 23 JAN 1917
+2 PLAC Sequim,Clallam,Washington
+2 SOUR @S14@
+1 BURI
+2 DATE 25 JAN 1917
+2 PLAC Sequim View Cemt,Sequim,Clallam,Washington
+2 SOUR @S15@
+1 REFN 46
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 3 DEC 1985
+2 TEMP IF
+1 FAMS @F25@
+1 FAMC @F64@
+1 SLGC
+2 FAMC @F64@
+2 DATE 14 DEC 1985
+2 TEMP IF
+1 NOTE ! - Death Record
+2 CONT    Washington State Bur. of Vital Stats
+2 CONT    Rec. #91
+2 CONT    Date: 5 Apr 1839, Place: West Virginia
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Mercer County, West Virginia Courthouse
+2 CONT    Reg 1, page 5
+2 CONT    Date: 1839, Place: Mercer County, Virginia
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Black Hawk County, Iowa Courthouse
+2 CONT    No. 1392
+2 CONT    Date: 1839
+2 CONT 
+2 CONT ! - 1910 Census Clallam County, Washington
+2 CONT    National Archives
+2 CONT    Roll #?
+2 CONT    Date: 1839, Place: West Virginia
+2 CONT 
+2 CONT ! - 1900 Census Clallam County, Washington
+2 CONT    National Archives
+2 CONT    Roll #?
+2 CONT    Date: Apr 1836, Place: Virginia
+2 CONT 
+2 CONT ! - 1880 Census Tama County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #?
+2 CONT    Date: 1839, Place: Virginia
+2 CONT 
+2 CONT ! - 1870 Census Tama County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #420
+2 CONT    Date: 1840, Place: Virginia
+2 CONT 
+2 CONT ! - 1860 Census Mercer County, Virginia
+2 CONT    National Archives
+2 CONT    Roll #1362
+2 CONT    Date: 1839, Place: Virginia
+2 CONT 
+2 CONT ! - 1850 Census Mercer County, Virginia
+2 CONT    National Archives
+2 CONT    Roll #960
+2 CONT    Date: 1839, Place: Virginia
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Mercer County, West Virginia Courthouse
+2 CONT    Reg 1, page 5
+2 CONT    Date: 2 Dec 1859, Place: Mercer County, Spouse: Levisee Brown
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Black Hawk County, Iowa Courthouse
+2 CONT    No. 1392
+2 CONT    Date: 28 Aug 1875, Place: Cedar Falls, Iowa, Spouse: Louisa Johnston
+2 CONT 
+2 CONT ! - 1900 Census Clallam County, Washington
+2 CONT    National Archives
+2 CONT    Roll #?
+2 CONT    Date: 1874, Spouse: Louisa
+2 CONT 
+2 CONT ! - 1910 Census Clallam County, Washington
+2 CONT    National Archives
+2 CONT    Roll # ?
+2 CONT    Date: 1874, Spouse: Louisa
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I78@ INDI
+1 NAME Thomas /Brown/
+2 GIVN Thomas
+2 SURN Brown
+1 SEX M
+1 REFN 94
+1 FAMS @F68@
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I79@ INDI
+1 NAME Margret //
+2 GIVN Margret
+1 SEX F
+1 REFN 95
+1 FAMS @F68@
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I80@ INDI
+1 NAME Levisa H. /Brown/
+2 GIVN Levisa H.
+2 SURN Brown
+1 SEX F
+1 BIRT
+2 DATE 1 MAR 1841
+2 PLAC Tazwell County,Virginia
+2 SOUR @S16@
+1 DEAT
+2 DATE 11 MAY 1873
+2 PLAC Tama County,Iowa
+2 SOUR @S17@
+1 BURI
+2 PLAC Hill Cemetery,Tama County,Iowa
+2 SOUR @S18@
+1 REFN 47
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 10 DEC 1985
+2 TEMP IF
+1 FAMS @F25@
+1 FAMC @F68@
+1 SLGC
+2 FAMC @F68@
+2 DATE 14 DEC 1985
+2 TEMP IF
+1 NOTE ! - 1870 Census Tama County, Iowa
+2 CONT    National Archives
+2 CONT    Roll #420
+2 CONT    Date: 1843, Place: Virginia
+2 CONT    (See Tiller Family)
+2 CONT 
+2 CONT ! - 1860 Census Mercer County, Virginia
+2 CONT    National Archives
+2 CONT    Roll #1362
+2 CONT    Date: 1841, Place: Virginia
+2 CONT    (See Tiller Family)
+2 CONT 
+2 CONT ! - Notes of Kenneth Nielson
+2 CONT    Date: 1 Mar 1841, Place: Tama County, Iowa
+2 CONT 
+2 CONT  - Notes of Kenneth Nielson
+2 CONT    Date: 11 May 1873, Place: Tama County, Iowa
+2 CONT 
+2 CONT  - Notes of Kenneth Nielson
+2 CONT    Date: 11 May 1873, Place: Hill Cemetery, Tama, Iowa
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I83@ INDI
+1 NAME Peter Frederick /Pershing/
+2 GIVN Peter Frederick
+2 SURN Pershing
+1 SEX M
+1 BIRT
+2 DATE 1759
+2 PLAC York County,Pennsylvania
+1 DEAT
+2 DATE 19 JUL 1822
+2 PLAC Indiana County,Pennsylvania
+1 BURI
+2 PLAC Hice Grave Yard,Indiana,Pennsylvania
+1 REFN 130
+1 BAPL
+2 DATE 27 APR 1935
+2 TEMP SG
+1 ENDL
+2 DATE 20 JUN 1935
+2 TEMP SG
+1 FAMS @F34@
+1 SLGC
+2 DATE 18 SEP 1952
+2 TEMP SG
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists birth as abt 1759 in Westmoreland County, Pennsylvania
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists marriage to 1) Elizabeth Ulery in 1791 in Bedford County, PA
+2 CONT                      2) Mary McGee in 1804 in Indiana County, PA
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists death as 19 Jul 1822 in Indiana County, Pennsylvania
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists burial in Hice Graveyard, Indiana, Pennsylvania
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - Family Group Sheet
+2 CONT    Archive Records of Church
+2 CONT    Lists sources as Pershing Family in America
+2 CONT 
+2 CONT *Moved from fathers land in 1795 to Wheatfield Twn Westmoreland Co, now Indiana
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I84@ INDI
+1 NAME Elizabeth /Ulery/
+2 GIVN Elizabeth
+2 SURN Ulery
+1 SEX F
+1 BIRT
+2 DATE 1760
+1 DEAT
+2 DATE 1801
+2 PLAC Indiana County,Pennsylvania
+1 BURI
+2 PLAC Hice Grave Yard,Indiana,Pennsylvania
+1 REFN 131
+1 FAMS @F34@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists birth as abt 1760
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists death as 1801 in Indiana County, Pennsylvania
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - "Pershing Family in America" by Edgar J. Pershing
+2 CONT    LDS Family History Library
+2 CONT    MF# 1321311
+2 CONT    Lists burial in Hice Graveyard, Indiana, Pennsylvania
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I86@ INDI
+1 NAME Daniel P. /Marsh/
+2 GIVN Daniel P.
+2 SURN Marsh
+1 SEX M
+1 BIRT
+2 DATE 7 JUN 1830
+2 PLAC Cincinnati,Hamilton,Ohio
+1 DEAT
+2 DATE 2 JUL 1889
+2 PLAC Endicott,Whitman,Washington
+1 REFN 56
+1 BAPL
+2 DATE 29 OCT 1974
+2 TEMP SL
+1 ENDL
+2 DATE 17 JAN 1975
+2 TEMP SL
+1 FAMS @F38@
+1 FAMC @F70@
+1 SLGC
+2 FAMC @F70@
+2 DATE 12 FEB 1975
+2 TEMP SL
+1 NOTE !BIRTH/PLACE
+2 CONT  - IGI Index
+2 CONT    LDS Family History Library
+2 CONT    Batch # 7,413,504
+2 CONT    Gives birth as 7 Jun 1830 in Ohio
+2 CONT 
+2 CONT Line 6935 from GEDCOM File not recognizable or too long:
+2 CONT   CHAN
+2 CONT 
+2 CONT Line 6936 from GEDCOM File not recognizable or too long:
+2 CONT   CHAN DATE 08 MAR 1998
+2 CONT 
+2 CONT Daniel Marsh when he was grown moved to Nashville, Indiana, married and had a numerous fmily
+2 CONC , boys and girls.  He was rather intemperate in his habits like some of the rest of us, and w
+2 CONC hile he made a good deal of money for those times, he wasted a lot of it.
+2 CONT About 1876 he moved with his family to some place in the state of Washington and died a yea
+2 CONC r or two after he got there. No doubt you have a number of relative descendants from that fam
+2 CONC ily in that state.
+2 CONT 
+2 CONT Line 6947 from GEDCOM File not recognizable or too long:
+2 CONT   BIRT SOUR @S49@
+2 CONT 
+2 CONT Line 6948 from GEDCOM File not recognizable or too long:
+2 CONT   BIRT SOUR PAGE p. 3.
+2 CONT 
+2 CONT Line 6952 from GEDCOM File not recognizable or too long:
+2 CONT   DEAT SOUR @S49@
+2 CONT 
+2 CONT Line 6953 from GEDCOM File not recognizable or too long:
+2 CONT   DEAT SOUR PAGE p. 3.
+2 CONT 
+2 CONT Line 6954 from GEDCOM File not recognizable or too long:
+2 CONT   OCCU Tanner and Curer
+1 CHAN
+2 DATE 5 OCT 1999
+3 TIME 01:00:00
+0 @I87@ INDI
+1 NAME John William /Cox/
+2 GIVN John William
+2 SURN Cox
+1 SEX M
+1 BIRT
+2 PLAC ,,Ind
+1 REFN 114
+1 FAMS @F44@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Listed as father of daughter Sarah Ann Cox
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I88@ INDI
+1 NAME Betty /Jackson/
+2 GIVN Betty
+2 SURN Jackson
+1 SEX F
+1 BIRT
+2 PLAC ,,Ind
+1 REFN 115
+1 FAMS @F44@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Listed as mother of daughter Sarah Ann Cox
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I89@ INDI
+1 NAME Samuel /Munson/
+2 GIVN Samuel
+2 SURN Munson
+1 SEX M
+1 BIRT
+2 DATE 1831/1832
+2 PLAC Harrison County,Kentucky
+1 REFN 58
+1 BAPL
+2 DATE 30 MAR 1978
+2 TEMP PV
+1 ENDL
+2 DATE 31 MAY 1978
+2 TEMP PV
+1 FAMS @F39@
+1 FAMC @F71@
+1 SLGC
+2 FAMC @F71@
+2 DATE 12 JUL 1978
+2 TEMP PV
+1 NOTE !BIRTH/PLACE
+2 CONT  - IGI Index
+2 CONT    Annapolis Family History Center
+2 CONT    Batch #7,722,736 - 68
+2 CONT    Birth given as 1831 in Coles County, Illinois
+2 CONT 
+2 CONT ! - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on group sheets
+2 CONT    Birth given as 1831/32
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on group sheets
+2 CONT    Marriage given as 11 Jul 1857
+2 CONT 
+2 CONT ! - IGI Index
+2 CONT    Annapolis Family History Center
+2 CONT    Batch #7,717,417 - 78
+2 CONT    Marriage given as 11 Jul 1857
+2 CONT    Two entries of marriage listed
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on group sheets
+2 CONT 
+2 CONT ! - IGI Index
+2 CONT    Annapolis Family History Center
+2 CONT    Batch #7,722,736 - 68
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I90@ INDI
+1 NAME Enoch /Bean/
+2 GIVN Enoch
+2 SURN Bean
+1 SEX M
+1 BIRT
+2 DATE 1733
+2 PLAC Exter,Rockingham,Nh
+1 REFN 216
+1 BAPL
+2 DATE 15 DEC 1953
+2 TEMP LG
+1 ENDL
+2 DATE 14 JAN 1954
+2 TEMP LG
+1 FAMS @F53@
+1 SLGC
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I91@ INDI
+1 NAME Lovey /Gordon/
+2 GIVN Lovey
+2 SURN Gordon
+1 SEX F
+1 BIRT
+2 DATE ABT 1738
+2 PLAC Chester,Rockingham,Nh
+1 DEAT
+2 DATE 1836
+2 PLAC Strafford,Orange,Vt
+1 REFN 217
+1 BAPL
+2 DATE 8 DEC 1953
+2 TEMP LG
+1 ENDL
+2 DATE 22 JAN 1954
+2 TEMP LG
+1 FAMS @F53@
+1 SLGC
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I92@ INDI
+1 NAME Cathrine /Jester/
+2 GIVN Cathrine
+2 SURN Jester
+1 SEX F
+1 BIRT
+2 DATE 1839
+2 PLAC Indiana
+1 DEAT
+2 DATE 1860
+2 PLAC Moultrie County,Illinois
+1 REFN 59
+1 BAPL
+2 DATE 28 MAR 1986
+2 TEMP SE
+1 ENDL
+2 DATE 2 APR 1986
+2 TEMP SE
+1 FAMS @F39@
+1 FAMC @F72@
+1 SLGC
+2 FAMC @F72@
+2 DATE 16 MAY 1986
+2 TEMP SE
+1 NOTE !BIRTH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Birth given as 1839
+2 CONT    Name spelled Katherine on some sheets
+2 CONT    See Munson Family
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Death given as 1860
+2 CONT    See Munson Family
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I94@ INDI
+1 NAME Isaac /Munson/
+2 GIVN Isaac
+2 SURN Munson
+1 SEX M
+1 BIRT
+2 DATE 31 JUL 1801
+2 PLAC Harrison County,Kentucky
+1 DEAT
+2 DATE 1860/1870
+2 PLAC Moultrie County,Illinois
+1 REFN 116
+1 BAPL
+2 DATE 22 JUL 1986
+2 TEMP OG
+1 ENDL
+2 DATE 19 SEP 1986
+2 TEMP OG
+1 FAMS @F71@
+1 FAMC @F73@
+1 SLGC
+2 FAMC @F73@
+2 DATE 7 OCT 1986
+2 TEMP OG
+1 NOTE !BIRTH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Birth listed as 1802 in Harrison County, Kentucky
+2 CONT 
+2 CONT ! - IGI Index
+2 CONT    Annapolis Family History Center
+2 CONT    Batch #8,595,705 - 38
+2 CONT    Birth listed as 1802 in Harrison County, Kentucky
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - IGI Index
+2 CONT    Annapolis Family History Center
+2 CONT    Batch #8,406,905
+2 CONT    Marriage 31 Jul 1820 in Harrison County, Kentucky
+2 CONT 
+2 CONT ! - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Marriage listed as 31 July 1820 in Harrison County, Kentucky
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Death listed as 1860 - 1870 in Moultrie County, Illinois
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT  - IGI Index
+2 CONT    Annapolis Family History Center
+2 CONT    Batch #8,595,705 - 38
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I95@ INDI
+1 NAME Harriet /Johnson/
+2 GIVN Harriet
+2 SURN Johnson
+1 SEX F
+1 BIRT
+2 DATE 1805
+2 PLAC Kentucky
+1 DEAT
+2 DATE 1860/1870
+2 PLAC Moultrie County,Illinois
+1 AFN J5FJ-ZF
+1 REFN 117
+1 FAMS @F71@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Birth listed as 1805 in Kentucky
+2 CONT    See Munson Family
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Death listed as 1860 - 1870 in Moultrie County, Illinois
+2 CONT    See Munson Family
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I96@ INDI
+1 NAME James T. /Jester/
+2 GIVN James T.
+2 SURN Jester
+1 SEX M
+1 BIRT
+2 DATE 1799
+2 PLAC Delaware
+1 BURI
+2 PLAC Illinois
+1 REFN 118
+1 FAMS @F72@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Pedigree Chart she compiled
+2 CONT    Sources listed on Chart
+2 CONT    See Munson Family
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I97@ INDI
+1 NAME Hester /Price/
+2 GIVN Hester
+2 SURN Price
+1 SEX F
+1 BIRT
+2 DATE 1810
+2 PLAC Delaware
+1 BURI
+2 PLAC Illinois
+1 REFN 119
+1 FAMS @F72@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Pedigree Chart she compiled
+2 CONT    Sources listed on Chart
+2 CONT    See Munson Family
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I98@ INDI
+1 NAME Josiah /Downen/
+2 GIVN Josiah
+2 SURN Downen
+1 SEX M
+1 BIRT
+2 DATE 1740/1745
+1 DEAT
+2 DATE 1801/1802
+2 PLAC Muhlenberg Co.,Kentucky
+1 REFN 192
+1 FAMS @F59@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists birth as 1740-1745
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists marriage as 1763
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists death as 1801-1802
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I99@ INDI
+1 NAME Mary /Smith/
+2 GIVN Mary
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE ABT 1747
+1 DEAT
+2 DATE 15 MAY 1835
+1 REFN 193
+1 FAMS @F59@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists birth as 1747
+2 CONT    See Downen family
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Early Downen History" by Elizabeth Meyers
+2 CONT    Copy of original
+2 CONT    Lists death as 15 May 1835
+2 CONT    See Downen family
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I100@ INDI
+1 NAME Thomas /Perdue/
+2 GIVN Thomas
+2 SURN Perdue
+1 SEX M
+1 DEAT
+2 DATE AFT 1 JUL 1829
+2 PLAC Giles County,Virginia
+1 REFN 186
+1 FAMS @F66@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Will of Thomas Perdue
+2 CONT    Found by Larry Bruseua
+2 CONT    Photocopy of original
+2 CONT    Lists name only
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Will of Thomas Perdue
+2 CONT    Found by Larry Bruseua
+2 CONT    Photocopy of original
+2 CONT    Lists wife Elenor
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Will of Thomas Perdue
+2 CONT    Found by Larry Bruseua
+2 CONT    Photocopy of original
+2 CONT    Will signed 1 Jul 1829 in Giles County, Virginia
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I101@ INDI
+1 NAME Elenor //
+2 GIVN Elenor
+1 SEX F
+1 FAMS @F66@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Will of Thomas Perdue
+2 CONT    Found by Larry Bruseua
+2 CONT    Photocopy of original
+2 CONT    Lists name only
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I102@ INDI
+1 NAME Samuel /Rodeheffer/
+2 GIVN Samuel
+2 SURN Rodeheffer
+1 SEX M
+1 BIRT
+2 PLAC Virginia
+1 DEAT
+2 DATE See Notes
+2 PLAC Woodstock,Shenandoah,Virginia
+1 REFN 176
+1 FAMS @F63@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Shenandoah and Beyond"
+2 CONT    By Stephanie and Michael Rodeffer
+2 CONT    Personal Copy
+2 CONT    Lists name only
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Virginia Rodifer
+2 CONT    Lists birth in Virginia
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Shenandoah and Beyond"
+2 CONT    By Stephanie and Michael Rodeffer
+2 CONT    Personal Copy
+2 CONT    List marriage to a Mary
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Virginia Rodifer
+2 CONT    Lists marriage to a Mary
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Shenandoah and Beyond"
+2 CONT    By Stephanie and Michael Rodeffer
+2 CONT    Personal Copy
+2 CONT    Lists death as 1823 in Shenandoah County, Virginia
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Virginia Rodifer
+2 CONT    Lists death as 1823 in Woodstock, Shenandoah, Virginia
+2 CONT    Will dated 5 Apr 1823
+2 CONT 
+2 CONT *Virginia Heads of Family - 1783, page 63 states 8 white souls *Virginia Heads of Family - 17
+2 CONC 85, page 107 states 8 white souls
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I103@ INDI
+1 NAME Mary //
+2 GIVN Mary
+1 SEX F
+1 DEAT
+2 DATE 1824
+2 PLAC Woodstock,Shenandoah,Virginia
+1 REFN 177
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+1 FAMS @F63@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Shenandoah and Beyond"
+2 CONT    By Stephanie and Michael Rodeffer
+2 CONT    Personal Copy
+2 CONT    Lists name only
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Virginia Rodifer
+2 CONT    Lists birth in Virginia
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Shenandoah and Beyond"
+2 CONT    By Stephanie and Michael Rodeffer
+2 CONT    Personal Copy
+2 CONT    Lists death as 1824 in Shenandoah County, Virginia
+2 CONT 
+2 CONT ! - Correspondence
+2 CONT    Virginia Rodifer
+2 CONT    Lists death as 1825 in Woodstock, Shenandoah, Virginia
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I104@ INDI
+1 NAME Samuel /Munson/
+2 GIVN Samuel
+2 SURN Munson
+1 SEX M
+1 BIRT
+2 DATE 1760/1765
+2 PLAC Va or Nj
+1 DEAT
+2 DATE 1832/1833
+2 PLAC Harrison County,Kentucky
+1 REFN 232
+1 BAPL
+2 DATE 11 MAR 1980
+2 TEMP SL
+1 ENDL
+2 DATE 24 APR 1980
+2 TEMP SL
+1 FAMS @F73@
+1 SLGC
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Birth listed as 1760 - 1765
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - IGI Index
+2 CONT    Annapolis Family History Library
+2 CONT    Batch # M516,029 - 2868
+2 CONT    Marriage given as 18 Jan 1785 in Surrey Co, North Carolina
+2 CONT 
+2 CONT ! - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Marriage listed as 18 Jan 1785 in Surrey County, North Carolina
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Research of Rebecca Cress
+2 CONT    Family Group Sheets she compiled
+2 CONT    Sources listed on Group Sheets
+2 CONT    Death listed as 1832 in Harrison County, Kentucky
+2 CONT 
+2 CONT *Rebecca's Group Sheets list his religion as Baptist and his
+2 CONT  occupation as a farmer
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I105@ INDI
+1 NAME Benjamin /Vaughan/
+2 GIVN Benjamin
+2 SURN Vaughan
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1757
+2 PLAC Scituate,Providence,Rhode Island
+1 DEAT
+2 DATE 12 FEB 1839
+2 PLAC Plattsburg,Clinton,New York
+1 REFN 220
+1 BAPL
+2 DATE 13 SEP 1967
+1 ENDL
+2 DATE 21 SEP 1967
+2 TEMP SL
+1 FAMS @F54@
+1 SLGC
+2 DATE 19 MAR 1968
+2 TEMP SL
+1 NOTE !BIRTH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists birth as 15 Aug 1757 in Scituate, Rhode Island
+2 CONT 
+2 CONT ! - Family Group Sheet Archive Record
+2 CONT    LDS Family History Library
+2 CONT    Lists birth as 15 Aug 1757 in Scituate, Rhode Island
+2 CONT 
+2 CONT ! - 1830 Census Clinton County, New York
+2 CONT    LDS Family History Library
+2 CONT    MF# 17,145
+2 CONT    Lists male, age 70-80 (1750-1760), possibly Benjamin
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists marriage as 1 Jul 1777 in Manchester, Vermont
+2 CONT 
+2 CONT ! - Family Group Sheet Archive Record
+2 CONT    LDS Family History Library
+2 CONT    Lists marriage 1 Jul 1777
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists death as 12 Feb 1839 in Plattsburg, New York
+2 CONT 
+2 CONT    Lists death as 12 Feb 1839 in Plattsburg, New York
+2 CONT 
+2 CONT !TEMPLE WORK
+2 CONT ! - Family Group Sheet Archive Record
+2 CONT    LDS Family History Library
+2 CONT 
+2 CONT *Served in Revolutionary War with Green Mountain Boys *Moved to Plattsburg, New York in 1791
+2 CONT *Was married twice more after Sarah Beaman died
+2 CONT *Was a saddler, harness-maker and preacher
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I106@ INDI
+1 NAME Sarah /Beaman/
+2 GIVN Sarah
+2 SURN Beaman
+1 SEX F
+1 BIRT
+2 DATE 11 OCT 1760
+2 PLAC Nine Partners,Bennington,Vermont
+1 DEAT
+2 DATE 25 AUG 1790
+2 PLAC Bennington,Bennington,Vermont
+1 REFN 221
+1 BAPL
+2 DATE 13 SEP 1967
+1 ENDL
+2 DATE 21 SEP 1967
+1 FAMS @F54@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists birth as 11 Oct 1760 in Nine Partners, Vermont
+2 CONT    Lists name as Beman
+2 CONT    (See Vaughan Family)
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "John Vaughan of Newport" by H.V. Griffin
+2 CONT    LDS Family History Library
+2 CONT    929.273V465gh
+2 CONT    Lists death as 25 Aug 1790
+2 CONT    (See Vaughan Family)
+2 CONT 
+2 CONT ! - Family Group Sheet Archive Record
+2 CONT    LDS Family History Library
+2 CONT    Lists death as 25 Aug 1790 (age 29) in Bennington, Vermont
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I109@ INDI
+1 NAME Barbara //
+2 GIVN Barbara
+1 SEX F
+1 REFN 69
+1 FAMS @F36@
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I110@ INDI
+1 NAME James /Standfield/
+2 GIVN James
+2 SURN Standfield
+1 SEX M
+1 BIRT
+2 DATE 1815
+2 PLAC Tennesse
+1 DEAT
+2 DATE MAR 1878
+2 PLAC Walla Walla,Walla Walla,Washington Terr.
+1 REFN 252
+1 FAMS @F49@
+1 NOTE !BIRTH/PLACE
+2 CONT  - History of Walla Walla County
+2 CONT    LDS Family History Librar
+2 CONT    979.7 H26 pg. 25 Appendix
+2 CONT    States he is a native of Tenn.
+2 CONT 
+2 CONT ! - 1860 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 803,334
+2 CONT    Age given as 45 (1815); born in Tenn.
+2 CONT 
+2 CONT ! - 1850 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 442,962
+2 CONT    Age given as 35 (1815); born in Tenn.
+2 CONT 
+2 CONT ! - 1840 Census Washington County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 7,790
+2 CONT    Lists: Males: 1 - under 5; 1 - 5-10;1 - 20-30
+2 CONT         Females: 2 - under 5; 1 - 20-30;
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - History of Walla Walla County
+2 CONT    LDS Family History Librar
+2 CONT    979.7 H26 pg. 25 Appendix
+2 CONT    Death given as Mar 1876 in Walla Walla
+2 CONT 
+2 CONT *Owned a farm in Walla Walla
+2 CONT *Moved from Illinois in 1838 to Mahaska County, Iowa *Moved from Mahaska County, Iowa to Wall
+2 CONC a Walla in 1862 *1860 Census states he was a Miller (Personal=$400) *Listed as first settle
+2 CONC r in White Oak Twnshp, Mahaska County, Iowa (date early 1940's)
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I111@ INDI
+1 NAME Elizabeth /Bond/
+2 GIVN Elizabeth
+2 SURN Bond
+1 SEX F
+1 BIRT
+2 DATE 1817
+2 PLAC Tennesse
+1 REFN 253
+1 FAMS @F49@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1860 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 803,334
+2 CONT    Age given as 40 (1820); born in Tenn.
+2 CONT 
+2 CONT ! - 1850 Census Mahask County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# 442,962
+2 CONT    Age given as 33 (1817); born in Tenn.
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I112@ INDI
+1 NAME Frederick /Winkelman/
+2 GIVN Frederick
+2 SURN Winkelman
+1 SEX M
+1 BIRT
+2 DATE 1780
+2 PLAC Pennsylvania
+2 SOUR @S22@
+1 DEAT
+2 SOUR @S23@
+1 FAMS @F42@
+1 NOTE ! - 1850 Census Indiana County, Pennsylvania
+2 CONT    National Archives
+2 CONT    Roll 785
+2 CONT    Date: age 70, Place: Pennsylvania
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I113@ INDI
+1 NAME Sarah Burton /Walker/
+2 GIVN Sarah Burton
+2 SURN Walker
+1 SEX F
+1 BIRT
+2 DATE 25 NOV 1803
+1 DEAT
+2 DATE 11 APR 1855
+1 FAMS @F56@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Recollections of Chester P. Downen
+2 CONT    In possesion of Dorothy Neylon (daughter)
+2 CONT    Photocoy of originals
+2 CONT    Lists birth as 25 Nov 1803
+2 CONT 
+2 CONT ! - Guardianship of McCormick children
+2 CONT    Todd County Courthouse, Kentucky
+2 CONT    Document dated 14 Sep 1836
+2 CONT    A Sarah B. McCormick is listed
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Recollections of Chester P. Downen
+2 CONT    In possesion of Dorothy Neylon (daughter)
+2 CONT    Photocoy of originals
+2 CONT    Lists death as 11 Apr 1855
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I114@ INDI
+1 NAME Alexander /McCormick/
+2 GIVN Alexander
+2 SURN McCormick
+1 SEX M
+1 BIRT
+2 DATE 25 FEB 1800
+1 DEAT
+2 DATE 17 JUN 1836
+1 FAMS @F56@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Recollections of Chester P. Downen
+2 CONT    In possesion of Dorothy Neylon (daughter)
+2 CONT    Photocoy of originals
+2 CONT    Lists birth as 25 Feb 1800
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Recollections of Chester P. Downen
+2 CONT    In possesion of Dorothy Neylon (daughter)
+2 CONT    Photocoy of originals
+2 CONT    Lists marriage to a Sarah Burton Walker
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Recollections of Chester P. Downen
+2 CONT    In possesion of Dorothy Neylon (daughter)
+2 CONT    Photocoy of originals
+2 CONT    Lists death as 17 Jun 1836
+2 CONT 
+2 CONT ! - Guardianship of McCormick children
+2 CONT    Floyd County Courthouse, Indiana
+2 CONT    Document dated 22 Aug 1836
+2 CONT    Death prior to 22 Aug 1836
+2 CONT 
+2 CONT ! - Guardianship of McCormick children
+2 CONT    Todd County Courthouse, Kentucky
+2 CONT    Document dated 14 Sep 1836
+2 CONT    Death prior to 14 Sep 1836
+2 CONT 
+2 CONT *Guardianship of children given to T.B. Walker in New Albany, Floyd, Indiana *Guardianship o
+2 CONC f children given to James McCormick, Todd County, Indiana
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I116@ INDI
+1 NAME /Stoner/
+2 SURN Stoner
+1 SEX F
+1 FAMS @F76@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Tree Top Baby" by Susan Nunes
+2 CONT    Personal Copy
+2 CONT    Page 163 - 172
+2 CONT    Lists name only
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I117@ INDI
+1 NAME John /Hahn/
+2 GIVN John
+2 SURN Hahn
+1 SEX M
+1 BIRT
+2 DATE 1775/1780
+1 FAMS @F76@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Tree Top Baby" by Susan Nunes
+2 CONT    Personal Copy
+2 CONT    Page 163 - 172
+2 CONT    Lists birth as 1775-1780
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - "Tree Top Baby" by Susan Nunes
+2 CONT    Personal Copy
+2 CONT    Page 163 - 172
+2 CONT    Lists marriage to a Stoner
+2 CONT 
+2 CONT *Lived in Baltimore, Waynesboro, Indiana County(?) *Was a butcher
+2 CONT *Was probably a Luthern
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I118@ INDI
+1 NAME James Jr. /Moorhead/
+2 GIVN James Jr.
+2 SURN Moorhead
+1 SEX M
+1 BIRT
+2 DATE ABT 1740
+2 PLAC Prob. Scotland
+1 DEAT
+2 DATE BEF 9 AUG 1816
+2 PLAC Franklin County,Pennsylvania
+1 REFN 136
+1 FAMS @F43@
+1 NOTE !"Tree Top Baby" by Susan Moorhead Nunes
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I119@ INDI
+1 NAME Lydia /Jones/
+2 GIVN Lydia
+2 SURN Jones
+1 SEX F
+1 REFN 137
+1 FAMS @F43@
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I121@ INDI
+1 NAME Carolyn /Wauttke/
+2 GIVN Carolyn
+2 SURN Wauttke
+1 SEX F
+1 BIRT
+2 DATE 1808
+1 FAMS @F23@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Death Certificate of son Herman
+2 CONT    LDS Family History Library
+2 CONT    MF#
+2 CONT    No birth listed, only a name
+2 CONT 
+2 CONT ! - Pedigree Chart
+2 CONT    Compiled by Joyce Simdars Rantry (gt. granddaughter)
+2 CONT    Lists birth as 1808
+2 CONT 
+2 CONT *Supposedly came to America in 1868
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I122@ INDI
+1 NAME Lydia /Hahn/
+2 GIVN Lydia
+2 SURN Hahn
+1 SEX F
+1 BIRT
+2 DATE 13 NOV 1818
+2 PLAC Cove,Hagerstown,Washington Co.,Maryland
+1 DEAT
+2 DATE 25 JAN 1906
+2 PLAC Taylorsville,Indiana,Pennsylvania
+1 BURI
+2 DATE 27 JAN 1906
+2 PLAC Taylorsville,Indiana,Pennsylvania
+1 REFN 35
+1 BAPL
+2 DATE 25 SEP 1985
+2 TEMP IF
+1 ENDL
+2 DATE 12 OCT 1985
+2 TEMP IF
+1 FAMS @F20@
+1 FAMC @F76@
+1 NOTE !BIRTH/PLACE
+2 CONT  - "Tree Top Baby" by Susan Nunes
+2 CONT    Personal Copy
+2 CONT    Page 163 - 172
+2 CONT    Lists birth as 13 Nov 1818 in Cove, Washington, Maryland
+2 CONT 
+2 CONT ! - Tombstone
+2 CONT    Taylorsville Cemetery, Indiana County, Pennsylvania
+2 CONT    Personal Visit
+2 CONT    Lists birth as 13 Nov 1818
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - "Tree Top Baby" by Susan Nunes
+2 CONT    Personal Copy
+2 CONT    Page 163 - 172
+2 CONT    Lists death as 25 Jan 1906 in Green Twp., Indiana, Pennsylvania
+2 CONT 
+2 CONT ! - History of Indiana County, Pennsylvania
+2 CONT    LDS Family History Library
+2 CONT    974.899H2S, vol. 2, page 1245
+2 CONT    Lists death as 25 Jan 1906 in Taylorsville, Indiana, Pennsylvania
+2 CONT    (See Moorhead family)
+2 CONT 
+2 CONT !BURIAL/PLACE
+2 CONT  - Tombstone
+2 CONT    Taylorsville Cemetery, Indiana County, Pennsylvania
+2 CONT    Personal Visit
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I123@ INDI
+1 NAME Sarah Ann /Smith/
+2 GIVN Sarah Ann
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE 2 NOV 1805
+2 PLAC Ohio
+1 DEAT
+2 DATE BEF 1834
+2 PLAC Cincinnati,Hamilton,Ohio
+1 FAMS @F70@
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I124@ INDI
+1 NAME David /Dewitt/
+2 GIVN David
+2 SURN Dewitt
+1 SEX M
+1 BIRT
+2 DATE 9 JUN 1798
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 23 DEC 1865
+2 PLAC Mahaska County,Iowa
+1 FAMS @F50@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1850 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# ?, page 196
+2 CONT    Age listed as 55
+2 CONT 
+2 CONT information received from notes of Helen Perry, Dec'd a descendent of David.
+2 CONT David was listed as head of household on 1820 Wheeling, Guernsey Co Ohio Census  age 16-26; t
+2 CONC here was a female age 16-26 living with him Since he did not marry until 1824 it is assumed t
+2 CONC hat this was a sister, but as of now no marriage has been found for her.
+2 CONT Land Deeds -Guernsey Co OH, 24 Sep 1821, David DeWitt to Aaron Hedges, S.half
+2 CONT of NE quarter  of Section 19, Wheeling Twp 4, range 4; a  parcel & tract for
+2 CONT $200; John and Martha Porter wit.; signed by Paul DeWitt; Zachatius Beatty
+2 CONT Recorder of Guernsey Co OH.
+2 CONT 
+2 CONT Census (HPC): PG. 862 1850 Mahaska Co Iowa with 8 children; pg 863 State
+2 CONT  Tax list 5 males, 3 females; pg 864 George 30 & Rachel 26 Smith and 5
+2 CONT  children lived in David's home; pg 868 1860, White Oak, Mahaska, Iowa with
+2 CONT  7 children.
+2 CONT 
+2 CONT  1870 census: there is a Rachel DeWitt age 64 b. in Maryland and a Isabelle
+2 CONT   DeWitt age 45 b. Ohio living with  E. M. and Polly Peek in Madison,
+2 CONT   Mahaska, Iowa, (HPC, pg 872)
+2 CONT 
+2 CONT  History of David's son Allen Emory's family, compiled by Haron Loyd DeWitt
+2 CONT   Sr. and Faye Anita Flom Feste can be found: HPC., pgs 1028 to 1029.
+2 CONT I believe that Elnora and Martha were children of Son, Hiram who died 1859 as a widower. Se
+2 CONC e Hiram's notes.
+1 CHAN
+2 DATE 3 SEP 2000
+3 TIME 01:00:00
+0 @I125@ INDI
+1 NAME August /Simdars/
+2 GIVN August
+2 SURN Simdars
+1 SEX M
+1 BIRT
+2 DATE 1801
+2 PLAC Pumin Prov.,Prussia
+1 DEAT
+2 DATE 1868
+2 PLAC Germany
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 FAMS @F23@
+1 FAMC @F77@
+1 SLGC
+2 FAMC @F77@
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+1 NOTE !BIRTH/PLACE
+2 CONT  - Death Certificate of son Herman
+2 CONT   LDS Family History Library
+2 CONT   MF#
+2 CONT   No birth listed, only a name
+2 CONT 
+2 CONT ! - Pedigree Chart
+2 CONT    Compiled by Joyce Simdars Rantry (gt-grandaughter)
+2 CONT    Lists birth as 1801 in Prussia
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Pedigree Chart
+2 CONT    Compiled by Joyce Simdars Rantry (gt-grandaughter)
+2 CONT    Lists death as 1868 in Germany
+1 CHAN
+2 DATE 20 DEC 1999
+3 TIME 00:00:00
+0 @I126@ INDI
+1 NAME John /Zimdars/
+2 GIVN John
+2 SURN Zimdars
+1 SEX M
+1 BIRT
+2 DATE 1775
+2 PLAC Germany
+1 DEAT
+2 DATE 1868
+2 PLAC Germany
+1 BAPL
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+1 FAMS @F77@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Pedigree Chart
+2 CONT    Compiled by Joyce Simdars Rantry (gt. granddaughter)
+2 CONT    Lists birth as 1775 in Germany
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Pedigree Chart
+2 CONT    Compiled by Joyce Simdars Rantry (gt. granddaughter)
+2 CONT    Lists death as 1868 in Germany
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I127@ INDI
+1 NAME Rachel /Starner/
+2 GIVN Rachel
+2 SURN Starner
+1 SEX F
+1 BIRT
+2 DATE 5 FEB 1806
+2 PLAC Maryland
+1 DEAT
+2 DATE AFT 1870
+2 PLAC Mahaska County,Iowa
+1 BURI
+2 PLAC White Oak Cem.,Mahaska,Iowa
+1 FAMS @F50@
+1 FAMC @F78@
+1 NOTE !BIRTH/PLACE
+2 CONT  - 1850 Census Mahaska County, Iowa
+2 CONT    LDS Family History Library
+2 CONT    MF# ?, page 196
+2 CONT    Age listed as 50
+1 CHAN
+2 DATE 3 SEP 2000
+3 TIME 01:00:00
+0 @I128@ INDI
+1 NAME George Tabor /Marsh/
+2 GIVN George Tabor
+2 SURN Marsh
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1796
+2 PLAC Rahway,Essex,New Jersey
+1 DEAT
+2 DATE 3 OCT 1872
+2 PLAC Colerain Twp.,Hamilton,Ohio
+1 BURI
+2 DATE AFT 3 OCT 1872
+2 PLAC E. Miami River R,Colerain Twp.,Hamilton Co.,Ohio
+1 REFN 2692
+1 FAMS @F70@
+1 FAMC @F80@
+1 NOTE Line 13552 from GEDCOM File not recognizable or too long:
+2 CONT   CHAN
+2 CONT 
+2 CONT Line 13553 from GEDCOM File not recognizable or too long:
+2 CONT   CHAN DATE 21 MAR 1998
+2 CONT 
+2 CONT From Andrew Jackson Marsh's account of his ancestry for his son, Stanley Marsh
+2 CONT Your great-grandfather was born in or about Rahway in the year of 1797 [actually, December 18
+2 CONC , 1796].  He was the youngest of three children, Lotta B. Marsh, Elias Marsh, Elias Marsh an
+2 CONC d George T.
+2 CONT Marsh.  Their parents both died young and I think they were partially reared by their grandmo
+2 CONC ther.  He spoke of her as being a little woman, weighting about ninety pounds, that she onc
+2 CONC e told him that she went to school with Aaron Burr, that 'he was the prettiest black eyed bo
+2 CONC y in school, but was always a bad boy,'  the Burr episode is probably correct for as grandfat
+2 CONC her was born in 1797 the youngest of three children, his grandfather must have been fifty yea
+2 CONC rs of age at least at the time of his birth, which would carry it back to 1747.
+2 CONT The Revolutionary War began in 1775, and Burr was about twenty-one years of age at that time
+2 CONC .  Burr's father was a noted educator and was president of Princeton College during Aaron Bur
+2 CONC r's childhood.  Princeton is very close to Rahway, so the known facts appear to corroborate h
+2 CONC is grandmother's statement.
+2 CONT [ed.:  Aaron Burr (1756-1836) Cousin of Theodore Dwight; father-in-law of Joseph Alston. Bor
+2 CONC n in Newark, N.J., February 6, 1756. Member of New York state assembly, 1784; New York stat
+2 CONC e attorney general, 1789-90; U.S.  Senator from New York, 1791-97; Vice President of the Unit
+2 CONC ed States, 1801-05. Killed Alexander Hamilton in a duel, July 11, 1804. Tried for treason i
+2 CONC n in 1807 and acquitted. Died, after several strokes, at the Winants Hotel, Port Richmond, St
+2 CONC aten Island, N.Y., September 14, 1836. Interment at Princeton Cemetery.] I do not now recal
+2 CONC l his making any reference to his immediate parents or to any of his ancestors except his gra
+2 CONC ndmother, although he may have done so, I being quite a young man at the time and may have fo
+2 CONC rgotten it.  He did state, however, that some of the older ancestors were well to do financia
+2 CONC lly and of some prominence in the local history of the colony, one being a member of congres
+2 CONC s or some public position of that kind.  It may have been in the Revolutionary Congress.
+2 CONT Between the years of 1815 and 1820 grandfather, his brother and sister emigrated from New Jer
+2 CONC sey to Cincinnati, which was then a small struggling village.  It ws before the days of railr
+2 CONC oads, and almost before steamboats.  They came over the Alleghany mountains by wagon or stag
+2 CONC e to Pittsburg, Pennsylvania from there on a raft down the Ohio river to Cincinnati.  Lott
+2 CONC a  B. soon married a man named Smith and left descendents some of whom are still living in an
+2 CONC d around Cincinnati.
+2 CONT The two boys engaged in business of different kinds in the village as it was then.
+2 CONT Your great grandfather Marsh first married a lady Smith by whom he had three children, Locke
+2 CONC y Marsh, Daniel Marsh and your grandfather David Marsh.  When your great grandfather was abou
+2 CONC t forty years of age he being a widower, married a widow Hannah Hedges, a former sweetheart o
+2 CONC f his younger days, her maiden name being Hannah Johnson.  She was born and reared on the Joh
+2 CONC nson farm in the Miama river bottom about a mile and a half from Venice.  She was eight year
+2 CONC s younger than grandfather, being born in 1805.
+2 CONT She first married a man named Hedges and was left a widow with three chldren, all daughters
+2 CONC , her husband had considerable land and the homestead and about sixty acres was set off to he
+2 CONC r as dowry.
+2 CONT Grandfather married her, I should say about 1836, moved from the city with his three childre
+2 CONC n to her farm and lived there until he died about thirty-five years.  Why he moved from the c
+2 CONC ity, I do not know, as he was fairly well off financially and had a good business there.
+2 CONT Probably his wife didn't want to leave the country and the children being small the country b
+2 CONC eing the best place for them.
+2 CONT He had three children by the second marriage - Sarah Marsh, Andrew Marsh and George Marsh.  S
+2 CONC arah Marsh married a man named Gilliland, moved to Illinois, I think Bloomington.  Andrew Mar
+2 CONC sh went to Nashville, Indiana to learn the tannery trade with his half brother, Daniel Marsh
+2 CONC , when he was about nineteen years old.  While standing in the door of the shop during a thun
+2 CONC derstorm he was struck by lightning and instantly killed.  The youngest George Marsh, marrie
+2 CONC d a Miss Dick from Venice.  He was a farmer but was not a do-well.  He farmed around that nei
+2 CONC ghborhood three or four years, spent all the money grandfather gave him to start on and a tho
+2 CONC usand dollars of his mothers.  He had two children, emigrated to someplace in Tennessee.  H
+2 CONC e was not vicious or a bad man in any point of view, but seemed to be a poor manager. He fel
+2 CONC t rather above his station in life, wanted to be a gentleman farmer, which couldn't be doen i
+2 CONC n those days without more money than he was able to command.  I see I've but the cart befor
+2 CONC e the horse and have taken up the younger children first.  To go back to the older sett wit
+2 CONC h whom we are most directly interested in .  Lockey Marsh, the eldest came out as a child wit
+2 CONC h her father to the widow's homestead and lived there all her life.  She never married, she n
+2 CONC ever having the opportunity.  She was highly emotional and was one of the best women I ever k
+2 CONC new, generous to a fault and spent her life slaving in a way for the benefit of those aroun
+2 CONC d her her position of course, in the family was a very subordinate one and her range of activ
+2 CONC ities were very narrow.  Women in those days did not have the freedom that they have in these
+2 CONC , they were kept more in a state of subjection and suppression.
+2 CONT Daniel Marsh when he was grown moved to Nashville, Indiana, married and had a numerous family
+2 CONC , boys and girls.  He was rather intemperate in his habits like some of the rest of us, and w
+2 CONC hile he made a good deal of money for those times, he wasted a lot of it.
+2 CONT About 1876 he moved with his family to some place in the state of Washington and died a yea
+2 CONC r or two after he got there. No doubt you have a number of relative descendants from that fam
+2 CONC ily in that state.
+2 CONT The 1850 tax list for Hamilton County lists the household, thus: Colerain Township      Hous
+2 CONC e 190               Family 190 George Marsh      56    farmer            $4,50
+2 CONC 0                 N.Y.
+2 CONT Hannah Marsh     46 Ohio David Marsh        17    farmer Ohio Sarah Marsh        14   Ohio An
+2 CONC drew Marsh      11  Ohio George Marsh 6   Ohio
+2 CONT 
+2 CONT Line 13657 from GEDCOM File not recognizable or too long:
+2 CONT   BIRT SOUR @S49@
+2 CONT 
+2 CONT Line 13658 from GEDCOM File not recognizable or too long:
+2 CONT   BIRT SOUR PAGE p. 1.
+2 CONT 
+2 CONT Line 13659 from GEDCOM File not recognizable or too long:
+2 CONT   BIRT SOUR @S62@
+2 CONT 
+2 CONT Line 13663 from GEDCOM File not recognizable or too long:
+2 CONT   DEAT NOTE AJ Marsh said he lived with his grandfather between the ages of 11 and
+2 CONT 
+2 CONT Line 13664 from GEDCOM File not recognizable or too long:
+2 CONT   DEAT NOTE AJ Marsh said he lived with his grandfather between the ages of 11 and CONT 14
+2 CONC .  G.T. was elected justice of the peace in 1870.
+2 CONT 
+2 CONT Line 13665 from GEDCOM File not recognizable or too long:
+2 CONT   DEAT SOUR @S49@
+2 CONT 
+2 CONT Line 13666 from GEDCOM File not recognizable or too long:
+2 CONT   DEAT SOUR PAGE p. 2.
+2 CONT 
+2 CONT Line 13669 from GEDCOM File not recognizable or too long:
+2 CONT   BURI PLAC E. Miami River Rd. Cem., Colerain Twp., Hamilton Co., Ohio
+2 CONT 
+2 CONT Line 13670 from GEDCOM File not recognizable or too long:
+2 CONT   PROP $12,000 Real and $1050 personal in Coleraine Twp., Hamilton Co., Ohio
+2 CONT 
+2 CONT Line 13671 from GEDCOM File not recognizable or too long:
+2 CONT   PROP $12,000 Real and $1050 personal in Coleraine Twp., Hamilton Co., Ohio DATE 1860
+2 CONT 
+2 CONT Line 13672 from GEDCOM File not recognizable or too long:
+2 CONT   OCCU Justice of the Peace for Colerain Twp
+2 CONT 
+2 CONT Line 13673 from GEDCOM File not recognizable or too long:
+2 CONT   OCCU Justice of the Peace for Colerain Twp DATE BETWEEN 1865 AND 1870
+2 CONT 
+2 CONT Line 13674 from GEDCOM File not recognizable or too long:
+2 CONT   OCCU Justice of the Peace for Colerain Twp SOUR @S52@
+2 CONT 
+2 CONT Line 13675 from GEDCOM File not recognizable or too long:
+2 CONT   OCCU Justice of the Peace for Colerain Twp SOUR PAGE p. 258.
+2 CONT 
+2 CONT Line 37897 from GEDCOM File not recognizable or too long:
+2 CONT   MARR SOUR @S49@
+2 CONT 
+2 CONT Line 37898 from GEDCOM File not recognizable or too long:
+2 CONT   MARR SOUR PAGE p. 2.
+2 CONT 
+2 CONT Line 37899 from GEDCOM File not recognizable or too long:
+2 CONT   MARR SOUR @S62@
+2 CONT 
+2 CONT Line 39598 from GEDCOM File not recognizable or too long:
+2 CONT   MARR NOTE First child born April, 1836.
+2 CONT 
+2 CONT Line 39599 from GEDCOM File not recognizable or too long:
+2 CONT   MARR SOUR @S80@
+2 CONT 
+2 CONT Line 39600 from GEDCOM File not recognizable or too long:
+2 CONT   MARR SOUR PAGE p. 2.
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I132@ INDI
+1 NAME Daniel /South/
+2 GIVN Daniel
+2 SURN South
+1 SEX M
+1 BIRT
+2 DATE 1812
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 1857
+2 PLAC Ash Grove,Iroquois,Illinois
+1 FAMS @F27@
+1 NOTE !BIRTH/PLACE
+2 CONT  - Obituary of Rebecca Smith
+2 CONT    Asotin County Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists from New Albany, Floyd, Indiana
+2 CONT    (See McCormick Family)
+2 CONT 
+2 CONT ! - 1850 Census Floyd County, Indiana
+2 CONT    National Archives
+2 CONT    Roll 145
+2 CONT    Date: Age 38, Place: Pennsylvania
+2 CONT 
+2 CONT !MARRIAGE/PLACE
+2 CONT  - Obituary of Rebecca Smith
+2 CONT    Asotin County Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists marriage as 1840
+2 CONT    (See McCormick Family)
+2 CONT 
+2 CONT ! - Marriage Record
+2 CONT    Floyd County Courthouse
+2 CONT    page 74
+2 CONT    Marriage: 27 Sep 1840, Place: New Albany, Floyd, Indiana
+2 CONT 
+2 CONT !DEATH/PLACE
+2 CONT  - Obituary of Rebecca Smith
+2 CONT    Asotin County Newspaper
+2 CONT    Photocopy of original
+2 CONT    Lists death as 1857
+2 CONT    (See McCormick Family)
+2 CONT 
+2 CONT ! - 1860 Census Iroquois County, Ill.
+2 CONT    National Archives
+2 CONT    Roll #145
+2 CONT    Not listed in census, therefore died prior to 1860
+2 CONT 
+2 CONT ! - History of Iroquois County, Ill.
+2 CONT    DAR
+2 CONT    page 650
+2 CONT    Lists Daniel South alive in 1856.
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I134@ INDI
+1 NAME William /Tiller/
+2 GIVN William
+2 SURN Tiller
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1788
+2 PLAC South Carolina
+2 SOUR @S27@
+1 AFN CV8C-46
+1 FAMS @F65@
+1 NOTE ! - 1850 Census Mercer County, Virginia
+2 CONT    National Archives
+2 CONT    Roll #960
+2 CONT    Date: 1787, Place: South Carolina
+2 CONT 
+2 CONT ! - 1840 Census Mercer County, Virginia
+2 CONT    National Archives
+2 CONT    Roll #568
+2 CONT    Date: 1780-1790
+2 CONT 
+2 CONT ! - 1830 Census Giles County, Virginia
+2 CONT    National Archives
+2 CONT    Roll #190
+2 CONT    Date: 1780-1790
+2 CONT 
+2 CONT ! - Notes of Kenneth Nielson
+2 CONT    Date: 26 Apr 1788, Place: South Carolina
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I135@ INDI
+1 NAME Rebecca /Clay/
+2 GIVN Rebecca
+2 SURN Clay
+1 SEX F
+1 BIRT
+2 DATE 1790/1798
+2 PLAC Virginia
+2 SOUR @S28@
+1 DEAT
+2 DATE JUL 1851
+2 PLAC Mercer County,Virginia
+2 SOUR @S29@
+1 AFN CV8C-5C
+1 FAMS @F65@
+1 NOTE ! - Notes of Kenneth Nielson
+2 CONT    Date: 1790, Place: Virginia
+2 CONT    (See Tiller Family)
+2 CONT 
+2 CONT ! - Notes of Kenneth Nielson
+2 CONT    Date: Jul 1851, Place: Mercer County, Virginia
+2 CONT    (See Tiller Family)
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I136@ INDI
+1 NAME Elizabeth //
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1830
+2 PLAC Pennsylvania
+2 SOUR @S30@
+1 FAMS @F22@
+1 NOTE ! - 1870 Census Indiana County, Pennsylvania
+2 CONT    National Archives
+2 CONT    Roll 1350
+2 CONT    Date: age 40, Place: Pennsylvania
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I137@ INDI
+1 NAME Joseph /Everett/
+2 GIVN Joseph
+2 SURN Everett
+1 SEX M
+1 BIRT
+2 DATE 1822
+2 PLAC Pennsylvania
+2 SOUR @S31@
+1 FAMS @F22@
+1 NOTE ! - 1870 Census Indiana County, Pennsylvania
+2 CONT    National Archives
+2 CONT    Roll 1350
+2 CONT    Date: age 46, Place: Pennsylvania
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I138@ INDI
+1 NAME Jane /Beatty/
+2 GIVN Jane
+2 SURN Beatty
+1 SEX F
+1 BIRT
+2 DATE 1762
+2 SOUR @S32@
+1 FAMS @F82@
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I139@ INDI
+1 NAME Andrew /Ferrier/
+2 GIVN Andrew
+2 SURN Ferrier
+1 SEX M
+1 BIRT
+2 DATE 1760
+2 PLAC Scotland
+2 SOUR @S33@
+1 FAMS @F82@
+1 NOTE ! - History of Indiana County, Pennsylvania
+2 CONT    Library of Congress
+2 CONT    ?
+2 CONT    Date: ?, Place: Scotland
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I140@ INDI
+1 NAME Elizabeth /Ferrier/
+2 GIVN Elizabeth
+2 SURN Ferrier
+1 SEX F
+1 BIRT
+2 DATE 1788
+2 PLAC Indiana County,Pennsylvania
+2 SOUR @S34@
+1 DEAT
+2 SOUR @S23@
+1 BAPL
+2 DATE 20 JUL 1983
+2 TEMP JR
+1 ENDL
+2 DATE 7 SEP 1983
+2 TEMP JR
+1 FAMS @F42@
+1 FAMC @F82@
+1 SLGC
+2 FAMC @F82@
+2 DATE 8 SEP 1983
+2 TEMP JR
+1 NOTE ! - 1850 Census Indiana County, Pennsylvania
+2 CONT    National Archives
+2 CONT    Roll 785
+2 CONT    Date: age 62, Place: Pennsylvania
+1 CHAN
+2 DATE 25 AUG 1999
+3 TIME 01:00:00
+0 @I141@ INDI
+1 NAME Clarey /Hudspeth/
+2 GIVN Clarey
+2 SURN Hudspeth
+1 SEX F
+1 BIRT
+2 DATE 1760
+1 DEAT
+2 DATE BEF AUG 1833
+2 PLAC Harrison County,Kentucky
+1 AFN J5FB-34
+1 FAMS @F73@
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I142@ INDI
+1 NAME Sarah //
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 1798
+2 PLAC Virginia
+1 ENDL
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+1 FAMS @F47@
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I143@ INDI
+1 NAME John /Malone/
+2 GIVN John
+2 SURN Malone
+1 SEX M
+1 BIRT
+2 DATE 1796
+2 PLAC Virginia
+1 FAMS @F47@
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I144@ INDI
+1 NAME Daniel /Marsh/
+2 GIVN Daniel
+2 SURN Marsh
+2 NSFX Jr
+1 TITL Jr
+1 SEX M
+1 BIRT
+2 DATE 7 MAR 1771
+2 PLAC New York,New York
+1 DEAT
+2 DATE 20 FEB 1807
+2 PLAC Rahway,Essex,New Jersey
+1 BURI
+2 PLAC Presbyterian Chu,Rahway,Essex Co.,New Jersey
+1 REFN 6990
+1 FAMS @F80@
+1 NOTE Line 26013 from GEDCOM File not recognizable or too long:
+2 CONT   CHAN
+2 CONT 
+2 CONT Line 26014 from GEDCOM File not recognizable or too long:
+2 CONT   CHAN DATE 17 APR 1998
+2 CONT 
+2 CONT Line 26018 from GEDCOM File not recognizable or too long:
+2 CONT   BIRT SOUR @S109@
+2 CONT 
+2 CONT Line 26022 from GEDCOM File not recognizable or too long:
+2 CONT   DEAT SOUR @S109@
+2 CONT 
+2 CONT Line 26024 from GEDCOM File not recognizable or too long:
+2 CONT   BURI PLAC Presbyterian Churchyard, Rahway, Essex Co., New Jersey
+2 CONT 
+2 CONT Line 26025 from GEDCOM File not recognizable or too long:
+2 CONT   BURI NOTE Daniel Marsh, Jr., d. Feb 20, 1807 in 36 y.
+2 CONT 
+2 CONT Line 26026 from GEDCOM File not recognizable or too long:
+2 CONT   BURI SOUR @S109@
+2 CONT 
+2 CONT Line 26027 from GEDCOM File not recognizable or too long:
+2 CONT   BAPM
+2 CONT 
+2 CONT Line 26028 from GEDCOM File not recognizable or too long:
+2 CONT   BAPM DATE 22 MAY 1771
+2 CONT 
+2 CONT Line 26029 from GEDCOM File not recognizable or too long:
+2 CONT   BAPM PLAC 1st Presbyterian Church, New York, New York
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @I145@ INDI
+1 NAME Fanny /Morse/
+2 GIVN Fanny
+2 SURN Morse
+1 SEX F
+1 BIRT
+2 DATE 15 JUL 1776
+1 DEAT
+2 DATE 25 OCT 1854
+2 PLAC Colerain Twp.,Hamilton,Ohio
+1 FAMS @F80@
+1 CHAN
+2 DATE 12 DEC 1999
+3 TIME 00:00:00
+0 @F1@ FAM
+1 DIV Y
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 MARR
+2 DATE 22 JUN 1963
+2 PLAC Port Angles,Clallam,Washington
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I2@
+1 MARR
+2 DATE 2 JUL 1934
+2 PLAC Port Angles,Clallam,Washington
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F3@ FAM
+1 DIV Y
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I3@
+1 MARR
+2 DATE 25 JUL 1941
+2 PLAC Trout Lake,Klickitat,Washington
+0 @F4@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I4@
+1 MARR
+2 DATE 11 MAY 1890
+2 PLAC Indiana County,Pennsylvania
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I5@
+1 MARR
+2 DATE 23 FEB 1910
+2 PLAC Sequim,Clallam,Washington
+1 SLGS
+2 DATE 12 OCT 1985
+2 TEMP IF
+0 @F6@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 CHIL @I6@
+1 MARR
+2 DATE 4 OCT 1911
+2 PLAC Asotin,Asotin,Washington
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F7@ FAM
+0 @F8@ FAM
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I7@
+1 MARR
+2 DATE 31 DEC 1917
+2 PLAC Endicott,Whitman,Washington
+1 SLGS
+2 DATE 22 SEP 1994
+2 TEMP IFALL
+0 @F10@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 CHIL @I8@
+1 MARR
+2 DATE 11 DEC 1869
+2 PLAC Indiana County,Pennsylvania
+1 SLGS
+2 DATE 12 OCT 1985
+2 TEMP IF
+0 @F11@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I9@
+1 MARR
+2 DATE 1873/1874
+2 PLAC Indiana County,Pennsylvania
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F12@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I10@
+1 MARR
+2 DATE 6 MAY 1869
+2 PLAC Toledo,Lucas,Ohio
+1 SLGS
+2 DATE 16 JUN 1988
+2 TEMP LG
+0 @F13@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I11@
+1 MARR
+2 DATE 23 MAR 1884
+2 PLAC Witchita,Kansas
+1 SLGS
+2 DATE 13 DEC 1985
+2 TEMP IF
+0 @F14@ FAM
+1 HUSB @I24@
+1 WIFE @I25@
+1 CHIL @I12@
+1 MARR
+2 DATE 24 DEC 1874
+2 PLAC Sullivan County,Missouri
+1 SLGS
+2 DATE 22 FEB 1986
+2 TEMP LANGE
+0 @F16@ FAM
+1 HUSB @I26@
+1 WIFE @I27@
+1 CHIL @I13@
+1 MARR
+2 DATE 31 MAR 1869
+2 PLAC Plover,Portage,Wisconsin
+1 SLGS
+2 DATE 18 APR 1986
+2 TEMP IF
+0 @F17@ FAM
+1 HUSB @I38@
+1 WIFE @I39@
+1 CHIL @I14@
+1 MARR
+2 DATE 4 APR 1889
+2 PLAC Endicott,Whitman,Washington
+1 SLGS
+2 DATE 2 DEC 1986
+2 TEMP LA
+0 @F18@ FAM
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I15@
+1 MARR
+2 DATE 27 MAY 1896
+2 PLAC Walla Walla,Walla Walla,Washington
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F19@ FAM
+1 HUSB @I28@
+1 WIFE @I29@
+1 CHIL @I16@
+1 MARR
+2 DATE 14 SEP 1842
+2 PLAC Indiana County,Pennsylvania
+1 SLGS
+2 DATE 12 OCT 1985
+2 TEMP IF
+0 @F20@ FAM
+1 HUSB @I36@
+1 WIFE @I122@
+1 CHIL @I17@
+1 MARR
+2 DATE 15 AUG 1839
+2 PLAC Waynesboro,Franklin,Pennsylvania
+1 SLGS
+2 DATE 5 DEC 1977
+2 TEMP SL
+0 @F21@ FAM
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I18@
+1 MARR
+2 DATE ABT 1844
+2 PLAC Pennsylvania
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F22@ FAM
+1 HUSB @I137@
+1 WIFE @I136@
+1 CHIL @I19@
+0 @F23@ FAM
+1 HUSB @I125@
+1 WIFE @I121@
+1 CHIL @I20@
+0 @F24@ FAM
+1 HUSB @I69@
+1 WIFE @I70@
+1 CHIL @I22@
+1 MARR
+2 DATE 23 MAR 1843
+2 PLAC Montgomery Co.,Ohio
+1 SLGS
+2 DATE 13 DEC 1985
+2 TEMP IFALL
+0 @F25@ FAM
+1 HUSB @I77@
+1 WIFE @I80@
+1 CHIL @I23@
+1 MARR
+2 DATE 2 DEC 1858
+2 PLAC Mercer County,Virginia
+1 SLGS
+2 DATE 13 DEC 1985
+2 TEMP IF
+1 SOUR @S37@
+0 @F26@ FAM
+1 HUSB @I65@
+1 WIFE @I66@
+1 CHIL @I24@
+1 MARR
+2 DATE 25 MAR 1846
+2 PLAC Posey County,Indiana
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F27@ FAM
+1 HUSB @I132@
+1 WIFE @I64@
+1 CHIL @I25@
+1 MARR
+2 DATE 27 SEP 1840
+2 PLAC New Albany,Floyd,Indiana
+1 SOUR @S35@
+0 @F28@ FAM
+1 HUSB @I55@
+1 WIFE @I54@
+1 CHIL @I26@
+1 MARR
+2 DATE 10 JUL 1835
+2 PLAC Richibucto,Kent,New Brunswick,Canada
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F29@ FAM
+1 HUSB @I58@
+1 WIFE @I59@
+1 CHIL @I27@
+1 MARR
+2 DATE 20 MAR 1837
+2 PLAC Stevens Point,Wood,Wisconsin
+1 SLGS
+2 DATE 18 APR 1986
+2 TEMP IF
+0 @F30@ FAM
+1 HUSB @I30@
+1 WIFE @I31@
+1 CHIL @I28@
+1 MARR
+2 DATE 1816
+2 PLAC Indiana County,Pennsylvania
+1 SLGS
+2 DATE 12 OCT 1985
+2 TEMP IF
+0 @F31@ FAM
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I29@
+1 MARR
+2 DATE 23 DEC 1819
+2 PLAC Huntingdon Co.,Pennsylvania
+1 SLGS
+2 DATE 12 OCT 1985
+2 TEMP IF
+0 @F33@ FAM
+1 HUSB @I32@
+1 WIFE @I33@
+1 CHIL @I30@
+0 @F34@ FAM
+1 HUSB @I83@
+1 WIFE @I84@
+1 CHIL @I31@
+1 MARR
+2 DATE 1791
+2 PLAC Bedford County,Pennsylvania
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+0 @F36@ FAM
+1 HUSB @I44@
+1 WIFE @I109@
+1 CHIL @I36@
+0 @F38@ FAM
+1 HUSB @I86@
+1 WIFE @I45@
+1 CHIL @I38@
+1 MARR
+2 DATE 22 NOV 1853
+2 PLAC Nashville,Brown,Indiana
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F39@ FAM
+1 HUSB @I89@
+1 WIFE @I92@
+1 CHIL @I39@
+1 MARR
+2 DATE 11 JUL 1857
+2 PLAC Coles County,Illinois
+1 SLGS
+2 DATE 21 APR 1978
+2 TEMP OG
+0 @F40@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I40@
+1 MARR
+2 DATE 11 SEP 1865
+2 PLAC Louisville,Jefferson,Kentucky
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 20 DEC 1999
+0 @F41@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I41@
+1 MARR
+2 DATE 21 SEP 1873
+2 PLAC Walla Walla,Walla Walla,Washington Terr.
+0 @F42@ FAM
+1 HUSB @I112@
+1 WIFE @I140@
+1 CHIL @I43@
+0 @F43@ FAM
+1 HUSB @I118@
+1 WIFE @I119@
+1 CHIL @I44@
+1 MARR
+2 DATE 11 MAY 1761
+2 PLAC Philadelphia,Pennsylvania
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+0 @F44@ FAM
+1 HUSB @I87@
+1 WIFE @I88@
+1 CHIL @I45@
+0 @F45@ FAM
+1 HUSB @I48@
+1 WIFE @I49@
+1 CHIL @I46@
+0 @F46@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I47@
+1 MARR
+2 DATE 30 MAY 1857
+2 PLAC Mahaska County,Indiana
+1 SLGS
+2 DATE 6 JAN 1976
+2 TEMP LA
+0 @F47@ FAM
+1 HUSB @I143@
+1 WIFE @I142@
+1 CHIL @I48@
+1 MARR
+2 PLAC Scioto County,Ohio
+0 @F48@ FAM
+1 HUSB @I52@
+1 WIFE @I53@
+1 CHIL @I50@
+1 MARR
+2 DATE 18 MAY 1828
+2 PLAC New Orleans,Louisiana
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+0 @F49@ FAM
+1 HUSB @I110@
+1 WIFE @I111@
+1 CHIL @I56@
+0 @F50@ FAM
+1 HUSB @I124@
+1 WIFE @I127@
+1 CHIL @I57@
+1 MARR
+2 DATE 19 FEB 1824
+2 PLAC Ohio
+0 @F51@ FAM
+1 HUSB @I60@
+1 WIFE @I61@
+1 CHIL @I58@
+0 @F52@ FAM
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I59@
+1 MARR
+2 DATE 19 FEB 1804
+2 PLAC Plattsburg,Clinton,New York
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+0 @F53@ FAM
+1 HUSB @I90@
+1 WIFE @I91@
+1 CHIL @I60@
+1 MARR
+2 DATE 1 JUL 1756
+1 SLGS
+2 DATE 17 MAY 1954
+2 TEMP LG
+0 @F54@ FAM
+1 HUSB @I105@
+1 WIFE @I106@
+1 CHIL @I62@
+1 MARR
+2 DATE 1 JUL 1777
+2 PLAC Manchester,Bennington,Vermont
+1 SLGS
+2 DATE 19 MAR 1968
+2 TEMP SL
+0 @F56@ FAM
+1 HUSB @I114@
+1 WIFE @I113@
+1 CHIL @I64@
+0 @F58@ FAM
+1 HUSB @I67@
+1 WIFE @I68@
+1 CHIL @I65@
+1 MARR
+2 DATE 1787
+0 @F59@ FAM
+1 HUSB @I98@
+1 WIFE @I99@
+1 CHIL @I67@
+1 MARR
+2 DATE 1763
+2 PLAC South Carolina
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+0 @F60@ FAM
+1 HUSB @I73@
+1 WIFE @I74@
+1 CHIL @I69@
+1 MARR
+2 DATE 25 APR 1806
+2 PLAC Shenandoah Co.,Virginia
+1 SLGS
+2 DATE 13 DEC 1985
+2 TEMP IF
+0 @F61@ FAM
+1 HUSB @I71@
+1 WIFE @I72@
+1 CHIL @I70@
+0 @F63@ FAM
+1 HUSB @I102@
+1 WIFE @I103@
+1 CHIL @I73@
+0 @F64@ FAM
+1 HUSB @I75@
+1 WIFE @I76@
+1 CHIL @I77@
+1 MARR
+2 DATE 26 APR 1831
+2 PLAC Giles County,Virginia
+1 SLGS
+2 DATE 13 DEC 1985
+2 TEMP IF
+1 SOUR @S36@
+0 @F65@ FAM
+1 HUSB @I134@
+1 WIFE @I135@
+1 CHIL @I75@
+1 MARR
+2 DATE 1808
+2 PLAC Virginia
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+0 @F66@ FAM
+1 HUSB @I100@
+1 WIFE @I101@
+1 CHIL @I76@
+0 @F68@ FAM
+1 HUSB @I78@
+1 WIFE @I79@
+1 CHIL @I80@
+0 @F70@ FAM
+1 HUSB @I128@
+1 WIFE @I123@
+1 CHIL @I86@
+1 MARR
+2 DATE 11 OCT 1825
+2 PLAC Cincinnati,Hamilton,Ohio
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+0 @F71@ FAM
+1 HUSB @I94@
+1 WIFE @I95@
+1 CHIL @I89@
+1 MARR
+2 DATE 31 JUL 1820
+2 PLAC Harrison County,Kentucky
+1 SLGS
+2 DATE 20 APR 1978
+2 TEMP OK
+0 @F72@ FAM
+1 HUSB @I96@
+1 WIFE @I97@
+1 CHIL @I92@
+1 MARR
+2 DATE 1827
+2 PLAC Delaware
+1 SLGS
+2 STAT SUBMITTED
+3 DATE 12 DEC 1999
+0 @F73@ FAM
+1 HUSB @I104@
+1 WIFE @I141@
+1 CHIL @I94@
+1 MARR
+2 DATE 18 JAN 1785
+2 PLAC Surrey County,North Carolina
+1 SLGS
+2 DATE 28 MAR 1981
+2 TEMP OG
+0 @F76@ FAM
+1 HUSB @I117@
+1 WIFE @I116@
+1 CHIL @I122@
+0 @F77@ FAM
+1 HUSB @I126@
+1 CHIL @I125@
+0 @F78@ FAM
+1 CHIL @I127@
+0 @F80@ FAM
+1 HUSB @I144@
+1 WIFE @I145@
+1 CHIL @I128@
+1 MARR
+2 DATE BEF 1794
+0 @F82@ FAM
+1 HUSB @I139@
+1 WIFE @I138@
+1 CHIL @I140@
+0 @S1@ SOUR
+1 TITL Death Certificate
+1 PUBL Pennsylvania Department of Health
+1 ABBR Death Certificate
+1 CALN 0567673
+1 _ITALIC Y
+1 _PAREN Y
+0 @S2@ SOUR
+1 TITL Place: Mooreville, Tama, Iowa     (See Rhodefer Family)
+1 AUTH - Notes compiled by Larry Bruseau     Photocopy of originals     Date: 22 Dec 1872
+1 ABBR Place: Mooreville, Tama, Iowa     (See Rhodefer Family)
+0 @S3@ SOUR
+1 TITL Place: Sequim, Clallam, Washington     (See Rhodefer Family)
+1 AUTH - Notes compiled by Larry Bruseau     Photocopy of originals     Date: 12 Feb 1948
+1 ABBR Place: Sequim, Clallam, Washington     (See Rhodefer Family)
+0 @S4@ SOUR
+1 TITL Sequim, Washington     (See Rhodefer Family)
+1 AUTH - Tombstone     Sequim View Cemetery     Personal visit     Place: Sequim View Cemt.
+1 ABBR Sequim, Washington     (See Rhodefer Family)
+0 @S6@ SOUR
+1 TITL Asotin, Washington
+1 AUTH - Recollections of Chester P. Downen     In possesion of Dorothy Neylon (daughter)     Photoc
+2 CONC oy of originals     Lists
+1 ABBR Asotin, Washington
+0 @S7@ SOUR
+1 TITL - Notes compiled by Larry Bruseua     Photocopies of original     Date
+1 ABBR - Notes compiled by Larry Bruseua     Photocopies of original     Date
+1 NOTE 16 Dec 1810
+0 @S8@ SOUR
+1 TITL Place: Black Hawk Co, Iowa
+1 AUTH - Notes of Kenneth Nielson    Date: 2 May 1885
+1 ABBR Place: Black Hawk Co, Iowa
+0 @S9@ SOUR
+1 TITL Place: Hill Cemetery, Tama, Iowa
+1 AUTH - Notes of Kenneth Nielson    Date: ?
+1 ABBR Place: Hill Cemetery, Tama, Iowa
+0 @S10@ SOUR
+1 TITL - Notes compiled by Larry Bruseua     Photocopies of original     Date: 6 Jul 1813     (See T
+2 CONC iller Family)
+1 ABBR - Notes compiled by Larry Bruseua     Photocopies of original     Date: 6 Jul 1813     (See Tiller Family)
+0 @S11@ SOUR
+1 TITL Place: Mercer County, Virginia     (See Tiller Family)
+1 AUTH - Notes compiled by Larry Bruseua     Photocopies of original     Date: 28 Mar 1887
+1 ABBR Place: Mercer County, Virginia     (See Tiller Family)
+0 @S12@ SOUR
+1 TITL Mercer County     (See Tiller Family)
+1 AUTH - Notes compiled by Larry Bruseua     Photocopies of original     Place: Princeton-Oakvale Ro
+2 CONC ad
+1 ABBR Mercer County     (See Tiller Family)
+0 @S13@ SOUR
+1 TITL Place: Mercer County, Virginia
+1 AUTH - Notes compiled by Larry Bruseua     Photocopies of original     Date: 5 Apr 1839
+1 ABBR Place: Mercer County, Virginia
+0 @S14@ SOUR
+1 TITL Place: Sequim, Washington
+1 AUTH - Death Record     Washington State Bur. of Vital Stats     Rec. #91     Date: 23 Jan 1917
+1 ABBR Place: Sequim, Washington
+0 @S15@ SOUR
+1 TITL Place: Sequim View Cemetery, Sequim, Washington
+1 AUTH - Death Record     Washington State Bur. of Vital Stats     Rec. #91     Date: 25 Jan 1917
+1 ABBR Place: Sequim View Cemetery, Sequim, Washington
+0 @S16@ SOUR
+1 TITL West Virginia Courthouse     Reg 1, page 5     Date: 1840, Place: Tazewell County, Virgini
+2 CONC a     (See Tiller Family)
+1 AUTH - Marriage Record     Mercer County
+1 ABBR West Virginia Courthouse     Reg 1, page 5     Date: 1840, Place: Tazewell County, Virginia     (See Tiller Family)
+0 @S17@ SOUR
+1 TITL Place: Tama County, Iowa
+1 AUTH - Notes compiled by Larry Brusuea     Photocopies of originals     Date: 14 May 1875
+1 ABBR Place: Tama County, Iowa
+0 @S18@ SOUR
+1 TITL Geneseo Township, Tama County, Iowa
+1 AUTH - Notes compiled by Larry Brusuea     Photocopies of originals     Place: Hill Cemetery
+1 ABBR Geneseo Township, Tama County, Iowa
+0 @S22@ SOUR
+1 TITL Place:
+1 AUTH - Ancenstral File     LDS Family History Library     AFN:4BPD-CJ     Date: 1786
+1 ABBR Place:
+0 @S23@ SOUR
+1 TITL Pennsylvania    National Archives    Roll #1116    Not listed, therefore died before 1860
+1 AUTH - 1860 Census Indiana County
+1 ABBR Pennsylvania    National Archives    Roll #1116    Not listed, therefore died before 1860
+0 @S27@ SOUR
+1 TITL Virginia     National Archives     Roll #1362     Date: 1800?, Place: Virginia
+1 AUTH - 1860 Census Mercer County
+1 ABBR Virginia     National Archives     Roll #1362     Date: 1800?, Place: Virginia
+0 @S28@ SOUR
+1 TITL Virginia     National Archives     Roll #960     Date: 1790, Place: Virginia     (See Tille
+2 CONC r Family)
+1 AUTH - 1850 Census Mercer County
+1 ABBR Virginia     National Archives     Roll #960     Date: 1790, Place: Virginia     (See Tiller Family)
+0 @S29@ SOUR
+1 TITL Virginia     National Archives     Roll #1362     Date: Not listed with husband in 1860, assu
+2 CONC me died after 1850     (See
+1 AUTH - 1860 Census Mercer County
+1 ABBR Virginia     National Archives     Roll #1362     Date: Not listed with husband in 1860, assume died after 1850     (See 
+0 @S30@ SOUR
+1 TITL Pennsylvania     National Archives     Roll 1116     Date: age 30, Place: Pennsylvania
+1 AUTH - 1860 Census Indiana County
+1 ABBR Pennsylvania     National Archives     Roll 1116     Date: age 30, Place: Pennsylvania
+0 @S31@ SOUR
+1 TITL Pennsylvania    National Archives    Roll 1116    Date: age 38, Place: Pennsylvania
+1 AUTH - 1860 Census Indiana County
+1 ABBR Pennsylvania    National Archives    Roll 1116    Date: age 38, Place: Pennsylvania
+0 @S32@ SOUR
+1 TITL - Ancestral File     LDS Family History Library     AFN:4BPD-5H     Date: 1762
+1 ABBR - Ancestral File     LDS Family History Library     AFN:4BPD-5H     Date: 1762
+0 @S33@ SOUR
+1 TITL - Ancestral File     LDS Family History Library     AFN:4BPD-4B     Date: 1760
+1 ABBR - Ancestral File     LDS Family History Library     AFN:4BPD-4B     Date: 1760
+0 @S34@ SOUR
+1 TITL Place: Indiana County, Pennsylvania
+1 AUTH - Ancenstral File     LDS Family History Library     AFN:4BPD-CJ     Date: 1788
+1 ABBR Place: Indiana County, Pennsylvania
+0 @S35@ SOUR
+1 TITL Floyd, Indiana to Daniel South     2) 1867 to George Smith
+1 AUTH ! - Obituary     Asotion County Newspaper     Photocopy of original     1) 1840 New Albany
+1 ABBR Floyd, Indiana to Daniel South     2) 1867 to George Smith
+0 @S36@ SOUR
+1 TITL Spouse: Priscilla Perdue
+1 AUTH - Notes compiled by Larry Bruseua     Photocopies of original     Date: 28 May 1831 or 26 Ap
+2 CONC r 1831
+1 ABBR Spouse: Priscilla Perdue
+0 @S37@ SOUR
+1 TITL - Notes compiled by Larry Bruseua     Photocopies of original     Spouse: (1) Levisa Brown (2
+2 CONC ) Louisa Talbot
+1 ABBR - Notes compiled by Larry Bruseua     Photocopies of original     Spouse: (1) Levisa Brown (2) Louisa Talbot
+0 TRLR

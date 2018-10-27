@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jonmichaelossola/Desktop/Code Assignments/Stack/infix.h
+
+/Users/jonmichaelossola/Desktop/Code Assignments/Stack/stack.h
+iostream
+-
+
+/Users/jonmichaelossola/Desktop/Code Assignments/Stack/week02.cpp
+iostream
+-
+string
+-
+stack.h
+/Users/jonmichaelossola/Desktop/Code Assignments/Stack/stack.h
+infix.h
+/Users/jonmichaelossola/Desktop/Code Assignments/Stack/infix.h
+

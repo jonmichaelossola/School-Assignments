@@ -1,0 +1,7 @@
+Test a newline character <#>
+A period has a space after. It does not have a space before <#>
+The <{> double quotes <}> and <[> single quotes <]> have spacing issues <#>
+There is only one space after the period . <{> And before <}> the quote <#>
+<[> If there is a period in quotes , there is no space after . <]> OK <#>
+If there is a period or such at the end of a line, no space ! <#>
+<{> One space <}> <{> between neighborning quotes ! <}> <#>

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/deque.h
+cassert
+-
+iostream
+-
+
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/nowServing.cpp
+iostream
+-
+string
+-
+cassert
+-
+nowServing.h
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/nowServing.h
+deque.h
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/deque.h
+
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/nowServing.h
+deque.h
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/deque.h
+
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/week04.cpp
+iostream
+-
+string
+-
+cassert
+-
+deque.h
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/deque.h
+nowServing.h
+/Users/jonmichaelossola/Desktop/Code Assignments/week4.dequeue/nowServing.h
+
