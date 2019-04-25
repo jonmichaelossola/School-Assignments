@@ -50,58 +50,27 @@ std::ostream & operator << (std::ostream & out, WholeNumber &pHead)
 WholeNumber & WholeNumber :: operator += (WholeNumber & rhs) throw (const char *)
 {
 	int carry = 0;
-	int newNumber = 0;
+	const int noLargerThanMe = 1000;
 	List <int> newNum;
 
-	if (rhs.number.empty())
-	{
-		// we need to throw this if this is out of wack.
-		throw "Cannot add anything from an empty list bozo!!";
-	}
-	else
-	{
-		// we are going to iterate through both this and rhs at the same time.
-		ListIterator <int> itRHS = rhs.number.begin(); 
+	ListIterator <int> itRHS = rhs.number.begin();
+	ListIterator <int> it = this->number.begin();
 
-		// this is where it gets REEALLL hairy.
-	   for (ListIterator <int> it = this->number.begin(); 
-	   	it != this->number.end() || itRHS != rhs.number.end(); it++, itRHS++)
-	   {
-	   	  if (it != this->number.end() && itRHS != rhs.number.end())
-	   	  {
-	   	    if (*it + *itRHS + carry >= 1000)
-	   	    {
-	   	    	// this deals with numbers greater than one thousand.
-	   	    	newNumber = -1000 + *it + *itRHS + carry;
-	   	 	    newNum.push_back(newNumber);
-	   	 	    carry = 1;
-	   	 	    // if both nodes are null and we still have carry over, push back a one.
-	   	 	    // then set carry over to zero again.
-	   	 	    if (carry == 1 && it.isNextNull() == true 
-	   	 	    	&& itRHS.isNextNull() == true)
-	   	 	    {
-	   	 	    	newNum.push_back(1);
-	   	 	   	    carry = 0;
-	   	 	    }
-	   	    }
-	   	    else  
-	   	    {
-	   	    	newNumber = *it + *itRHS + carry;
-	   	 	    newNum.push_back(newNumber);
-	   	 	    carry = 0;
-	   	    }
-	      }
-	   	  else if (it == this->number.end())
-	   	  {
-	   	  	// however much bigger rhs is, push those numbers onto new number.
-	   	  	while (itRHS != rhs.number.end())
-	   	  	{
-	   	  		newNum.push_back(*itRHS + carry);
-	   	  		++itRHS;
-	   	  		carry = 0;
-	   	  	}
-	   	  }
-	   }
+	while (itRHS != rhs.number.end()
+		|| it != this->number.end()) {
+
+		// if either side has reached the end of the list, set it to zero
+		// while the other one is not equal to zero.
+		int rightSide = itRHS == rhs.number.end() ? 0 : *itRHS;
+		int leftSide = it == this->number.end() ? 0 : *it;
+
+		// we use modulo because the result can only be stored in three nums
+		newNum.push_back((rightSide + leftSide + carry) % noLargerThanMe);
+		carry = (rightSide + leftSide + carry) / noLargerThanMe;
+		
+		// if our iterators have not reached end of lists, increment them.
+		if (it == this->number.end()) { it++; }
+		if (itRHS == rhs.number.end()) { itRHS++; }
 	}
 
 	this->number = newNum;
